@@ -1,56 +1,51 @@
+import pandas as pd
+import itertools
 import random
 
+# Load and clean the data
+adv_stats_file = "data/2324_AdvStats.csv"
+ratings_file = "data/2324_Ratings.csv"
+
+adv_stats = pd.read_csv(adv_stats_file, skiprows=1)
+ratings = pd.read_csv(ratings_file, skiprows=1)
+
+# Merge the datasets and handle overlapping columns
+data = pd.merge(adv_stats, ratings, on="School", how="inner", suffixes=("_adv", "_rating"))
+
+# Select relevant columns explicitly
+data = data[["School", "Pace", "ORtg_adv", "DRtg", "SOS_rating", "ORB%", "TOV%"]]
+data.rename(columns={"ORtg_adv": "ORtg", "SOS_rating": "SOS"}, inplace=True)
+
+# Convert ORB% and TOV% to decimal format
+data["ORB%"] = data["ORB%"] / 100
+data["TOV%"] = data["TOV%"] / 100
+
 def simulate_game(team1, team2, is_tournament_game=False):
-    """
-    Simulates a single game between two teams using advanced stats directly from Sports-Reference.
-    """
-    # Average possessions between the two teams
     average_possessions = (team1["Pace"] + team2["Pace"]) / 2
-
-    # Use lower variance for tournament games to reflect tighter play
-    std_dev = 8 if is_tournament_game else 10
-
-    # Adjust Offensive Ratings based on possession factors and SOS
+    std_dev = 8
     team1_adjusted_ORtg = team1["ORtg"] * (1 + (team1["ORB%"] - team2["TOV%"])) + team1["SOS"]
     team2_adjusted_ORtg = team2["ORtg"] * (1 + (team2["ORB%"] - team1["TOV%"])) + team2["SOS"]
-
-    # Simulate scores
     team1_score = sum(random.gauss(team1_adjusted_ORtg - team2["DRtg"], std_dev) for _ in range(int(average_possessions)))
     team2_score = sum(random.gauss(team2_adjusted_ORtg - team1["DRtg"], std_dev) for _ in range(int(average_possessions)))
-
     return team1_score > team2_score
 
 def monte_carlo_simulation(team1, team2, num_simulations=10000):
-    """
-    Runs a Monte Carlo simulation to calculate win percentages for two teams.
-    """
     team1_wins = sum(simulate_game(team1, team2) for _ in range(num_simulations))
     team2_wins = num_simulations - team1_wins
+    """
+    if team1_wins > team2_wins:
+        print(team1["School"] + " over " + team2["School"] + ": "+str(round(team1_wins / num_simulations * 100,2))+"% Likely")
+    else:
+        print(team2["School"] + " over " + team1["School"] + ": "+str(round(team2_wins / num_simulations * 100,2))+"% Likely")
+    """
     return {
+        "Team1": team1["School"],
+        "Team2": team2["School"],
         "Team1_Win_Percentage": team1_wins / num_simulations * 100,
         "Team2_Win_Percentage": team2_wins / num_simulations * 100
     }
 
-# Example team stats directly from Sports-Reference
-team1_stats = {
-    "ORtg": 112.3,    # Offensive Rating (points per 100 possessions)
-    "DRtg": 95.4,     # Defensive Rating (points allowed per 100 possessions)
-    "Pace": 70.2,     # Possessions per game
-    "SOS": 2.3,       # Strength of Schedule
-    "ORB%": 0.315,    # Offensive Rebound Percentage (already a decimal)
-    "TOV%": 0.156     # Turnover Percentage (already a decimal)
-}
-
-team2_stats = {
-    "ORtg": 108.5,
-    "DRtg": 97.1,
-    "Pace": 72.3,
-    "SOS": 1.8,
-    "ORB%": 0.289,
-    "TOV%": 0.167
-}
-
-# Run the simulation
-results = monte_carlo_simulation(team1_stats, team2_stats)
-print(f"Team 1 Win Percentage: {results['Team1_Win_Percentage']:.2f}%")
-print(f"Team 2 Win Percentage: {results['Team2_Win_Percentage']:.2f}%")
+team_combinations = itertools.combinations(data.to_dict("records"), 2)
+results = [monte_carlo_simulation(team1, team2) for team1, team2 in team_combinations]
+results_df = pd.DataFrame(results)
+results_df.to_csv("data/simulation_results.csv", index=False)
