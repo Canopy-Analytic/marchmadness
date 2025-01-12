@@ -5,56 +5,56 @@ Akron,Auburn,0.0,100.0
 Akron,Baylor,0.0,100.0
 Akron,Boise State,0.0,100.0
 Akron,Brigham Young,0.0,100.0
-Akron,Clemson,0.0,100.0
+Akron,Clemson,0.01,99.99
 Akron,Colgate,100.0,0.0
 Akron,College of Charleston,0.0,100.0
 Akron,Colorado,0.0,100.0
-Akron,Colorado State,62.8,37.2
+Akron,Colorado State,61.68,38.32
 Akron,Connecticut,0.0,100.0
 Akron,Creighton,0.0,100.0
-Akron,Dayton,0.3,99.7
-Akron,Drake,98.9,1.0999999999999943
+Akron,Dayton,0.08,99.92
+Akron,Drake,98.99,1.0100000000000051
 Akron,Duke,0.0,100.0
-Akron,Duquesne,95.8,4.200000000000003
+Akron,Duquesne,96.88,3.1200000000000045
 Akron,Florida,0.0,100.0
 Akron,Florida Atlantic,0.0,100.0
 Akron,Gonzaga,0.0,100.0
-Akron,Grambling,99.5,0.5
+Akron,Grambling,99.91,0.09000000000000341
 Akron,Grand Canyon,0.0,100.0
-Akron,Houston,31.900000000000002,68.1
+Akron,Houston,34.21,65.78999999999999
 Akron,Howard,0.0,100.0
 Akron,Illinois,0.0,100.0
 Akron,Iowa State,100.0,0.0
-Akron,James Madison,0.0,100.0
-Akron,Kansas,98.6,1.4000000000000057
+Akron,James Madison,0.32,99.68
+Akron,Kansas,98.53,1.4699999999999989
 Akron,Kentucky,0.0,100.0
-Akron,Long Beach State,0.3,99.7
+Akron,Long Beach State,0.26,99.74
 Akron,Longwood,0.0,100.0
-Akron,Marquette,63.4,36.6
+Akron,Marquette,65.49000000000001,34.50999999999999
 Akron,McNeese State,0.0,100.0
-Akron,Michigan State,76.2,23.799999999999997
+Akron,Michigan State,78.05,21.950000000000003
 Akron,Mississippi State,0.0,100.0
 Akron,Montana State,100.0,0.0
 Akron,Morehead State,0.0,100.0
-Akron,NC State,42.1,57.9
-Akron,Nebraska,24.2,75.8
-Akron,Nevada,44.3,55.7
-Akron,New Mexico,12.9,87.1
+Akron,NC State,42.83,57.17
+Akron,Nebraska,22.439999999999998,77.56
+Akron,Nevada,48.620000000000005,51.379999999999995
+Akron,New Mexico,12.21,87.78999999999999
 Akron,North Carolina,0.0,100.0
-Akron,Northwestern,43.6,56.4
-Akron,Oakland,0.0,100.0
-Akron,Oregon,0.8,99.2
+Akron,Northwestern,43.72,56.28
+Akron,Oakland,0.06,99.94
+Akron,Oregon,0.6799999999999999,99.32
 Akron,Purdue,0.0,100.0
 Akron,Saint Mary's (CA),0.0,100.0
 Akron,Saint Peter's,100.0,0.0
 Akron,Samford,0.0,100.0
-Akron,San Diego State,4.3,95.7
+Akron,San Diego State,4.84,95.16
 Akron,South Carolina,0.0,100.0
-Akron,South Dakota State,75.9,24.099999999999994
+Akron,South Dakota State,78.13,21.870000000000005
 Akron,Stetson,0.0,100.0
 Akron,TCU,0.0,100.0
-Akron,Tennessee,34.2,65.8
-Akron,Texas,0.6,99.4
+Akron,Tennessee,34.4,65.6
+Akron,Texas,0.8099999999999999,99.19
 Akron,Texas A&M,0.0,100.0
 Akron,Texas Tech,0.0,100.0
 Akron,UAB,0.0,100.0
@@ -62,13 +62,13 @@ Akron,Utah State,0.0,100.0
 Akron,Vermont,100.0,0.0
 Akron,Virginia,100.0,0.0
 Akron,Wagner,100.0,0.0
-Akron,Washington State,0.1,99.9
+Akron,Washington State,0.04,99.96
 Akron,Western Kentucky,100.0,0.0
 Akron,Wisconsin,0.0,100.0
-Akron,Yale,45.300000000000004,54.699999999999996
+Akron,Yale,48.870000000000005,51.129999999999995
 Alabama,Arizona,100.0,0.0
 Alabama,Auburn,100.0,0.0
-Alabama,Baylor,99.6,0.4000000000000057
+Alabama,Baylor,99.48,0.519999999999996
 Alabama,Boise State,100.0,0.0
 Alabama,Brigham Young,100.0,0.0
 Alabama,Clemson,100.0,0.0
@@ -110,7 +110,7 @@ Alabama,North Carolina,100.0,0.0
 Alabama,Northwestern,100.0,0.0
 Alabama,Oakland,100.0,0.0
 Alabama,Oregon,100.0,0.0
-Alabama,Purdue,100.0,0.0
+Alabama,Purdue,99.98,0.01999999999999602
 Alabama,Saint Mary's (CA),100.0,0.0
 Alabama,Saint Peter's,100.0,0.0
 Alabama,Samford,100.0,0.0
@@ -132,41 +132,41 @@ Alabama,Washington State,100.0,0.0
 Alabama,Western Kentucky,100.0,0.0
 Alabama,Wisconsin,100.0,0.0
 Alabama,Yale,100.0,0.0
-Arizona,Auburn,100.0,0.0
+Arizona,Auburn,99.91,0.09000000000000341
 Arizona,Baylor,0.0,100.0
-Arizona,Boise State,99.3,0.7000000000000028
-Arizona,Brigham Young,78.3,21.700000000000003
+Arizona,Boise State,99.22,0.7800000000000011
+Arizona,Brigham Young,76.03999999999999,23.960000000000008
 Arizona,Clemson,100.0,0.0
 Arizona,Colgate,100.0,0.0
-Arizona,College of Charleston,97.8,2.200000000000003
-Arizona,Colorado,25.8,74.2
+Arizona,College of Charleston,97.00999999999999,2.990000000000009
+Arizona,Colorado,24.13,75.87
 Arizona,Colorado State,100.0,0.0
 Arizona,Connecticut,0.0,100.0
 Arizona,Creighton,100.0,0.0
 Arizona,Dayton,100.0,0.0
 Arizona,Drake,100.0,0.0
-Arizona,Duke,98.1,1.9000000000000057
+Arizona,Duke,98.56,1.4399999999999977
 Arizona,Duquesne,100.0,0.0
 Arizona,Florida,0.0,100.0
-Arizona,Florida Atlantic,3.5999999999999996,96.4
-Arizona,Gonzaga,0.1,99.9
+Arizona,Florida Atlantic,4.21,95.79
+Arizona,Gonzaga,0.13,99.87
 Arizona,Grambling,100.0,0.0
 Arizona,Grand Canyon,100.0,0.0
 Arizona,Houston,100.0,0.0
-Arizona,Howard,34.2,65.8
+Arizona,Howard,33.97,66.03
 Arizona,Illinois,0.0,100.0
 Arizona,Iowa State,100.0,0.0
 Arizona,James Madison,100.0,0.0
 Arizona,Kansas,100.0,0.0
-Arizona,Kentucky,8.3,91.7
+Arizona,Kentucky,7.829999999999999,92.17
 Arizona,Long Beach State,100.0,0.0
-Arizona,Longwood,96.7,3.299999999999997
+Arizona,Longwood,96.55,3.450000000000003
 Arizona,Marquette,100.0,0.0
 Arizona,McNeese State,100.0,0.0
 Arizona,Michigan State,100.0,0.0
 Arizona,Mississippi State,100.0,0.0
 Arizona,Montana State,100.0,0.0
-Arizona,Morehead State,96.2,3.799999999999997
+Arizona,Morehead State,95.75,4.25
 Arizona,NC State,100.0,0.0
 Arizona,Nebraska,100.0,0.0
 Arizona,Nevada,100.0,0.0
@@ -176,90 +176,90 @@ Arizona,Northwestern,100.0,0.0
 Arizona,Oakland,100.0,0.0
 Arizona,Oregon,100.0,0.0
 Arizona,Purdue,0.0,100.0
-Arizona,Saint Mary's (CA),97.7,2.299999999999997
+Arizona,Saint Mary's (CA),97.99,2.010000000000005
 Arizona,Saint Peter's,100.0,0.0
-Arizona,Samford,98.6,1.4000000000000057
+Arizona,Samford,98.7,1.2999999999999972
 Arizona,San Diego State,100.0,0.0
 Arizona,South Carolina,100.0,0.0
 Arizona,South Dakota State,100.0,0.0
-Arizona,Stetson,19.0,81.0
-Arizona,TCU,93.89999999999999,6.1000000000000085
+Arizona,Stetson,18.86,81.14
+Arizona,TCU,94.39,5.609999999999999
 Arizona,Tennessee,100.0,0.0
 Arizona,Texas,100.0,0.0
 Arizona,Texas A&M,0.0,100.0
-Arizona,Texas Tech,99.9,0.09999999999999432
-Arizona,UAB,0.8999999999999999,99.1
+Arizona,Texas Tech,99.92999999999999,0.07000000000000739
+Arizona,UAB,0.73,99.27
 Arizona,Utah State,100.0,0.0
 Arizona,Vermont,100.0,0.0
 Arizona,Virginia,100.0,0.0
 Arizona,Wagner,100.0,0.0
 Arizona,Washington State,100.0,0.0
 Arizona,Western Kentucky,100.0,0.0
-Arizona,Wisconsin,99.1,0.9000000000000057
+Arizona,Wisconsin,99.61,0.39000000000000057
 Arizona,Yale,100.0,0.0
 Auburn,Baylor,0.0,100.0
-Auburn,Boise State,24.4,75.6
-Auburn,Brigham Young,1.0999999999999999,98.9
-Auburn,Clemson,99.6,0.4000000000000057
+Auburn,Boise State,23.82,76.18
+Auburn,Brigham Young,0.79,99.21
+Auburn,Clemson,99.0,1.0
 Auburn,Colgate,100.0,0.0
-Auburn,College of Charleston,11.3,88.7
+Auburn,College of Charleston,10.6,89.4
 Auburn,Colorado,0.0,100.0
 Auburn,Colorado State,100.0,0.0
 Auburn,Connecticut,0.0,100.0
-Auburn,Creighton,95.6,4.400000000000006
-Auburn,Dayton,99.6,0.4000000000000057
+Auburn,Creighton,96.72,3.280000000000001
+Auburn,Dayton,99.59,0.4099999999999966
 Auburn,Drake,100.0,0.0
-Auburn,Duke,15.6,84.4
+Auburn,Duke,16.73,83.27
 Auburn,Duquesne,100.0,0.0
 Auburn,Florida,0.0,100.0
 Auburn,Florida Atlantic,0.0,100.0
 Auburn,Gonzaga,0.0,100.0
 Auburn,Grambling,100.0,0.0
-Auburn,Grand Canyon,99.0,1.0
+Auburn,Grand Canyon,98.79,1.2099999999999937
 Auburn,Houston,100.0,0.0
-Auburn,Howard,0.1,99.9
+Auburn,Howard,0.04,99.96
 Auburn,Illinois,0.0,100.0
 Auburn,Iowa State,100.0,0.0
 Auburn,James Madison,100.0,0.0
 Auburn,Kansas,100.0,0.0
 Auburn,Kentucky,0.0,100.0
-Auburn,Long Beach State,99.8,0.20000000000000284
-Auburn,Longwood,9.4,90.6
+Auburn,Long Beach State,99.92999999999999,0.07000000000000739
+Auburn,Longwood,10.36,89.64
 Auburn,Marquette,100.0,0.0
-Auburn,McNeese State,72.39999999999999,27.60000000000001
+Auburn,McNeese State,71.06,28.939999999999998
 Auburn,Michigan State,100.0,0.0
-Auburn,Mississippi State,79.3,20.700000000000003
+Auburn,Mississippi State,78.2,21.799999999999997
 Auburn,Montana State,100.0,0.0
-Auburn,Morehead State,8.7,91.3
+Auburn,Morehead State,8.73,91.27
 Auburn,NC State,100.0,0.0
 Auburn,Nebraska,100.0,0.0
 Auburn,Nevada,100.0,0.0
 Auburn,New Mexico,100.0,0.0
-Auburn,North Carolina,87.2,12.799999999999997
+Auburn,North Carolina,87.47,12.530000000000001
 Auburn,Northwestern,100.0,0.0
-Auburn,Oakland,99.9,0.09999999999999432
+Auburn,Oakland,99.44,0.5600000000000023
 Auburn,Oregon,100.0,0.0
 Auburn,Purdue,0.0,100.0
-Auburn,Saint Mary's (CA),16.8,83.2
+Auburn,Saint Mary's (CA),14.23,85.77
 Auburn,Saint Peter's,100.0,0.0
-Auburn,Samford,16.7,83.3
+Auburn,Samford,17.0,83.0
 Auburn,San Diego State,100.0,0.0
-Auburn,South Carolina,81.69999999999999,18.30000000000001
+Auburn,South Carolina,83.58,16.42
 Auburn,South Dakota State,100.0,0.0
 Auburn,Stetson,0.0,100.0
-Auburn,TCU,5.8999999999999995,94.1
+Auburn,TCU,6.1,93.9
 Auburn,Tennessee,100.0,0.0
 Auburn,Texas,100.0,0.0
 Auburn,Texas A&M,0.0,100.0
-Auburn,Texas Tech,51.6,48.4
+Auburn,Texas Tech,51.27,48.73
 Auburn,UAB,0.0,100.0
-Auburn,Utah State,94.69999999999999,5.300000000000011
+Auburn,Utah State,95.58,4.420000000000002
 Auburn,Vermont,100.0,0.0
 Auburn,Virginia,100.0,0.0
 Auburn,Wagner,100.0,0.0
-Auburn,Washington State,99.5,0.5
+Auburn,Washington State,99.72999999999999,0.27000000000001023
 Auburn,Western Kentucky,100.0,0.0
-Auburn,Wisconsin,31.1,68.9
+Auburn,Wisconsin,30.39,69.61
 Auburn,Yale,100.0,0.0
 Baylor,Boise State,100.0,0.0
 Baylor,Brigham Young,100.0,0.0
@@ -274,14 +274,14 @@ Baylor,Dayton,100.0,0.0
 Baylor,Drake,100.0,0.0
 Baylor,Duke,100.0,0.0
 Baylor,Duquesne,100.0,0.0
-Baylor,Florida,99.6,0.4000000000000057
+Baylor,Florida,99.78,0.21999999999999886
 Baylor,Florida Atlantic,100.0,0.0
 Baylor,Gonzaga,100.0,0.0
 Baylor,Grambling,100.0,0.0
 Baylor,Grand Canyon,100.0,0.0
 Baylor,Houston,100.0,0.0
 Baylor,Howard,100.0,0.0
-Baylor,Illinois,99.8,0.20000000000000284
+Baylor,Illinois,99.82,0.18000000000000682
 Baylor,Iowa State,100.0,0.0
 Baylor,James Madison,100.0,0.0
 Baylor,Kansas,100.0,0.0
@@ -302,7 +302,7 @@ Baylor,North Carolina,100.0,0.0
 Baylor,Northwestern,100.0,0.0
 Baylor,Oakland,100.0,0.0
 Baylor,Oregon,100.0,0.0
-Baylor,Purdue,88.7,11.299999999999997
+Baylor,Purdue,89.2,10.799999999999997
 Baylor,Saint Mary's (CA),100.0,0.0
 Baylor,Saint Peter's,100.0,0.0
 Baylor,Samford,100.0,0.0
@@ -324,189 +324,189 @@ Baylor,Washington State,100.0,0.0
 Baylor,Western Kentucky,100.0,0.0
 Baylor,Wisconsin,100.0,0.0
 Baylor,Yale,100.0,0.0
-Boise State,Brigham Young,3.4000000000000004,96.6
-Boise State,Clemson,99.9,0.09999999999999432
+Boise State,Brigham Young,4.279999999999999,95.72
+Boise State,Clemson,99.87,0.12999999999999545
 Boise State,Colgate,100.0,0.0
-Boise State,College of Charleston,28.999999999999996,71.0
-Boise State,Colorado,0.3,99.7
+Boise State,College of Charleston,28.42,71.58
+Boise State,Colorado,0.12,99.88
 Boise State,Colorado State,100.0,0.0
 Boise State,Connecticut,0.0,100.0
-Boise State,Creighton,99.0,1.0
-Boise State,Dayton,100.0,0.0
+Boise State,Creighton,99.27,0.730000000000004
+Boise State,Dayton,99.95,0.04999999999999716
 Boise State,Drake,100.0,0.0
-Boise State,Duke,38.9,61.1
+Boise State,Duke,39.160000000000004,60.839999999999996
 Boise State,Duquesne,100.0,0.0
 Boise State,Florida,0.0,100.0
 Boise State,Florida Atlantic,0.0,100.0
 Boise State,Gonzaga,0.0,100.0
 Boise State,Grambling,100.0,0.0
-Boise State,Grand Canyon,99.8,0.20000000000000284
+Boise State,Grand Canyon,99.88,0.12000000000000455
 Boise State,Houston,100.0,0.0
-Boise State,Howard,0.4,99.6
+Boise State,Howard,0.37,99.63
 Boise State,Illinois,0.0,100.0
 Boise State,Iowa State,100.0,0.0
 Boise State,James Madison,100.0,0.0
 Boise State,Kansas,100.0,0.0
-Boise State,Kentucky,0.0,100.0
+Boise State,Kentucky,0.01,99.99
 Boise State,Long Beach State,100.0,0.0
-Boise State,Longwood,29.2,70.8
+Boise State,Longwood,28.87,71.13
 Boise State,Marquette,100.0,0.0
-Boise State,McNeese State,88.1,11.900000000000006
+Boise State,McNeese State,88.89,11.11
 Boise State,Michigan State,100.0,0.0
-Boise State,Mississippi State,94.19999999999999,5.800000000000011
+Boise State,Mississippi State,93.46,6.540000000000006
 Boise State,Montana State,100.0,0.0
-Boise State,Morehead State,29.599999999999998,70.4
+Boise State,Morehead State,27.54,72.46000000000001
 Boise State,NC State,100.0,0.0
 Boise State,Nebraska,100.0,0.0
 Boise State,Nevada,100.0,0.0
 Boise State,New Mexico,100.0,0.0
-Boise State,North Carolina,96.2,3.799999999999997
+Boise State,North Carolina,96.23,3.769999999999996
 Boise State,Northwestern,100.0,0.0
-Boise State,Oakland,99.8,0.20000000000000284
+Boise State,Oakland,99.95,0.04999999999999716
 Boise State,Oregon,100.0,0.0
 Boise State,Purdue,0.0,100.0
-Boise State,Saint Mary's (CA),37.7,62.3
+Boise State,Saint Mary's (CA),36.39,63.61
 Boise State,Saint Peter's,100.0,0.0
-Boise State,Samford,43.3,56.7
+Boise State,Samford,42.85,57.15
 Boise State,San Diego State,100.0,0.0
-Boise State,South Carolina,94.89999999999999,5.1000000000000085
+Boise State,South Carolina,94.15,5.849999999999994
 Boise State,South Dakota State,100.0,0.0
-Boise State,Stetson,0.1,99.9
-Boise State,TCU,21.099999999999998,78.9
+Boise State,Stetson,0.09,99.91
+Boise State,TCU,20.74,79.26
 Boise State,Tennessee,100.0,0.0
 Boise State,Texas,100.0,0.0
 Boise State,Texas A&M,0.0,100.0
-Boise State,Texas Tech,77.9,22.099999999999994
+Boise State,Texas Tech,76.0,24.0
 Boise State,UAB,0.0,100.0
-Boise State,Utah State,99.2,0.7999999999999972
+Boise State,Utah State,99.07000000000001,0.9299999999999926
 Boise State,Vermont,100.0,0.0
 Boise State,Virginia,100.0,0.0
 Boise State,Wagner,100.0,0.0
-Boise State,Washington State,100.0,0.0
+Boise State,Washington State,99.98,0.01999999999999602
 Boise State,Western Kentucky,100.0,0.0
-Boise State,Wisconsin,57.099999999999994,42.900000000000006
+Boise State,Wisconsin,56.04,43.96
 Boise State,Yale,100.0,0.0
 Brigham Young,Clemson,100.0,0.0
 Brigham Young,Colgate,100.0,0.0
-Brigham Young,College of Charleston,87.9,12.099999999999994
-Brigham Young,Colorado,10.100000000000001,89.9
+Brigham Young,College of Charleston,88.21,11.790000000000006
+Brigham Young,Colorado,8.73,91.27
 Brigham Young,Colorado State,100.0,0.0
 Brigham Young,Connecticut,0.0,100.0
 Brigham Young,Creighton,100.0,0.0
 Brigham Young,Dayton,100.0,0.0
 Brigham Young,Drake,100.0,0.0
-Brigham Young,Duke,92.30000000000001,7.699999999999989
+Brigham Young,Duke,92.63,7.3700000000000045
 Brigham Young,Duquesne,100.0,0.0
 Brigham Young,Florida,0.0,100.0
-Brigham Young,Florida Atlantic,0.5,99.5
-Brigham Young,Gonzaga,0.1,99.9
+Brigham Young,Florida Atlantic,0.8,99.2
+Brigham Young,Gonzaga,0.01,99.99
 Brigham Young,Grambling,100.0,0.0
 Brigham Young,Grand Canyon,100.0,0.0
 Brigham Young,Houston,100.0,0.0
-Brigham Young,Howard,15.9,84.1
+Brigham Young,Howard,14.510000000000002,85.49
 Brigham Young,Illinois,0.0,100.0
 Brigham Young,Iowa State,100.0,0.0
 Brigham Young,James Madison,100.0,0.0
 Brigham Young,Kansas,100.0,0.0
-Brigham Young,Kentucky,1.0,99.0
+Brigham Young,Kentucky,1.6,98.4
 Brigham Young,Long Beach State,100.0,0.0
-Brigham Young,Longwood,86.1,13.900000000000006
+Brigham Young,Longwood,86.9,13.099999999999994
 Brigham Young,Marquette,100.0,0.0
-Brigham Young,McNeese State,99.7,0.29999999999999716
+Brigham Young,McNeese State,99.85000000000001,0.14999999999999147
 Brigham Young,Michigan State,100.0,0.0
-Brigham Young,Mississippi State,100.0,0.0
+Brigham Young,Mississippi State,99.96000000000001,0.03999999999999204
 Brigham Young,Montana State,100.0,0.0
-Brigham Young,Morehead State,83.89999999999999,16.10000000000001
+Brigham Young,Morehead State,85.39999999999999,14.600000000000009
 Brigham Young,NC State,100.0,0.0
 Brigham Young,Nebraska,100.0,0.0
 Brigham Young,Nevada,100.0,0.0
 Brigham Young,New Mexico,100.0,0.0
-Brigham Young,North Carolina,100.0,0.0
+Brigham Young,North Carolina,99.96000000000001,0.03999999999999204
 Brigham Young,Northwestern,100.0,0.0
 Brigham Young,Oakland,100.0,0.0
 Brigham Young,Oregon,100.0,0.0
 Brigham Young,Purdue,0.0,100.0
-Brigham Young,Saint Mary's (CA),90.8,9.200000000000003
+Brigham Young,Saint Mary's (CA),90.7,9.299999999999997
 Brigham Young,Saint Peter's,100.0,0.0
-Brigham Young,Samford,92.4,7.599999999999994
+Brigham Young,Samford,93.75,6.25
 Brigham Young,San Diego State,100.0,0.0
-Brigham Young,South Carolina,99.9,0.09999999999999432
+Brigham Young,South Carolina,99.97,0.030000000000001137
 Brigham Young,South Dakota State,100.0,0.0
-Brigham Young,Stetson,5.800000000000001,94.2
-Brigham Young,TCU,81.39999999999999,18.60000000000001
+Brigham Young,Stetson,5.609999999999999,94.39
+Brigham Young,TCU,81.74,18.260000000000005
 Brigham Young,Tennessee,100.0,0.0
 Brigham Young,Texas,100.0,0.0
 Brigham Young,Texas A&M,0.0,100.0
-Brigham Young,Texas Tech,99.6,0.4000000000000057
-Brigham Young,UAB,0.0,100.0
-Brigham Young,Utah State,99.9,0.09999999999999432
+Brigham Young,Texas Tech,99.1,0.9000000000000057
+Brigham Young,UAB,0.16,99.84
+Brigham Young,Utah State,99.99,0.010000000000005116
 Brigham Young,Vermont,100.0,0.0
 Brigham Young,Virginia,100.0,0.0
 Brigham Young,Wagner,100.0,0.0
 Brigham Young,Washington State,100.0,0.0
 Brigham Young,Western Kentucky,100.0,0.0
-Brigham Young,Wisconsin,97.1,2.9000000000000057
+Brigham Young,Wisconsin,97.36,2.6400000000000006
 Brigham Young,Yale,100.0,0.0
 Clemson,Colgate,100.0,0.0
 Clemson,College of Charleston,0.0,100.0
 Clemson,Colorado,0.0,100.0
 Clemson,Colorado State,100.0,0.0
 Clemson,Connecticut,0.0,100.0
-Clemson,Creighton,32.6,67.4
-Clemson,Dayton,64.5,35.5
+Clemson,Creighton,31.840000000000003,68.16
+Clemson,Dayton,65.16,34.84
 Clemson,Drake,100.0,0.0
-Clemson,Duke,0.0,100.0
+Clemson,Duke,0.06,99.94
 Clemson,Duquesne,100.0,0.0
 Clemson,Florida,0.0,100.0
 Clemson,Florida Atlantic,0.0,100.0
 Clemson,Gonzaga,0.0,100.0
 Clemson,Grambling,100.0,0.0
-Clemson,Grand Canyon,50.8,49.2
-Clemson,Houston,100.0,0.0
+Clemson,Grand Canyon,52.17,47.83
+Clemson,Houston,99.97,0.030000000000001137
 Clemson,Howard,0.0,100.0
 Clemson,Illinois,0.0,100.0
 Clemson,Iowa State,100.0,0.0
-Clemson,James Madison,89.3,10.700000000000003
+Clemson,James Madison,85.61999999999999,14.38000000000001
 Clemson,Kansas,100.0,0.0
 Clemson,Kentucky,0.0,100.0
-Clemson,Long Beach State,83.3,16.700000000000003
-Clemson,Longwood,0.0,100.0
+Clemson,Long Beach State,83.55,16.450000000000003
+Clemson,Longwood,0.01,99.99
 Clemson,Marquette,100.0,0.0
-Clemson,McNeese State,5.2,94.8
+Clemson,McNeese State,4.2700000000000005,95.73
 Clemson,Michigan State,100.0,0.0
-Clemson,Mississippi State,7.199999999999999,92.8
+Clemson,Mississippi State,8.14,91.86
 Clemson,Montana State,100.0,0.0
 Clemson,Morehead State,0.0,100.0
-Clemson,NC State,100.0,0.0
-Clemson,Nebraska,100.0,0.0
-Clemson,Nevada,99.9,0.09999999999999432
-Clemson,New Mexico,99.5,0.5
-Clemson,North Carolina,11.5,88.5
-Clemson,Northwestern,100.0,0.0
-Clemson,Oakland,63.5,36.5
-Clemson,Oregon,91.60000000000001,8.399999999999991
+Clemson,NC State,99.98,0.01999999999999602
+Clemson,Nebraska,99.9,0.09999999999999432
+Clemson,Nevada,99.99,0.010000000000005116
+Clemson,New Mexico,99.64,0.35999999999999943
+Clemson,North Carolina,11.82,88.18
+Clemson,Northwestern,99.98,0.01999999999999602
+Clemson,Oakland,63.68000000000001,36.31999999999999
+Clemson,Oregon,91.62,8.379999999999995
 Clemson,Purdue,0.0,100.0
-Clemson,Saint Mary's (CA),0.2,99.8
+Clemson,Saint Mary's (CA),0.09,99.91
 Clemson,Saint Peter's,100.0,0.0
-Clemson,Samford,0.1,99.9
-Clemson,San Diego State,98.1,1.9000000000000057
-Clemson,South Carolina,10.0,90.0
+Clemson,Samford,0.08,99.92
+Clemson,San Diego State,98.14,1.8599999999999994
+Clemson,South Carolina,10.48,89.52
 Clemson,South Dakota State,100.0,0.0
 Clemson,Stetson,0.0,100.0
 Clemson,TCU,0.0,100.0
-Clemson,Tennessee,99.9,0.09999999999999432
-Clemson,Texas,90.0,10.0
+Clemson,Tennessee,99.97,0.030000000000001137
+Clemson,Texas,90.07,9.930000000000007
 Clemson,Texas A&M,0.0,100.0
-Clemson,Texas Tech,1.5,98.5
+Clemson,Texas Tech,1.48,98.52
 Clemson,UAB,0.0,100.0
-Clemson,Utah State,28.199999999999996,71.80000000000001
+Clemson,Utah State,28.610000000000003,71.39
 Clemson,Vermont,100.0,0.0
 Clemson,Virginia,100.0,0.0
 Clemson,Wagner,100.0,0.0
-Clemson,Washington State,68.0,32.0
+Clemson,Washington State,69.58,30.42
 Clemson,Western Kentucky,100.0,0.0
-Clemson,Wisconsin,0.5,99.5
-Clemson,Yale,100.0,0.0
+Clemson,Wisconsin,0.38,99.62
+Clemson,Yale,99.98,0.01999999999999602
 Colgate,College of Charleston,0.0,100.0
 Colgate,Colorado,0.0,100.0
 Colgate,Colorado State,0.0,100.0
@@ -524,7 +524,7 @@ Colgate,Grand Canyon,0.0,100.0
 Colgate,Houston,0.0,100.0
 Colgate,Howard,0.0,100.0
 Colgate,Illinois,0.0,100.0
-Colgate,Iowa State,0.1,99.9
+Colgate,Iowa State,0.0,100.0
 Colgate,James Madison,0.0,100.0
 Colgate,Kansas,0.0,100.0
 Colgate,Kentucky,0.0,100.0
@@ -534,7 +534,7 @@ Colgate,Marquette,0.0,100.0
 Colgate,McNeese State,0.0,100.0
 Colgate,Michigan State,0.0,100.0
 Colgate,Mississippi State,0.0,100.0
-Colgate,Montana State,7.199999999999999,92.8
+Colgate,Montana State,7.249999999999999,92.75
 Colgate,Morehead State,0.0,100.0
 Colgate,NC State,0.0,100.0
 Colgate,Nebraska,0.0,100.0
@@ -546,7 +546,7 @@ Colgate,Oakland,0.0,100.0
 Colgate,Oregon,0.0,100.0
 Colgate,Purdue,0.0,100.0
 Colgate,Saint Mary's (CA),0.0,100.0
-Colgate,Saint Peter's,27.0,73.0
+Colgate,Saint Peter's,28.82,71.18
 Colgate,Samford,0.0,100.0
 Colgate,San Diego State,0.0,100.0
 Colgate,South Carolina,0.0,100.0
@@ -559,98 +559,98 @@ Colgate,Texas A&M,0.0,100.0
 Colgate,Texas Tech,0.0,100.0
 Colgate,UAB,0.0,100.0
 Colgate,Utah State,0.0,100.0
-Colgate,Vermont,96.8,3.200000000000003
+Colgate,Vermont,97.21,2.7900000000000063
 Colgate,Virginia,100.0,0.0
-Colgate,Wagner,92.10000000000001,7.8999999999999915
+Colgate,Wagner,90.62,9.379999999999995
 Colgate,Washington State,0.0,100.0
 Colgate,Western Kentucky,0.0,100.0
 Colgate,Wisconsin,0.0,100.0
 Colgate,Yale,0.0,100.0
-College of Charleston,Colorado,0.6,99.4
+College of Charleston,Colorado,0.48,99.52
 College of Charleston,Colorado State,100.0,0.0
 College of Charleston,Connecticut,0.0,100.0
-College of Charleston,Creighton,100.0,0.0
+College of Charleston,Creighton,99.79,0.20999999999999375
 College of Charleston,Dayton,100.0,0.0
 College of Charleston,Drake,100.0,0.0
-College of Charleston,Duke,61.1,38.9
+College of Charleston,Duke,59.599999999999994,40.400000000000006
 College of Charleston,Duquesne,100.0,0.0
 College of Charleston,Florida,0.0,100.0
-College of Charleston,Florida Atlantic,0.0,100.0
+College of Charleston,Florida Atlantic,0.02,99.98
 College of Charleston,Gonzaga,0.0,100.0
 College of Charleston,Grambling,100.0,0.0
-College of Charleston,Grand Canyon,100.0,0.0
+College of Charleston,Grand Canyon,99.99,0.010000000000005116
 College of Charleston,Houston,100.0,0.0
-College of Charleston,Howard,2.0,98.0
+College of Charleston,Howard,1.69,98.31
 College of Charleston,Illinois,0.0,100.0
 College of Charleston,Iowa State,100.0,0.0
 College of Charleston,James Madison,100.0,0.0
 College of Charleston,Kansas,100.0,0.0
-College of Charleston,Kentucky,0.0,100.0
+College of Charleston,Kentucky,0.06999999999999999,99.93
 College of Charleston,Long Beach State,100.0,0.0
-College of Charleston,Longwood,52.6,47.4
+College of Charleston,Longwood,50.27,49.73
 College of Charleston,Marquette,100.0,0.0
-College of Charleston,McNeese State,96.7,3.299999999999997
+College of Charleston,McNeese State,95.59,4.409999999999997
 College of Charleston,Michigan State,100.0,0.0
-College of Charleston,Mississippi State,98.0,2.0
+College of Charleston,Mississippi State,98.36,1.6400000000000006
 College of Charleston,Montana State,100.0,0.0
-College of Charleston,Morehead State,46.7,53.3
+College of Charleston,Morehead State,46.06,53.94
 College of Charleston,NC State,100.0,0.0
 College of Charleston,Nebraska,100.0,0.0
 College of Charleston,Nevada,100.0,0.0
 College of Charleston,New Mexico,100.0,0.0
-College of Charleston,North Carolina,99.3,0.7000000000000028
+College of Charleston,North Carolina,99.13,0.8700000000000045
 College of Charleston,Northwestern,100.0,0.0
-College of Charleston,Oakland,100.0,0.0
+College of Charleston,Oakland,99.99,0.010000000000005116
 College of Charleston,Oregon,100.0,0.0
 College of Charleston,Purdue,0.0,100.0
-College of Charleston,Saint Mary's (CA),58.3,41.7
+College of Charleston,Saint Mary's (CA),56.56,43.44
 College of Charleston,Saint Peter's,100.0,0.0
-College of Charleston,Samford,64.1,35.900000000000006
+College of Charleston,Samford,63.54,36.46
 College of Charleston,San Diego State,100.0,0.0
-College of Charleston,South Carolina,98.4,1.5999999999999943
+College of Charleston,South Carolina,98.74000000000001,1.259999999999991
 College of Charleston,South Dakota State,100.0,0.0
-College of Charleston,Stetson,0.3,99.7
-College of Charleston,TCU,43.8,56.2
+College of Charleston,Stetson,0.27,99.73
+College of Charleston,TCU,40.47,59.53
 College of Charleston,Tennessee,100.0,0.0
 College of Charleston,Texas,100.0,0.0
 College of Charleston,Texas A&M,0.0,100.0
-College of Charleston,Texas Tech,91.0,9.0
+College of Charleston,Texas Tech,90.41,9.590000000000003
 College of Charleston,UAB,0.0,100.0
-College of Charleston,Utah State,99.6,0.4000000000000057
+College of Charleston,Utah State,99.87,0.12999999999999545
 College of Charleston,Vermont,100.0,0.0
 College of Charleston,Virginia,100.0,0.0
 College of Charleston,Wagner,100.0,0.0
 College of Charleston,Washington State,100.0,0.0
 College of Charleston,Western Kentucky,100.0,0.0
-College of Charleston,Wisconsin,74.6,25.400000000000006
+College of Charleston,Wisconsin,77.68,22.319999999999993
 College of Charleston,Yale,100.0,0.0
 Colorado,Colorado State,100.0,0.0
 Colorado,Connecticut,0.0,100.0
 Colorado,Creighton,100.0,0.0
 Colorado,Dayton,100.0,0.0
 Colorado,Drake,100.0,0.0
-Colorado,Duke,99.6,0.4000000000000057
+Colorado,Duke,99.82,0.18000000000000682
 Colorado,Duquesne,100.0,0.0
 Colorado,Florida,0.0,100.0
-Colorado,Florida Atlantic,13.3,86.7
-Colorado,Gonzaga,1.0999999999999999,98.9
+Colorado,Florida Atlantic,15.459999999999999,84.54
+Colorado,Gonzaga,1.13,98.87
 Colorado,Grambling,100.0,0.0
 Colorado,Grand Canyon,100.0,0.0
 Colorado,Houston,100.0,0.0
-Colorado,Howard,58.199999999999996,41.800000000000004
+Colorado,Howard,58.95,41.05
 Colorado,Illinois,0.0,100.0
 Colorado,Iowa State,100.0,0.0
 Colorado,James Madison,100.0,0.0
 Colorado,Kansas,100.0,0.0
-Colorado,Kentucky,23.599999999999998,76.4
+Colorado,Kentucky,24.349999999999998,75.65
 Colorado,Long Beach State,100.0,0.0
-Colorado,Longwood,99.3,0.7000000000000028
+Colorado,Longwood,99.09,0.9099999999999966
 Colorado,Marquette,100.0,0.0
 Colorado,McNeese State,100.0,0.0
 Colorado,Michigan State,100.0,0.0
 Colorado,Mississippi State,100.0,0.0
 Colorado,Montana State,100.0,0.0
-Colorado,Morehead State,99.0,1.0
+Colorado,Morehead State,99.03,0.9699999999999989
 Colorado,NC State,100.0,0.0
 Colorado,Nebraska,100.0,0.0
 Colorado,Nevada,100.0,0.0
@@ -660,72 +660,72 @@ Colorado,Northwestern,100.0,0.0
 Colorado,Oakland,100.0,0.0
 Colorado,Oregon,100.0,0.0
 Colorado,Purdue,0.0,100.0
-Colorado,Saint Mary's (CA),99.6,0.4000000000000057
+Colorado,Saint Mary's (CA),99.55000000000001,0.44999999999998863
 Colorado,Saint Peter's,100.0,0.0
-Colorado,Samford,99.7,0.29999999999999716
+Colorado,Samford,99.76,0.23999999999999488
 Colorado,San Diego State,100.0,0.0
 Colorado,South Carolina,100.0,0.0
 Colorado,South Dakota State,100.0,0.0
-Colorado,Stetson,39.4,60.6
-Colorado,TCU,98.4,1.5999999999999943
+Colorado,Stetson,39.95,60.05
+Colorado,TCU,98.53,1.4699999999999989
 Colorado,Tennessee,100.0,0.0
 Colorado,Texas,100.0,0.0
-Colorado,Texas A&M,0.0,100.0
+Colorado,Texas A&M,0.01,99.99
 Colorado,Texas Tech,100.0,0.0
-Colorado,UAB,3.2,96.8
+Colorado,UAB,4.46,95.54
 Colorado,Utah State,100.0,0.0
 Colorado,Vermont,100.0,0.0
 Colorado,Virginia,100.0,0.0
 Colorado,Wagner,100.0,0.0
 Colorado,Washington State,100.0,0.0
 Colorado,Western Kentucky,100.0,0.0
-Colorado,Wisconsin,100.0,0.0
+Colorado,Wisconsin,99.92,0.0799999999999983
 Colorado,Yale,100.0,0.0
 Colorado State,Connecticut,0.0,100.0
 Colorado State,Creighton,0.0,100.0
-Colorado State,Dayton,0.1,99.9
-Colorado State,Drake,97.3,2.700000000000003
+Colorado State,Dayton,0.01,99.99
+Colorado State,Drake,97.42,2.5799999999999983
 Colorado State,Duke,0.0,100.0
-Colorado State,Duquesne,92.4,7.599999999999994
+Colorado State,Duquesne,93.47,6.530000000000001
 Colorado State,Florida,0.0,100.0
 Colorado State,Florida Atlantic,0.0,100.0
 Colorado State,Gonzaga,0.0,100.0
-Colorado State,Grambling,99.9,0.09999999999999432
-Colorado State,Grand Canyon,0.0,100.0
-Colorado State,Houston,27.6,72.4
+Colorado State,Grambling,99.79,0.20999999999999375
+Colorado State,Grand Canyon,0.01,99.99
+Colorado State,Houston,24.13,75.87
 Colorado State,Howard,0.0,100.0
 Colorado State,Illinois,0.0,100.0
-Colorado State,Iowa State,100.0,0.0
-Colorado State,James Madison,0.3,99.7
-Colorado State,Kansas,97.2,2.799999999999997
+Colorado State,Iowa State,99.98,0.01999999999999602
+Colorado State,James Madison,0.16999999999999998,99.83
+Colorado State,Kansas,97.05,2.950000000000003
 Colorado State,Kentucky,0.0,100.0
-Colorado State,Long Beach State,0.1,99.9
+Colorado State,Long Beach State,0.11,99.89
 Colorado State,Longwood,0.0,100.0
-Colorado State,Marquette,53.6,46.4
+Colorado State,Marquette,52.35999999999999,47.64000000000001
 Colorado State,McNeese State,0.0,100.0
-Colorado State,Michigan State,68.60000000000001,31.39999999999999
+Colorado State,Michigan State,69.27,30.730000000000004
 Colorado State,Mississippi State,0.0,100.0
 Colorado State,Montana State,100.0,0.0
 Colorado State,Morehead State,0.0,100.0
-Colorado State,NC State,31.4,68.6
-Colorado State,Nebraska,15.2,84.8
-Colorado State,Nevada,36.6,63.4
-Colorado State,New Mexico,5.3,94.7
+Colorado State,NC State,32.85,67.15
+Colorado State,Nebraska,14.92,85.08
+Colorado State,Nevada,36.68,63.32
+Colorado State,New Mexico,7.3,92.7
 Colorado State,North Carolina,0.0,100.0
-Colorado State,Northwestern,31.6,68.4
-Colorado State,Oakland,0.0,100.0
-Colorado State,Oregon,0.1,99.9
+Colorado State,Northwestern,33.46,66.53999999999999
+Colorado State,Oakland,0.02,99.98
+Colorado State,Oregon,0.4,99.6
 Colorado State,Purdue,0.0,100.0
 Colorado State,Saint Mary's (CA),0.0,100.0
 Colorado State,Saint Peter's,100.0,0.0
 Colorado State,Samford,0.0,100.0
-Colorado State,San Diego State,2.1,97.9
+Colorado State,San Diego State,2.63,97.37
 Colorado State,South Carolina,0.0,100.0
-Colorado State,South Dakota State,64.5,35.5
+Colorado State,South Dakota State,67.10000000000001,32.89999999999999
 Colorado State,Stetson,0.0,100.0
 Colorado State,TCU,0.0,100.0
-Colorado State,Tennessee,23.400000000000002,76.6
-Colorado State,Texas,0.2,99.8
+Colorado State,Tennessee,24.34,75.66
+Colorado State,Texas,0.24,99.76
 Colorado State,Texas A&M,0.0,100.0
 Colorado State,Texas Tech,0.0,100.0
 Colorado State,UAB,0.0,100.0
@@ -733,27 +733,27 @@ Colorado State,Utah State,0.0,100.0
 Colorado State,Vermont,100.0,0.0
 Colorado State,Virginia,100.0,0.0
 Colorado State,Wagner,100.0,0.0
-Colorado State,Washington State,0.0,100.0
-Colorado State,Western Kentucky,100.0,0.0
+Colorado State,Washington State,0.03,99.97
+Colorado State,Western Kentucky,99.99,0.010000000000005116
 Colorado State,Wisconsin,0.0,100.0
-Colorado State,Yale,40.1,59.9
+Colorado State,Yale,36.79,63.21
 Connecticut,Creighton,100.0,0.0
 Connecticut,Dayton,100.0,0.0
 Connecticut,Drake,100.0,0.0
 Connecticut,Duke,100.0,0.0
 Connecticut,Duquesne,100.0,0.0
-Connecticut,Florida,16.7,83.3
-Connecticut,Florida Atlantic,99.8,0.20000000000000284
-Connecticut,Gonzaga,98.5,1.5
+Connecticut,Florida,15.36,84.64
+Connecticut,Florida Atlantic,99.97,0.030000000000001137
+Connecticut,Gonzaga,98.1,1.9000000000000057
 Connecticut,Grambling,100.0,0.0
 Connecticut,Grand Canyon,100.0,0.0
 Connecticut,Houston,100.0,0.0
 Connecticut,Howard,100.0,0.0
-Connecticut,Illinois,15.6,84.4
+Connecticut,Illinois,16.189999999999998,83.81
 Connecticut,Iowa State,100.0,0.0
 Connecticut,James Madison,100.0,0.0
 Connecticut,Kansas,100.0,0.0
-Connecticut,Kentucky,99.9,0.09999999999999432
+Connecticut,Kentucky,100.0,0.0
 Connecticut,Long Beach State,100.0,0.0
 Connecticut,Longwood,100.0,0.0
 Connecticut,Marquette,100.0,0.0
@@ -770,20 +770,20 @@ Connecticut,North Carolina,100.0,0.0
 Connecticut,Northwestern,100.0,0.0
 Connecticut,Oakland,100.0,0.0
 Connecticut,Oregon,100.0,0.0
-Connecticut,Purdue,0.3,99.7
+Connecticut,Purdue,0.37,99.63
 Connecticut,Saint Mary's (CA),100.0,0.0
 Connecticut,Saint Peter's,100.0,0.0
 Connecticut,Samford,100.0,0.0
 Connecticut,San Diego State,100.0,0.0
 Connecticut,South Carolina,100.0,0.0
 Connecticut,South Dakota State,100.0,0.0
-Connecticut,Stetson,100.0,0.0
+Connecticut,Stetson,99.99,0.010000000000005116
 Connecticut,TCU,100.0,0.0
 Connecticut,Tennessee,100.0,0.0
 Connecticut,Texas,100.0,0.0
-Connecticut,Texas A&M,74.0,26.0
+Connecticut,Texas A&M,73.71,26.290000000000006
 Connecticut,Texas Tech,100.0,0.0
-Connecticut,UAB,99.5,0.5
+Connecticut,UAB,99.68,0.3199999999999932
 Connecticut,Utah State,100.0,0.0
 Connecticut,Vermont,100.0,0.0
 Connecticut,Virginia,100.0,0.0
@@ -792,141 +792,141 @@ Connecticut,Washington State,100.0,0.0
 Connecticut,Western Kentucky,100.0,0.0
 Connecticut,Wisconsin,100.0,0.0
 Connecticut,Yale,100.0,0.0
-Creighton,Dayton,80.10000000000001,19.89999999999999
+Creighton,Dayton,79.54,20.459999999999994
 Creighton,Drake,100.0,0.0
-Creighton,Duke,0.2,99.8
+Creighton,Duke,0.36,99.64
 Creighton,Duquesne,100.0,0.0
 Creighton,Florida,0.0,100.0
 Creighton,Florida Atlantic,0.0,100.0
 Creighton,Gonzaga,0.0,100.0
 Creighton,Grambling,100.0,0.0
-Creighton,Grand Canyon,67.7,32.3
+Creighton,Grand Canyon,67.99,32.010000000000005
 Creighton,Houston,100.0,0.0
 Creighton,Howard,0.0,100.0
 Creighton,Illinois,0.0,100.0
 Creighton,Iowa State,100.0,0.0
-Creighton,James Madison,94.39999999999999,5.6000000000000085
+Creighton,James Madison,93.72,6.280000000000001
 Creighton,Kansas,100.0,0.0
 Creighton,Kentucky,0.0,100.0
-Creighton,Long Beach State,90.60000000000001,9.399999999999991
+Creighton,Long Beach State,90.94,9.060000000000002
 Creighton,Longwood,0.1,99.9
 Creighton,Marquette,100.0,0.0
-Creighton,McNeese State,11.1,88.9
+Creighton,McNeese State,11.29,88.71000000000001
 Creighton,Michigan State,100.0,0.0
-Creighton,Mississippi State,16.400000000000002,83.6
+Creighton,Mississippi State,15.370000000000001,84.63
 Creighton,Montana State,100.0,0.0
-Creighton,Morehead State,0.1,99.9
+Creighton,Morehead State,0.11,99.89
 Creighton,NC State,100.0,0.0
-Creighton,Nebraska,99.8,0.20000000000000284
+Creighton,Nebraska,99.94,0.060000000000002274
 Creighton,Nevada,100.0,0.0
-Creighton,New Mexico,99.9,0.09999999999999432
-Creighton,North Carolina,23.799999999999997,76.2
+Creighton,New Mexico,99.92999999999999,0.07000000000000739
+Creighton,North Carolina,25.36,74.64
 Creighton,Northwestern,100.0,0.0
-Creighton,Oakland,76.8,23.200000000000003
-Creighton,Oregon,96.39999999999999,3.6000000000000085
+Creighton,Oakland,78.4,21.599999999999994
+Creighton,Oregon,96.43,3.569999999999993
 Creighton,Purdue,0.0,100.0
-Creighton,Saint Mary's (CA),0.1,99.9
+Creighton,Saint Mary's (CA),0.26,99.74
 Creighton,Saint Peter's,100.0,0.0
-Creighton,Samford,0.1,99.9
-Creighton,San Diego State,99.8,0.20000000000000284
-Creighton,South Carolina,19.3,80.7
+Creighton,Samford,0.3,99.7
+Creighton,San Diego State,99.28,0.7199999999999989
+Creighton,South Carolina,20.74,79.26
 Creighton,South Dakota State,100.0,0.0
 Creighton,Stetson,0.0,100.0
-Creighton,TCU,0.1,99.9
-Creighton,Tennessee,100.0,0.0
-Creighton,Texas,95.7,4.299999999999997
+Creighton,TCU,0.03,99.97
+Creighton,Tennessee,99.97,0.030000000000001137
+Creighton,Texas,95.12,4.8799999999999955
 Creighton,Texas A&M,0.0,100.0
-Creighton,Texas Tech,3.4000000000000004,96.6
+Creighton,Texas Tech,3.8600000000000003,96.14
 Creighton,UAB,0.0,100.0
-Creighton,Utah State,45.1,54.9
+Creighton,Utah State,44.3,55.7
 Creighton,Vermont,100.0,0.0
 Creighton,Virginia,100.0,0.0
 Creighton,Wagner,100.0,0.0
-Creighton,Washington State,81.89999999999999,18.10000000000001
+Creighton,Washington State,82.24000000000001,17.75999999999999
 Creighton,Western Kentucky,100.0,0.0
-Creighton,Wisconsin,1.5,98.5
+Creighton,Wisconsin,1.21,98.79
 Creighton,Yale,100.0,0.0
 Dayton,Drake,100.0,0.0
-Dayton,Duke,0.0,100.0
+Dayton,Duke,0.02,99.98
 Dayton,Duquesne,100.0,0.0
 Dayton,Florida,0.0,100.0
 Dayton,Florida Atlantic,0.0,100.0
 Dayton,Gonzaga,0.0,100.0
 Dayton,Grambling,100.0,0.0
-Dayton,Grand Canyon,38.800000000000004,61.199999999999996
-Dayton,Houston,99.5,0.5
+Dayton,Grand Canyon,36.230000000000004,63.769999999999996
+Dayton,Houston,99.91,0.09000000000000341
 Dayton,Howard,0.0,100.0
 Dayton,Illinois,0.0,100.0
 Dayton,Iowa State,100.0,0.0
-Dayton,James Madison,74.4,25.599999999999994
+Dayton,James Madison,74.89,25.11
 Dayton,Kansas,100.0,0.0
 Dayton,Kentucky,0.0,100.0
-Dayton,Long Beach State,70.0,30.0
+Dayton,Long Beach State,69.58,30.42
 Dayton,Longwood,0.0,100.0
-Dayton,Marquette,100.0,0.0
-Dayton,McNeese State,1.6,98.4
+Dayton,Marquette,99.98,0.01999999999999602
+Dayton,McNeese State,2.32,97.68
 Dayton,Michigan State,100.0,0.0
-Dayton,Mississippi State,3.6999999999999997,96.3
+Dayton,Mississippi State,3.4099999999999997,96.59
 Dayton,Montana State,100.0,0.0
-Dayton,Morehead State,0.0,100.0
-Dayton,NC State,100.0,0.0
-Dayton,Nebraska,99.6,0.4000000000000057
-Dayton,Nevada,100.0,0.0
-Dayton,New Mexico,98.4,1.5999999999999943
-Dayton,North Carolina,5.7,94.3
-Dayton,Northwestern,99.9,0.09999999999999432
-Dayton,Oakland,47.3,52.7
-Dayton,Oregon,80.60000000000001,19.39999999999999
+Dayton,Morehead State,0.01,99.99
+Dayton,NC State,99.95,0.04999999999999716
+Dayton,Nebraska,99.39,0.6099999999999994
+Dayton,Nevada,99.92999999999999,0.07000000000000739
+Dayton,New Mexico,98.76,1.2399999999999949
+Dayton,North Carolina,5.970000000000001,94.03
+Dayton,Northwestern,99.95,0.04999999999999716
+Dayton,Oakland,46.96,53.04
+Dayton,Oregon,82.37,17.629999999999995
 Dayton,Purdue,0.0,100.0
-Dayton,Saint Mary's (CA),0.1,99.9
+Dayton,Saint Mary's (CA),0.01,99.99
 Dayton,Saint Peter's,100.0,0.0
-Dayton,Samford,0.0,100.0
-Dayton,San Diego State,93.89999999999999,6.1000000000000085
-Dayton,South Carolina,5.3,94.7
+Dayton,Samford,0.01,99.99
+Dayton,San Diego State,94.65,5.349999999999994
+Dayton,South Carolina,4.569999999999999,95.43
 Dayton,South Dakota State,100.0,0.0
 Dayton,Stetson,0.0,100.0
 Dayton,TCU,0.0,100.0
-Dayton,Tennessee,99.9,0.09999999999999432
-Dayton,Texas,81.0,19.0
+Dayton,Tennessee,99.87,0.12999999999999545
+Dayton,Texas,80.13,19.870000000000005
 Dayton,Texas A&M,0.0,100.0
-Dayton,Texas Tech,0.5,99.5
+Dayton,Texas Tech,0.6,99.4
 Dayton,UAB,0.0,100.0
-Dayton,Utah State,16.400000000000002,83.6
+Dayton,Utah State,16.61,83.39
 Dayton,Vermont,100.0,0.0
 Dayton,Virginia,100.0,0.0
 Dayton,Wagner,100.0,0.0
-Dayton,Washington State,53.1,46.9
+Dayton,Washington State,53.410000000000004,46.589999999999996
 Dayton,Western Kentucky,100.0,0.0
-Dayton,Wisconsin,0.1,99.9
-Dayton,Yale,100.0,0.0
+Dayton,Wisconsin,0.18,99.82
+Dayton,Yale,99.88,0.12000000000000455
 Drake,Duke,0.0,100.0
-Drake,Duquesne,30.7,69.3
+Drake,Duquesne,34.23,65.77000000000001
 Drake,Florida,0.0,100.0
 Drake,Florida Atlantic,0.0,100.0
 Drake,Gonzaga,0.0,100.0
-Drake,Grambling,83.6,16.400000000000006
+Drake,Grambling,83.11,16.89
 Drake,Grand Canyon,0.0,100.0
-Drake,Houston,0.5,99.5
+Drake,Houston,0.37,99.63
 Drake,Howard,0.0,100.0
 Drake,Illinois,0.0,100.0
-Drake,Iowa State,95.6,4.400000000000006
+Drake,Iowa State,95.54,4.459999999999994
 Drake,James Madison,0.0,100.0
-Drake,Kansas,42.5,57.5
+Drake,Kansas,46.61,53.39
 Drake,Kentucky,0.0,100.0
 Drake,Long Beach State,0.0,100.0
 Drake,Longwood,0.0,100.0
-Drake,Marquette,3.1,96.9
+Drake,Marquette,2.73,97.27
 Drake,McNeese State,0.0,100.0
-Drake,Michigan State,8.799999999999999,91.2
+Drake,Michigan State,7.33,92.67
 Drake,Mississippi State,0.0,100.0
-Drake,Montana State,100.0,0.0
+Drake,Montana State,99.99,0.010000000000005116
 Drake,Morehead State,0.0,100.0
-Drake,NC State,0.8,99.2
-Drake,Nebraska,0.0,100.0
-Drake,Nevada,0.8,99.2
-Drake,New Mexico,0.1,99.9
+Drake,NC State,0.86,99.14
+Drake,Nebraska,0.06999999999999999,99.93
+Drake,Nevada,0.91,99.09
+Drake,New Mexico,0.02,99.98
 Drake,North Carolina,0.0,100.0
-Drake,Northwestern,0.8,99.2
+Drake,Northwestern,0.76,99.24
 Drake,Oakland,0.0,100.0
 Drake,Oregon,0.0,100.0
 Drake,Purdue,0.0,100.0
@@ -935,10 +935,10 @@ Drake,Saint Peter's,100.0,0.0
 Drake,Samford,0.0,100.0
 Drake,San Diego State,0.0,100.0
 Drake,South Carolina,0.0,100.0
-Drake,South Dakota State,6.9,93.1
+Drake,South Dakota State,6.460000000000001,93.53999999999999
 Drake,Stetson,0.0,100.0
 Drake,TCU,0.0,100.0
-Drake,Tennessee,0.5,99.5
+Drake,Tennessee,0.37,99.63
 Drake,Texas,0.0,100.0
 Drake,Texas A&M,0.0,100.0
 Drake,Texas Tech,0.0,100.0
@@ -948,99 +948,99 @@ Drake,Vermont,100.0,0.0
 Drake,Virginia,100.0,0.0
 Drake,Wagner,100.0,0.0
 Drake,Washington State,0.0,100.0
-Drake,Western Kentucky,93.89999999999999,6.1000000000000085
+Drake,Western Kentucky,94.95,5.049999999999997
 Drake,Wisconsin,0.0,100.0
-Drake,Yale,1.7999999999999998,98.2
+Drake,Yale,1.18,98.82
 Duke,Duquesne,100.0,0.0
 Duke,Florida,0.0,100.0
 Duke,Florida Atlantic,0.0,100.0
 Duke,Gonzaga,0.0,100.0
 Duke,Grambling,100.0,0.0
-Duke,Grand Canyon,99.9,0.09999999999999432
+Duke,Grand Canyon,99.88,0.12000000000000455
 Duke,Houston,100.0,0.0
-Duke,Howard,0.8999999999999999,99.1
+Duke,Howard,0.72,99.28
 Duke,Illinois,0.0,100.0
 Duke,Iowa State,100.0,0.0
 Duke,James Madison,100.0,0.0
 Duke,Kansas,100.0,0.0
-Duke,Kentucky,0.0,100.0
+Duke,Kentucky,0.02,99.98
 Duke,Long Beach State,100.0,0.0
-Duke,Longwood,41.3,58.7
+Duke,Longwood,40.0,60.0
 Duke,Marquette,100.0,0.0
-Duke,McNeese State,93.30000000000001,6.699999999999989
+Duke,McNeese State,93.58,6.420000000000002
 Duke,Michigan State,100.0,0.0
-Duke,Mississippi State,97.1,2.9000000000000057
+Duke,Mississippi State,96.23,3.769999999999996
 Duke,Montana State,100.0,0.0
-Duke,Morehead State,36.5,63.5
+Duke,Morehead State,34.58,65.42
 Duke,NC State,100.0,0.0
 Duke,Nebraska,100.0,0.0
 Duke,Nevada,100.0,0.0
 Duke,New Mexico,100.0,0.0
-Duke,North Carolina,97.7,2.299999999999997
+Duke,North Carolina,98.32,1.6800000000000068
 Duke,Northwestern,100.0,0.0
-Duke,Oakland,100.0,0.0
+Duke,Oakland,99.97,0.030000000000001137
 Duke,Oregon,100.0,0.0
 Duke,Purdue,0.0,100.0
-Duke,Saint Mary's (CA),46.7,53.3
+Duke,Saint Mary's (CA),46.47,53.53
 Duke,Saint Peter's,100.0,0.0
-Duke,Samford,49.0,51.0
+Duke,Samford,51.99,48.01
 Duke,San Diego State,100.0,0.0
-Duke,South Carolina,97.0,3.0
+Duke,South Carolina,97.6,2.4000000000000057
 Duke,South Dakota State,100.0,0.0
-Duke,Stetson,0.2,99.8
-Duke,TCU,30.599999999999998,69.4
+Duke,Stetson,0.13,99.87
+Duke,TCU,29.26,70.74
 Duke,Tennessee,100.0,0.0
 Duke,Texas,100.0,0.0
 Duke,Texas A&M,0.0,100.0
-Duke,Texas Tech,83.2,16.799999999999997
+Duke,Texas Tech,84.3,15.700000000000003
 Duke,UAB,0.0,100.0
-Duke,Utah State,99.4,0.5999999999999943
+Duke,Utah State,99.68,0.3199999999999932
 Duke,Vermont,100.0,0.0
 Duke,Virginia,100.0,0.0
 Duke,Wagner,100.0,0.0
 Duke,Washington State,100.0,0.0
 Duke,Western Kentucky,100.0,0.0
-Duke,Wisconsin,67.30000000000001,32.69999999999999
+Duke,Wisconsin,68.88,31.120000000000005
 Duke,Yale,100.0,0.0
 Duquesne,Florida,0.0,100.0
 Duquesne,Florida Atlantic,0.0,100.0
 Duquesne,Gonzaga,0.0,100.0
-Duquesne,Grambling,91.8,8.200000000000003
+Duquesne,Grambling,91.59,8.409999999999997
 Duquesne,Grand Canyon,0.0,100.0
-Duquesne,Houston,0.8999999999999999,99.1
+Duquesne,Houston,1.1199999999999999,98.88
 Duquesne,Howard,0.0,100.0
 Duquesne,Illinois,0.0,100.0
-Duquesne,Iowa State,98.4,1.5999999999999943
+Duquesne,Iowa State,98.3,1.7000000000000028
 Duquesne,James Madison,0.0,100.0
-Duquesne,Kansas,65.9,34.099999999999994
+Duquesne,Kansas,64.02,35.980000000000004
 Duquesne,Kentucky,0.0,100.0
 Duquesne,Long Beach State,0.0,100.0
 Duquesne,Longwood,0.0,100.0
-Duquesne,Marquette,5.5,94.5
+Duquesne,Marquette,6.239999999999999,93.76
 Duquesne,McNeese State,0.0,100.0
-Duquesne,Michigan State,15.4,84.6
+Duquesne,Michigan State,14.760000000000002,85.24
 Duquesne,Mississippi State,0.0,100.0
 Duquesne,Montana State,100.0,0.0
 Duquesne,Morehead State,0.0,100.0
-Duquesne,NC State,2.0,98.0
-Duquesne,Nebraska,0.7000000000000001,99.3
-Duquesne,Nevada,3.4000000000000004,96.6
-Duquesne,New Mexico,0.1,99.9
+Duquesne,NC State,1.8800000000000001,98.12
+Duquesne,Nebraska,0.37,99.63
+Duquesne,Nevada,2.97,97.03
+Duquesne,New Mexico,0.12,99.88
 Duquesne,North Carolina,0.0,100.0
-Duquesne,Northwestern,1.7999999999999998,98.2
+Duquesne,Northwestern,2.1999999999999997,97.8
 Duquesne,Oakland,0.0,100.0
 Duquesne,Oregon,0.0,100.0
 Duquesne,Purdue,0.0,100.0
 Duquesne,Saint Mary's (CA),0.0,100.0
 Duquesne,Saint Peter's,100.0,0.0
 Duquesne,Samford,0.0,100.0
-Duquesne,San Diego State,0.0,100.0
+Duquesne,San Diego State,0.04,99.96
 Duquesne,South Carolina,0.0,100.0
-Duquesne,South Dakota State,16.900000000000002,83.1
+Duquesne,South Dakota State,15.64,84.36
 Duquesne,Stetson,0.0,100.0
 Duquesne,TCU,0.0,100.0
-Duquesne,Tennessee,0.5,99.5
-Duquesne,Texas,0.0,100.0
+Duquesne,Tennessee,1.21,98.79
+Duquesne,Texas,0.01,99.99
 Duquesne,Texas A&M,0.0,100.0
 Duquesne,Texas Tech,0.0,100.0
 Duquesne,UAB,0.0,100.0
@@ -1049,16 +1049,16 @@ Duquesne,Vermont,100.0,0.0
 Duquesne,Virginia,100.0,0.0
 Duquesne,Wagner,100.0,0.0
 Duquesne,Washington State,0.0,100.0
-Duquesne,Western Kentucky,97.89999999999999,2.1000000000000085
+Duquesne,Western Kentucky,98.24000000000001,1.759999999999991
 Duquesne,Wisconsin,0.0,100.0
-Duquesne,Yale,2.4,97.6
+Duquesne,Yale,2.9899999999999998,97.01
 Florida,Florida Atlantic,100.0,0.0
-Florida,Gonzaga,99.9,0.09999999999999432
+Florida,Gonzaga,99.92,0.0799999999999983
 Florida,Grambling,100.0,0.0
 Florida,Grand Canyon,100.0,0.0
 Florida,Houston,100.0,0.0
 Florida,Howard,100.0,0.0
-Florida,Illinois,53.6,46.4
+Florida,Illinois,50.5,49.5
 Florida,Iowa State,100.0,0.0
 Florida,James Madison,100.0,0.0
 Florida,Kansas,100.0,0.0
@@ -1079,7 +1079,7 @@ Florida,North Carolina,100.0,0.0
 Florida,Northwestern,100.0,0.0
 Florida,Oakland,100.0,0.0
 Florida,Oregon,100.0,0.0
-Florida,Purdue,5.7,94.3
+Florida,Purdue,5.2,94.8
 Florida,Saint Mary's (CA),100.0,0.0
 Florida,Saint Peter's,100.0,0.0
 Florida,Samford,100.0,0.0
@@ -1090,9 +1090,9 @@ Florida,Stetson,100.0,0.0
 Florida,TCU,100.0,0.0
 Florida,Tennessee,100.0,0.0
 Florida,Texas,100.0,0.0
-Florida,Texas A&M,95.0,5.0
+Florida,Texas A&M,94.41000000000001,5.589999999999989
 Florida,Texas Tech,100.0,0.0
-Florida,UAB,100.0,0.0
+Florida,UAB,99.98,0.01999999999999602
 Florida,Utah State,100.0,0.0
 Florida,Vermont,100.0,0.0
 Florida,Virginia,100.0,0.0
@@ -1101,24 +1101,24 @@ Florida,Washington State,100.0,0.0
 Florida,Western Kentucky,100.0,0.0
 Florida,Wisconsin,100.0,0.0
 Florida,Yale,100.0,0.0
-Florida Atlantic,Gonzaga,9.4,90.6
+Florida Atlantic,Gonzaga,9.569999999999999,90.43
 Florida Atlantic,Grambling,100.0,0.0
 Florida Atlantic,Grand Canyon,100.0,0.0
 Florida Atlantic,Houston,100.0,0.0
-Florida Atlantic,Howard,89.5,10.5
+Florida Atlantic,Howard,90.0,10.0
 Florida Atlantic,Illinois,0.0,100.0
 Florida Atlantic,Iowa State,100.0,0.0
 Florida Atlantic,James Madison,100.0,0.0
 Florida Atlantic,Kansas,100.0,0.0
-Florida Atlantic,Kentucky,63.7,36.3
+Florida Atlantic,Kentucky,61.96,38.04
 Florida Atlantic,Long Beach State,100.0,0.0
-Florida Atlantic,Longwood,100.0,0.0
+Florida Atlantic,Longwood,99.96000000000001,0.03999999999999204
 Florida Atlantic,Marquette,100.0,0.0
 Florida Atlantic,McNeese State,100.0,0.0
 Florida Atlantic,Michigan State,100.0,0.0
 Florida Atlantic,Mississippi State,100.0,0.0
 Florida Atlantic,Montana State,100.0,0.0
-Florida Atlantic,Morehead State,100.0,0.0
+Florida Atlantic,Morehead State,99.98,0.01999999999999602
 Florida Atlantic,NC State,100.0,0.0
 Florida Atlantic,Nebraska,100.0,0.0
 Florida Atlantic,Nevada,100.0,0.0
@@ -1128,19 +1128,19 @@ Florida Atlantic,Northwestern,100.0,0.0
 Florida Atlantic,Oakland,100.0,0.0
 Florida Atlantic,Oregon,100.0,0.0
 Florida Atlantic,Purdue,0.0,100.0
-Florida Atlantic,Saint Mary's (CA),100.0,0.0
+Florida Atlantic,Saint Mary's (CA),99.99,0.010000000000005116
 Florida Atlantic,Saint Peter's,100.0,0.0
 Florida Atlantic,Samford,100.0,0.0
 Florida Atlantic,San Diego State,100.0,0.0
 Florida Atlantic,South Carolina,100.0,0.0
 Florida Atlantic,South Dakota State,100.0,0.0
-Florida Atlantic,Stetson,78.8,21.200000000000003
-Florida Atlantic,TCU,100.0,0.0
+Florida Atlantic,Stetson,78.49000000000001,21.50999999999999
+Florida Atlantic,TCU,99.92999999999999,0.07000000000000739
 Florida Atlantic,Tennessee,100.0,0.0
 Florida Atlantic,Texas,100.0,0.0
-Florida Atlantic,Texas A&M,0.2,99.8
+Florida Atlantic,Texas A&M,0.15,99.85
 Florida Atlantic,Texas Tech,100.0,0.0
-Florida Atlantic,UAB,25.1,74.9
+Florida Atlantic,UAB,24.82,75.18
 Florida Atlantic,Utah State,100.0,0.0
 Florida Atlantic,Vermont,100.0,0.0
 Florida Atlantic,Virginia,100.0,0.0
@@ -1152,12 +1152,12 @@ Florida Atlantic,Yale,100.0,0.0
 Gonzaga,Grambling,100.0,0.0
 Gonzaga,Grand Canyon,100.0,0.0
 Gonzaga,Houston,100.0,0.0
-Gonzaga,Howard,99.4,0.5999999999999943
-Gonzaga,Illinois,0.0,100.0
+Gonzaga,Howard,99.51,0.4899999999999949
+Gonzaga,Illinois,0.1,99.9
 Gonzaga,Iowa State,100.0,0.0
 Gonzaga,James Madison,100.0,0.0
 Gonzaga,Kansas,100.0,0.0
-Gonzaga,Kentucky,95.19999999999999,4.800000000000011
+Gonzaga,Kentucky,93.99,6.010000000000005
 Gonzaga,Long Beach State,100.0,0.0
 Gonzaga,Longwood,100.0,0.0
 Gonzaga,Marquette,100.0,0.0
@@ -1181,13 +1181,13 @@ Gonzaga,Samford,100.0,0.0
 Gonzaga,San Diego State,100.0,0.0
 Gonzaga,South Carolina,100.0,0.0
 Gonzaga,South Dakota State,100.0,0.0
-Gonzaga,Stetson,98.0,2.0
+Gonzaga,Stetson,98.35000000000001,1.6499999999999915
 Gonzaga,TCU,100.0,0.0
 Gonzaga,Tennessee,100.0,0.0
 Gonzaga,Texas,100.0,0.0
-Gonzaga,Texas A&M,8.7,91.3
+Gonzaga,Texas A&M,7.75,92.25
 Gonzaga,Texas Tech,100.0,0.0
-Gonzaga,UAB,75.4,24.599999999999994
+Gonzaga,UAB,74.67,25.33
 Gonzaga,Utah State,100.0,0.0
 Gonzaga,Vermont,100.0,0.0
 Gonzaga,Virginia,100.0,0.0
@@ -1197,27 +1197,27 @@ Gonzaga,Western Kentucky,100.0,0.0
 Gonzaga,Wisconsin,100.0,0.0
 Gonzaga,Yale,100.0,0.0
 Grambling,Grand Canyon,0.0,100.0
-Grambling,Houston,0.0,100.0
+Grambling,Houston,0.02,99.98
 Grambling,Howard,0.0,100.0
 Grambling,Illinois,0.0,100.0
-Grambling,Iowa State,77.2,22.799999999999997
+Grambling,Iowa State,75.88000000000001,24.11999999999999
 Grambling,James Madison,0.0,100.0
-Grambling,Kansas,15.4,84.6
+Grambling,Kansas,14.6,85.4
 Grambling,Kentucky,0.0,100.0
 Grambling,Long Beach State,0.0,100.0
 Grambling,Longwood,0.0,100.0
-Grambling,Marquette,0.1,99.9
+Grambling,Marquette,0.2,99.8
 Grambling,McNeese State,0.0,100.0
-Grambling,Michigan State,0.6,99.4
+Grambling,Michigan State,0.45999999999999996,99.54
 Grambling,Mississippi State,0.0,100.0
-Grambling,Montana State,100.0,0.0
+Grambling,Montana State,99.81,0.18999999999999773
 Grambling,Morehead State,0.0,100.0
-Grambling,NC State,0.0,100.0
+Grambling,NC State,0.01,99.99
 Grambling,Nebraska,0.0,100.0
-Grambling,Nevada,0.0,100.0
+Grambling,Nevada,0.05,99.95
 Grambling,New Mexico,0.0,100.0
 Grambling,North Carolina,0.0,100.0
-Grambling,Northwestern,0.0,100.0
+Grambling,Northwestern,0.02,99.98
 Grambling,Oakland,0.0,100.0
 Grambling,Oregon,0.0,100.0
 Grambling,Purdue,0.0,100.0
@@ -1226,10 +1226,10 @@ Grambling,Saint Peter's,100.0,0.0
 Grambling,Samford,0.0,100.0
 Grambling,San Diego State,0.0,100.0
 Grambling,South Carolina,0.0,100.0
-Grambling,South Dakota State,0.8,99.2
+Grambling,South Dakota State,0.79,99.21
 Grambling,Stetson,0.0,100.0
 Grambling,TCU,0.0,100.0
-Grambling,Tennessee,0.0,100.0
+Grambling,Tennessee,0.02,99.98
 Grambling,Texas,0.0,100.0
 Grambling,Texas A&M,0.0,100.0
 Grambling,Texas Tech,0.0,100.0
@@ -1239,87 +1239,87 @@ Grambling,Vermont,100.0,0.0
 Grambling,Virginia,100.0,0.0
 Grambling,Wagner,100.0,0.0
 Grambling,Washington State,0.0,100.0
-Grambling,Western Kentucky,75.5,24.5
+Grambling,Western Kentucky,76.75999999999999,23.24000000000001
 Grambling,Wisconsin,0.0,100.0
-Grambling,Yale,0.0,100.0
-Grand Canyon,Houston,100.0,0.0
+Grambling,Yale,0.04,99.96
+Grand Canyon,Houston,99.96000000000001,0.03999999999999204
 Grand Canyon,Howard,0.0,100.0
 Grand Canyon,Illinois,0.0,100.0
 Grand Canyon,Iowa State,100.0,0.0
-Grand Canyon,James Madison,85.39999999999999,14.600000000000009
+Grand Canyon,James Madison,84.97,15.030000000000001
 Grand Canyon,Kansas,100.0,0.0
 Grand Canyon,Kentucky,0.0,100.0
-Grand Canyon,Long Beach State,80.2,19.799999999999997
-Grand Canyon,Longwood,0.0,100.0
+Grand Canyon,Long Beach State,79.08,20.92
+Grand Canyon,Longwood,0.06999999999999999,99.93
 Grand Canyon,Marquette,100.0,0.0
-Grand Canyon,McNeese State,4.5,95.5
+Grand Canyon,McNeese State,4.2299999999999995,95.77
 Grand Canyon,Michigan State,100.0,0.0
-Grand Canyon,Mississippi State,5.7,94.3
+Grand Canyon,Mississippi State,6.05,93.95
 Grand Canyon,Montana State,100.0,0.0
-Grand Canyon,Morehead State,0.1,99.9
-Grand Canyon,NC State,100.0,0.0
-Grand Canyon,Nebraska,99.8,0.20000000000000284
-Grand Canyon,Nevada,100.0,0.0
-Grand Canyon,New Mexico,99.4,0.5999999999999943
-Grand Canyon,North Carolina,8.3,91.7
-Grand Canyon,Northwestern,100.0,0.0
-Grand Canyon,Oakland,58.9,41.1
-Grand Canyon,Oregon,89.1,10.900000000000006
+Grand Canyon,Morehead State,0.03,99.97
+Grand Canyon,NC State,99.97,0.030000000000001137
+Grand Canyon,Nebraska,99.81,0.18999999999999773
+Grand Canyon,Nevada,99.98,0.01999999999999602
+Grand Canyon,New Mexico,99.53,0.46999999999999886
+Grand Canyon,North Carolina,10.36,89.64
+Grand Canyon,Northwestern,99.98,0.01999999999999602
+Grand Canyon,Oakland,59.870000000000005,40.129999999999995
+Grand Canyon,Oregon,89.74,10.260000000000005
 Grand Canyon,Purdue,0.0,100.0
-Grand Canyon,Saint Mary's (CA),0.1,99.9
+Grand Canyon,Saint Mary's (CA),0.0,100.0
 Grand Canyon,Saint Peter's,100.0,0.0
-Grand Canyon,Samford,0.1,99.9
-Grand Canyon,San Diego State,97.0,3.0
-Grand Canyon,South Carolina,8.200000000000001,91.8
+Grand Canyon,Samford,0.06999999999999999,99.93
+Grand Canyon,San Diego State,97.2,2.799999999999997
+Grand Canyon,South Carolina,8.91,91.09
 Grand Canyon,South Dakota State,100.0,0.0
 Grand Canyon,Stetson,0.0,100.0
-Grand Canyon,TCU,0.0,100.0
-Grand Canyon,Tennessee,100.0,0.0
-Grand Canyon,Texas,88.5,11.5
+Grand Canyon,TCU,0.01,99.99
+Grand Canyon,Tennessee,99.97,0.030000000000001137
+Grand Canyon,Texas,88.42,11.579999999999998
 Grand Canyon,Texas A&M,0.0,100.0
-Grand Canyon,Texas Tech,1.2,98.8
+Grand Canyon,Texas Tech,1.26,98.74
 Grand Canyon,UAB,0.0,100.0
-Grand Canyon,Utah State,25.0,75.0
+Grand Canyon,Utah State,25.45,74.55
 Grand Canyon,Vermont,100.0,0.0
 Grand Canyon,Virginia,100.0,0.0
 Grand Canyon,Wagner,100.0,0.0
-Grand Canyon,Washington State,66.7,33.3
+Grand Canyon,Washington State,67.04,32.959999999999994
 Grand Canyon,Western Kentucky,100.0,0.0
-Grand Canyon,Wisconsin,0.3,99.7
-Grand Canyon,Yale,100.0,0.0
+Grand Canyon,Wisconsin,0.25,99.75
+Grand Canyon,Yale,99.97,0.030000000000001137
 Houston,Howard,0.0,100.0
 Houston,Illinois,0.0,100.0
 Houston,Iowa State,100.0,0.0
-Houston,James Madison,1.0,99.0
-Houston,Kansas,99.8,0.20000000000000284
+Houston,James Madison,1.32,98.68
+Houston,Kansas,99.65,0.3499999999999943
 Houston,Kentucky,0.0,100.0
-Houston,Long Beach State,0.8999999999999999,99.1
+Houston,Long Beach State,1.11,98.89
 Houston,Longwood,0.0,100.0
-Houston,Marquette,78.8,21.200000000000003
+Houston,Marquette,78.33,21.67
 Houston,McNeese State,0.0,100.0
-Houston,Michigan State,89.2,10.799999999999997
+Houston,Michigan State,89.37,10.629999999999995
 Houston,Mississippi State,0.0,100.0
 Houston,Montana State,100.0,0.0
 Houston,Morehead State,0.0,100.0
-Houston,NC State,62.5,37.5
-Houston,Nebraska,35.3,64.7
-Houston,Nevada,66.7,33.3
-Houston,New Mexico,24.6,75.4
+Houston,NC State,63.49,36.51
+Houston,Nebraska,37.830000000000005,62.169999999999995
+Houston,Nevada,62.86000000000001,37.13999999999999
+Houston,New Mexico,23.61,76.39
 Houston,North Carolina,0.0,100.0
-Houston,Northwestern,62.8,37.2
-Houston,Oakland,0.2,99.8
-Houston,Oregon,2.3,97.7
+Houston,Northwestern,62.09,37.91
+Houston,Oakland,0.21,99.79
+Houston,Oregon,2.65,97.35
 Houston,Purdue,0.0,100.0
 Houston,Saint Mary's (CA),0.0,100.0
 Houston,Saint Peter's,100.0,0.0
 Houston,Samford,0.0,100.0
-Houston,San Diego State,11.899999999999999,88.1
+Houston,San Diego State,11.690000000000001,88.31
 Houston,South Carolina,0.0,100.0
-Houston,South Dakota State,88.6,11.400000000000006
+Houston,South Dakota State,87.33999999999999,12.66000000000001
 Houston,Stetson,0.0,100.0
 Houston,TCU,0.0,100.0
-Houston,Tennessee,53.0,47.0
-Houston,Texas,2.4,97.6
+Houston,Tennessee,51.59,48.41
+Houston,Texas,2.17,97.83
 Houston,Texas A&M,0.0,100.0
 Houston,Texas Tech,0.0,100.0
 Houston,UAB,0.0,100.0
@@ -1327,23 +1327,23 @@ Houston,Utah State,0.0,100.0
 Houston,Vermont,100.0,0.0
 Houston,Virginia,100.0,0.0
 Houston,Wagner,100.0,0.0
-Houston,Washington State,0.2,99.8
+Houston,Washington State,0.33,99.67
 Houston,Western Kentucky,100.0,0.0
 Houston,Wisconsin,0.0,100.0
-Houston,Yale,67.7,32.3
+Houston,Yale,65.68,34.31999999999999
 Howard,Illinois,0.0,100.0
 Howard,Iowa State,100.0,0.0
 Howard,James Madison,100.0,0.0
 Howard,Kansas,100.0,0.0
-Howard,Kentucky,14.7,85.3
+Howard,Kentucky,15.909999999999998,84.09
 Howard,Long Beach State,100.0,0.0
-Howard,Longwood,98.0,2.0
+Howard,Longwood,97.72999999999999,2.2700000000000102
 Howard,Marquette,100.0,0.0
 Howard,McNeese State,100.0,0.0
 Howard,Michigan State,100.0,0.0
 Howard,Mississippi State,100.0,0.0
 Howard,Montana State,100.0,0.0
-Howard,Morehead State,98.5,1.5
+Howard,Morehead State,98.13,1.8700000000000045
 Howard,NC State,100.0,0.0
 Howard,Nebraska,100.0,0.0
 Howard,Nevada,100.0,0.0
@@ -1353,31 +1353,31 @@ Howard,Northwestern,100.0,0.0
 Howard,Oakland,100.0,0.0
 Howard,Oregon,100.0,0.0
 Howard,Purdue,0.0,100.0
-Howard,Saint Mary's (CA),99.4,0.5999999999999943
+Howard,Saint Mary's (CA),98.89,1.1099999999999994
 Howard,Saint Peter's,100.0,0.0
-Howard,Samford,99.7,0.29999999999999716
+Howard,Samford,99.67,0.3299999999999983
 Howard,San Diego State,100.0,0.0
 Howard,South Carolina,100.0,0.0
 Howard,South Dakota State,100.0,0.0
-Howard,Stetson,23.7,76.3
-Howard,TCU,97.5,2.5
+Howard,Stetson,26.57,73.43
+Howard,TCU,96.48,3.519999999999996
 Howard,Tennessee,100.0,0.0
 Howard,Texas,100.0,0.0
 Howard,Texas A&M,0.0,100.0
-Howard,Texas Tech,99.8,0.20000000000000284
-Howard,UAB,1.3,98.7
+Howard,Texas Tech,99.97,0.030000000000001137
+Howard,UAB,1.59,98.41
 Howard,Utah State,100.0,0.0
 Howard,Vermont,100.0,0.0
 Howard,Virginia,100.0,0.0
 Howard,Wagner,100.0,0.0
 Howard,Washington State,100.0,0.0
 Howard,Western Kentucky,100.0,0.0
-Howard,Wisconsin,99.9,0.09999999999999432
+Howard,Wisconsin,99.63,0.37000000000000455
 Howard,Yale,100.0,0.0
 Illinois,Iowa State,100.0,0.0
 Illinois,James Madison,100.0,0.0
 Illinois,Kansas,100.0,0.0
-Illinois,Kentucky,100.0,0.0
+Illinois,Kentucky,99.99,0.010000000000005116
 Illinois,Long Beach State,100.0,0.0
 Illinois,Longwood,100.0,0.0
 Illinois,Marquette,100.0,0.0
@@ -1394,7 +1394,7 @@ Illinois,North Carolina,100.0,0.0
 Illinois,Northwestern,100.0,0.0
 Illinois,Oakland,100.0,0.0
 Illinois,Oregon,100.0,0.0
-Illinois,Purdue,4.7,95.3
+Illinois,Purdue,4.82,95.18
 Illinois,Saint Mary's (CA),100.0,0.0
 Illinois,Saint Peter's,100.0,0.0
 Illinois,Samford,100.0,0.0
@@ -1405,7 +1405,7 @@ Illinois,Stetson,100.0,0.0
 Illinois,TCU,100.0,0.0
 Illinois,Tennessee,100.0,0.0
 Illinois,Texas,100.0,0.0
-Illinois,Texas A&M,94.89999999999999,5.1000000000000085
+Illinois,Texas A&M,94.28999999999999,5.710000000000008
 Illinois,Texas Tech,100.0,0.0
 Illinois,UAB,100.0,0.0
 Illinois,Utah State,100.0,0.0
@@ -1417,31 +1417,31 @@ Illinois,Western Kentucky,100.0,0.0
 Illinois,Wisconsin,100.0,0.0
 Illinois,Yale,100.0,0.0
 Iowa State,James Madison,0.0,100.0
-Iowa State,Kansas,4.7,95.3
+Iowa State,Kansas,3.91,96.09
 Iowa State,Kentucky,0.0,100.0
 Iowa State,Long Beach State,0.0,100.0
 Iowa State,Longwood,0.0,100.0
-Iowa State,Marquette,0.0,100.0
+Iowa State,Marquette,0.01,99.99
 Iowa State,McNeese State,0.0,100.0
-Iowa State,Michigan State,0.1,99.9
+Iowa State,Michigan State,0.06,99.94
 Iowa State,Mississippi State,0.0,100.0
-Iowa State,Montana State,98.5,1.5
+Iowa State,Montana State,98.87,1.1299999999999955
 Iowa State,Morehead State,0.0,100.0
 Iowa State,NC State,0.0,100.0
 Iowa State,Nebraska,0.0,100.0
 Iowa State,Nevada,0.0,100.0
 Iowa State,New Mexico,0.0,100.0
 Iowa State,North Carolina,0.0,100.0
-Iowa State,Northwestern,0.0,100.0
+Iowa State,Northwestern,0.01,99.99
 Iowa State,Oakland,0.0,100.0
 Iowa State,Oregon,0.0,100.0
 Iowa State,Purdue,0.0,100.0
 Iowa State,Saint Mary's (CA),0.0,100.0
-Iowa State,Saint Peter's,100.0,0.0
+Iowa State,Saint Peter's,99.9,0.09999999999999432
 Iowa State,Samford,0.0,100.0
 Iowa State,San Diego State,0.0,100.0
 Iowa State,South Carolina,0.0,100.0
-Iowa State,South Dakota State,0.0,100.0
+Iowa State,South Dakota State,0.16999999999999998,99.83
 Iowa State,Stetson,0.0,100.0
 Iowa State,TCU,0.0,100.0
 Iowa State,Tennessee,0.0,100.0
@@ -1454,76 +1454,76 @@ Iowa State,Vermont,100.0,0.0
 Iowa State,Virginia,100.0,0.0
 Iowa State,Wagner,100.0,0.0
 Iowa State,Washington State,0.0,100.0
-Iowa State,Western Kentucky,44.3,55.7
+Iowa State,Western Kentucky,46.11,53.89
 Iowa State,Wisconsin,0.0,100.0
 Iowa State,Yale,0.0,100.0
 James Madison,Kansas,100.0,0.0
 James Madison,Kentucky,0.0,100.0
-James Madison,Long Beach State,47.099999999999994,52.900000000000006
+James Madison,Long Beach State,45.550000000000004,54.449999999999996
 James Madison,Longwood,0.0,100.0
-James Madison,Marquette,99.9,0.09999999999999432
-James Madison,McNeese State,0.1,99.9
+James Madison,Marquette,99.83,0.1700000000000017
+James Madison,McNeese State,0.4,99.6
 James Madison,Michigan State,100.0,0.0
-James Madison,Mississippi State,0.6,99.4
+James Madison,Mississippi State,0.64,99.36
 James Madison,Montana State,100.0,0.0
 James Madison,Morehead State,0.0,100.0
-James Madison,NC State,99.1,0.9000000000000057
-James Madison,Nebraska,98.2,1.7999999999999972
-James Madison,Nevada,99.6,0.4000000000000057
-James Madison,New Mexico,94.19999999999999,5.800000000000011
-James Madison,North Carolina,1.3,98.7
-James Madison,Northwestern,99.7,0.29999999999999716
-James Madison,Oakland,24.4,75.6
-James Madison,Oregon,62.7,37.3
+James Madison,NC State,99.47,0.5300000000000011
+James Madison,Nebraska,97.54,2.4599999999999937
+James Madison,Nevada,99.48,0.519999999999996
+James Madison,New Mexico,94.31,5.689999999999998
+James Madison,North Carolina,1.15,98.85
+James Madison,Northwestern,99.57000000000001,0.4299999999999926
+James Madison,Oakland,23.51,76.49
+James Madison,Oregon,62.4,37.6
 James Madison,Purdue,0.0,100.0
 James Madison,Saint Mary's (CA),0.0,100.0
 James Madison,Saint Peter's,100.0,0.0
 James Madison,Samford,0.0,100.0
-James Madison,San Diego State,85.0,15.0
-James Madison,South Carolina,1.0999999999999999,98.9
-James Madison,South Dakota State,100.0,0.0
+James Madison,San Diego State,84.24000000000001,15.759999999999991
+James Madison,South Carolina,1.02,98.98
+James Madison,South Dakota State,99.99,0.010000000000005116
 James Madison,Stetson,0.0,100.0
 James Madison,TCU,0.0,100.0
-James Madison,Tennessee,98.8,1.2000000000000028
-James Madison,Texas,57.3,42.7
+James Madison,Tennessee,99.03,0.9699999999999989
+James Madison,Texas,58.78,41.22
 James Madison,Texas A&M,0.0,100.0
-James Madison,Texas Tech,0.1,99.9
+James Madison,Texas Tech,0.05,99.95
 James Madison,UAB,0.0,100.0
-James Madison,Utah State,5.5,94.5
+James Madison,Utah State,4.54,95.46
 James Madison,Vermont,100.0,0.0
 James Madison,Virginia,100.0,0.0
 James Madison,Wagner,100.0,0.0
-James Madison,Washington State,30.0,70.0
+James Madison,Washington State,28.62,71.38
 James Madison,Western Kentucky,100.0,0.0
-James Madison,Wisconsin,0.1,99.9
-James Madison,Yale,99.7,0.29999999999999716
+James Madison,Wisconsin,0.01,99.99
+James Madison,Yale,99.61,0.39000000000000057
 Kansas,Kentucky,0.0,100.0
 Kansas,Long Beach State,0.0,100.0
 Kansas,Longwood,0.0,100.0
-Kansas,Marquette,2.6,97.4
+Kansas,Marquette,3.19,96.81
 Kansas,McNeese State,0.0,100.0
-Kansas,Michigan State,8.3,91.7
+Kansas,Michigan State,7.7,92.3
 Kansas,Mississippi State,0.0,100.0
 Kansas,Montana State,100.0,0.0
 Kansas,Morehead State,0.0,100.0
-Kansas,NC State,1.2,98.8
-Kansas,Nebraska,0.4,99.6
-Kansas,Nevada,1.0,99.0
-Kansas,New Mexico,0.1,99.9
+Kansas,NC State,0.84,99.16
+Kansas,Nebraska,0.16999999999999998,99.83
+Kansas,Nevada,1.37,98.63
+Kansas,New Mexico,0.01,99.99
 Kansas,North Carolina,0.0,100.0
-Kansas,Northwestern,1.4000000000000001,98.6
+Kansas,Northwestern,0.83,99.17
 Kansas,Oakland,0.0,100.0
 Kansas,Oregon,0.0,100.0
 Kansas,Purdue,0.0,100.0
 Kansas,Saint Mary's (CA),0.0,100.0
 Kansas,Saint Peter's,100.0,0.0
 Kansas,Samford,0.0,100.0
-Kansas,San Diego State,0.0,100.0
+Kansas,San Diego State,0.01,99.99
 Kansas,South Carolina,0.0,100.0
-Kansas,South Dakota State,7.3,92.7
+Kansas,South Dakota State,7.920000000000001,92.08
 Kansas,Stetson,0.0,100.0
 Kansas,TCU,0.0,100.0
-Kansas,Tennessee,0.3,99.7
+Kansas,Tennessee,0.4,99.6
 Kansas,Texas,0.0,100.0
 Kansas,Texas A&M,0.0,100.0
 Kansas,Texas Tech,0.0,100.0
@@ -1533,17 +1533,17 @@ Kansas,Vermont,100.0,0.0
 Kansas,Virginia,100.0,0.0
 Kansas,Wagner,100.0,0.0
 Kansas,Washington State,0.0,100.0
-Kansas,Western Kentucky,97.0,3.0
+Kansas,Western Kentucky,96.1,3.9000000000000057
 Kansas,Wisconsin,0.0,100.0
-Kansas,Yale,1.2,98.8
+Kansas,Yale,1.1199999999999999,98.88
 Kentucky,Long Beach State,100.0,0.0
-Kentucky,Longwood,100.0,0.0
+Kentucky,Longwood,99.96000000000001,0.03999999999999204
 Kentucky,Marquette,100.0,0.0
 Kentucky,McNeese State,100.0,0.0
 Kentucky,Michigan State,100.0,0.0
 Kentucky,Mississippi State,100.0,0.0
 Kentucky,Montana State,100.0,0.0
-Kentucky,Morehead State,99.9,0.09999999999999432
+Kentucky,Morehead State,99.91,0.09000000000000341
 Kentucky,NC State,100.0,0.0
 Kentucky,Nebraska,100.0,0.0
 Kentucky,Nevada,100.0,0.0
@@ -1553,19 +1553,19 @@ Kentucky,Northwestern,100.0,0.0
 Kentucky,Oakland,100.0,0.0
 Kentucky,Oregon,100.0,0.0
 Kentucky,Purdue,0.0,100.0
-Kentucky,Saint Mary's (CA),100.0,0.0
+Kentucky,Saint Mary's (CA),99.99,0.010000000000005116
 Kentucky,Saint Peter's,100.0,0.0
-Kentucky,Samford,99.9,0.09999999999999432
+Kentucky,Samford,99.99,0.010000000000005116
 Kentucky,San Diego State,100.0,0.0
 Kentucky,South Carolina,100.0,0.0
 Kentucky,South Dakota State,100.0,0.0
-Kentucky,Stetson,71.3,28.700000000000003
-Kentucky,TCU,99.8,0.20000000000000284
+Kentucky,Stetson,70.06,29.939999999999998
+Kentucky,TCU,99.92,0.0799999999999983
 Kentucky,Tennessee,100.0,0.0
 Kentucky,Texas,100.0,0.0
-Kentucky,Texas A&M,0.0,100.0
+Kentucky,Texas A&M,0.1,99.9
 Kentucky,Texas Tech,100.0,0.0
-Kentucky,UAB,17.299999999999997,82.7
+Kentucky,UAB,16.88,83.12
 Kentucky,Utah State,100.0,0.0
 Kentucky,Vermont,100.0,0.0
 Kentucky,Virginia,100.0,0.0
@@ -1575,102 +1575,102 @@ Kentucky,Western Kentucky,100.0,0.0
 Kentucky,Wisconsin,100.0,0.0
 Kentucky,Yale,100.0,0.0
 Long Beach State,Longwood,0.0,100.0
-Long Beach State,Marquette,100.0,0.0
-Long Beach State,McNeese State,0.3,99.7
-Long Beach State,Michigan State,100.0,0.0
-Long Beach State,Mississippi State,1.7999999999999998,98.2
+Long Beach State,Marquette,99.94,0.060000000000002274
+Long Beach State,McNeese State,0.35000000000000003,99.65
+Long Beach State,Michigan State,99.98,0.01999999999999602
+Long Beach State,Mississippi State,1.1900000000000002,98.81
 Long Beach State,Montana State,100.0,0.0
 Long Beach State,Morehead State,0.0,100.0
-Long Beach State,NC State,99.2,0.7999999999999972
-Long Beach State,Nebraska,98.6,1.4000000000000057
-Long Beach State,Nevada,99.9,0.09999999999999432
-Long Beach State,New Mexico,95.39999999999999,4.6000000000000085
-Long Beach State,North Carolina,1.7999999999999998,98.2
-Long Beach State,Northwestern,99.7,0.29999999999999716
-Long Beach State,Oakland,25.5,74.5
-Long Beach State,Oregon,63.6,36.4
+Long Beach State,NC State,99.45,0.5499999999999972
+Long Beach State,Nebraska,98.27,1.730000000000004
+Long Beach State,Nevada,99.72,0.28000000000000114
+Long Beach State,New Mexico,94.89999999999999,5.1000000000000085
+Long Beach State,North Carolina,1.39,98.61
+Long Beach State,Northwestern,99.52,0.480000000000004
+Long Beach State,Oakland,27.33,72.67
+Long Beach State,Oregon,64.14999999999999,35.85000000000001
 Long Beach State,Purdue,0.0,100.0
 Long Beach State,Saint Mary's (CA),0.0,100.0
 Long Beach State,Saint Peter's,100.0,0.0
 Long Beach State,Samford,0.0,100.0
-Long Beach State,San Diego State,88.0,12.0
-Long Beach State,South Carolina,1.2,98.8
+Long Beach State,San Diego State,86.75,13.25
+Long Beach State,South Carolina,1.22,98.78
 Long Beach State,South Dakota State,100.0,0.0
 Long Beach State,Stetson,0.0,100.0
 Long Beach State,TCU,0.0,100.0
-Long Beach State,Tennessee,99.4,0.5999999999999943
-Long Beach State,Texas,64.3,35.7
+Long Beach State,Tennessee,99.24,0.7600000000000051
+Long Beach State,Texas,65.47,34.53
 Long Beach State,Texas A&M,0.0,100.0
-Long Beach State,Texas Tech,0.1,99.9
+Long Beach State,Texas Tech,0.09,99.91
 Long Beach State,UAB,0.0,100.0
-Long Beach State,Utah State,6.4,93.6
+Long Beach State,Utah State,6.54,93.46
 Long Beach State,Vermont,100.0,0.0
 Long Beach State,Virginia,100.0,0.0
 Long Beach State,Wagner,100.0,0.0
-Long Beach State,Washington State,32.300000000000004,67.69999999999999
+Long Beach State,Washington State,34.31,65.69
 Long Beach State,Western Kentucky,100.0,0.0
-Long Beach State,Wisconsin,0.0,100.0
-Long Beach State,Yale,99.6,0.4000000000000057
+Long Beach State,Wisconsin,0.01,99.99
+Long Beach State,Yale,99.68,0.3199999999999932
 Longwood,Marquette,100.0,0.0
-Longwood,McNeese State,96.5,3.5
+Longwood,McNeese State,96.28,3.719999999999999
 Longwood,Michigan State,100.0,0.0
-Longwood,Mississippi State,97.89999999999999,2.1000000000000085
+Longwood,Mississippi State,97.92,2.0799999999999983
 Longwood,Montana State,100.0,0.0
-Longwood,Morehead State,52.5,47.5
+Longwood,Morehead State,49.230000000000004,50.769999999999996
 Longwood,NC State,100.0,0.0
 Longwood,Nebraska,100.0,0.0
 Longwood,Nevada,100.0,0.0
 Longwood,New Mexico,100.0,0.0
-Longwood,North Carolina,98.7,1.2999999999999972
+Longwood,North Carolina,98.92999999999999,1.0700000000000074
 Longwood,Northwestern,100.0,0.0
-Longwood,Oakland,99.9,0.09999999999999432
+Longwood,Oakland,99.99,0.010000000000005116
 Longwood,Oregon,100.0,0.0
 Longwood,Purdue,0.0,100.0
-Longwood,Saint Mary's (CA),61.5,38.5
+Longwood,Saint Mary's (CA),58.15,41.85
 Longwood,Saint Peter's,100.0,0.0
-Longwood,Samford,69.0,31.0
+Longwood,Samford,68.01,31.989999999999995
 Longwood,San Diego State,100.0,0.0
-Longwood,South Carolina,98.5,1.5
+Longwood,South Carolina,98.22,1.7800000000000011
 Longwood,South Dakota State,100.0,0.0
-Longwood,Stetson,0.3,99.7
-Longwood,TCU,43.1,56.9
+Longwood,Stetson,0.45999999999999996,99.54
+Longwood,TCU,41.949999999999996,58.050000000000004
 Longwood,Tennessee,100.0,0.0
 Longwood,Texas,100.0,0.0
 Longwood,Texas A&M,0.0,100.0
-Longwood,Texas Tech,90.60000000000001,9.399999999999991
+Longwood,Texas Tech,89.27000000000001,10.72999999999999
 Longwood,UAB,0.0,100.0
-Longwood,Utah State,99.6,0.4000000000000057
+Longwood,Utah State,99.83,0.1700000000000017
 Longwood,Vermont,100.0,0.0
 Longwood,Virginia,100.0,0.0
 Longwood,Wagner,100.0,0.0
 Longwood,Washington State,100.0,0.0
 Longwood,Western Kentucky,100.0,0.0
-Longwood,Wisconsin,74.6,25.400000000000006
+Longwood,Wisconsin,75.46000000000001,24.539999999999992
 Longwood,Yale,100.0,0.0
 Marquette,McNeese State,0.0,100.0
-Marquette,Michigan State,66.60000000000001,33.39999999999999
+Marquette,Michigan State,67.83,32.17
 Marquette,Mississippi State,0.0,100.0
 Marquette,Montana State,100.0,0.0
 Marquette,Morehead State,0.0,100.0
-Marquette,NC State,31.3,68.7
-Marquette,Nebraska,13.600000000000001,86.4
-Marquette,Nevada,35.099999999999994,64.9
-Marquette,New Mexico,7.7,92.3
+Marquette,NC State,30.509999999999998,69.49000000000001
+Marquette,Nebraska,13.33,86.67
+Marquette,Nevada,33.129999999999995,66.87
+Marquette,New Mexico,6.32,93.68
 Marquette,North Carolina,0.0,100.0
-Marquette,Northwestern,31.7,68.3
-Marquette,Oakland,0.0,100.0
-Marquette,Oregon,0.2,99.8
+Marquette,Northwestern,31.47,68.53
+Marquette,Oakland,0.02,99.98
+Marquette,Oregon,0.27,99.73
 Marquette,Purdue,0.0,100.0
 Marquette,Saint Mary's (CA),0.0,100.0
 Marquette,Saint Peter's,100.0,0.0
 Marquette,Samford,0.0,100.0
-Marquette,San Diego State,1.7000000000000002,98.3
+Marquette,San Diego State,2.06,97.94
 Marquette,South Carolina,0.0,100.0
-Marquette,South Dakota State,65.7,34.3
+Marquette,South Dakota State,65.66,34.34
 Marquette,Stetson,0.0,100.0
 Marquette,TCU,0.0,100.0
-Marquette,Tennessee,23.0,77.0
-Marquette,Texas,0.3,99.7
+Marquette,Tennessee,21.560000000000002,78.44
+Marquette,Texas,0.22999999999999998,99.77
 Marquette,Texas A&M,0.0,100.0
 Marquette,Texas Tech,0.0,100.0
 Marquette,UAB,0.0,100.0
@@ -1678,66 +1678,66 @@ Marquette,Utah State,0.0,100.0
 Marquette,Vermont,100.0,0.0
 Marquette,Virginia,100.0,0.0
 Marquette,Wagner,100.0,0.0
-Marquette,Washington State,0.0,100.0
-Marquette,Western Kentucky,100.0,0.0
+Marquette,Washington State,0.01,99.99
+Marquette,Western Kentucky,99.97,0.030000000000001137
 Marquette,Wisconsin,0.0,100.0
-Marquette,Yale,34.4,65.6
+Marquette,Yale,34.27,65.72999999999999
 McNeese State,Michigan State,100.0,0.0
-McNeese State,Mississippi State,59.199999999999996,40.800000000000004
+McNeese State,Mississippi State,59.39,40.61
 McNeese State,Montana State,100.0,0.0
-McNeese State,Morehead State,2.5,97.5
+McNeese State,Morehead State,2.8000000000000003,97.2
 McNeese State,NC State,100.0,0.0
 McNeese State,Nebraska,100.0,0.0
 McNeese State,Nevada,100.0,0.0
 McNeese State,New Mexico,100.0,0.0
-McNeese State,North Carolina,71.8,28.200000000000003
+McNeese State,North Carolina,71.69,28.310000000000002
 McNeese State,Northwestern,100.0,0.0
-McNeese State,Oakland,98.6,1.4000000000000057
-McNeese State,Oregon,99.7,0.29999999999999716
+McNeese State,Oakland,98.11999999999999,1.8800000000000097
+McNeese State,Oregon,99.9,0.09999999999999432
 McNeese State,Purdue,0.0,100.0
-McNeese State,Saint Mary's (CA),4.8,95.2
+McNeese State,Saint Mary's (CA),5.779999999999999,94.22
 McNeese State,Saint Peter's,100.0,0.0
-McNeese State,Samford,5.8999999999999995,94.1
+McNeese State,Samford,5.83,94.17
 McNeese State,San Diego State,100.0,0.0
-McNeese State,South Carolina,64.7,35.3
+McNeese State,South Carolina,67.27,32.730000000000004
 McNeese State,South Dakota State,100.0,0.0
 McNeese State,Stetson,0.0,100.0
-McNeese State,TCU,1.0999999999999999,98.9
+McNeese State,TCU,1.7999999999999998,98.2
 McNeese State,Tennessee,100.0,0.0
-McNeese State,Texas,99.8,0.20000000000000284
+McNeese State,Texas,99.9,0.09999999999999432
 McNeese State,Texas A&M,0.0,100.0
-McNeese State,Texas Tech,29.099999999999998,70.9
+McNeese State,Texas Tech,30.84,69.16
 McNeese State,UAB,0.0,100.0
-McNeese State,Utah State,89.2,10.799999999999997
+McNeese State,Utah State,86.47,13.530000000000001
 McNeese State,Vermont,100.0,0.0
 McNeese State,Virginia,100.0,0.0
 McNeese State,Wagner,100.0,0.0
-McNeese State,Washington State,98.7,1.2999999999999972
+McNeese State,Washington State,98.69,1.3100000000000023
 McNeese State,Western Kentucky,100.0,0.0
-McNeese State,Wisconsin,15.5,84.5
+McNeese State,Wisconsin,15.14,84.86
 McNeese State,Yale,100.0,0.0
 Michigan State,Mississippi State,0.0,100.0
 Michigan State,Montana State,100.0,0.0
 Michigan State,Morehead State,0.0,100.0
-Michigan State,NC State,17.599999999999998,82.4
-Michigan State,Nebraska,6.4,93.6
-Michigan State,Nevada,20.0,80.0
-Michigan State,New Mexico,2.1999999999999997,97.8
+Michigan State,NC State,17.080000000000002,82.92
+Michigan State,Nebraska,6.279999999999999,93.72
+Michigan State,Nevada,19.43,80.57
+Michigan State,New Mexico,2.31,97.69
 Michigan State,North Carolina,0.0,100.0
-Michigan State,Northwestern,17.299999999999997,82.7
+Michigan State,Northwestern,16.29,83.71000000000001
 Michigan State,Oakland,0.0,100.0
 Michigan State,Oregon,0.1,99.9
 Michigan State,Purdue,0.0,100.0
 Michigan State,Saint Mary's (CA),0.0,100.0
 Michigan State,Saint Peter's,100.0,0.0
 Michigan State,Samford,0.0,100.0
-Michigan State,San Diego State,0.7000000000000001,99.3
+Michigan State,San Diego State,0.8,99.2
 Michigan State,South Carolina,0.0,100.0
-Michigan State,South Dakota State,48.199999999999996,51.800000000000004
+Michigan State,South Dakota State,49.059999999999995,50.940000000000005
 Michigan State,Stetson,0.0,100.0
 Michigan State,TCU,0.0,100.0
-Michigan State,Tennessee,10.299999999999999,89.7
-Michigan State,Texas,0.0,100.0
+Michigan State,Tennessee,11.09,88.91
+Michigan State,Texas,0.01,99.99
 Michigan State,Texas A&M,0.0,100.0
 Michigan State,Texas Tech,0.0,100.0
 Michigan State,UAB,0.0,100.0
@@ -1746,40 +1746,40 @@ Michigan State,Vermont,100.0,0.0
 Michigan State,Virginia,100.0,0.0
 Michigan State,Wagner,100.0,0.0
 Michigan State,Washington State,0.0,100.0
-Michigan State,Western Kentucky,99.7,0.29999999999999716
+Michigan State,Western Kentucky,99.98,0.01999999999999602
 Michigan State,Wisconsin,0.0,100.0
-Michigan State,Yale,23.0,77.0
+Michigan State,Yale,19.6,80.4
 Mississippi State,Montana State,100.0,0.0
-Mississippi State,Morehead State,2.1999999999999997,97.8
+Mississippi State,Morehead State,1.78,98.22
 Mississippi State,NC State,100.0,0.0
 Mississippi State,Nebraska,100.0,0.0
 Mississippi State,Nevada,100.0,0.0
-Mississippi State,New Mexico,100.0,0.0
-Mississippi State,North Carolina,58.8,41.2
+Mississippi State,New Mexico,99.99,0.010000000000005116
+Mississippi State,North Carolina,58.17,41.83
 Mississippi State,Northwestern,100.0,0.0
-Mississippi State,Oakland,95.1,4.900000000000006
-Mississippi State,Oregon,99.6,0.4000000000000057
+Mississippi State,Oakland,95.69,4.310000000000002
+Mississippi State,Oregon,99.7,0.29999999999999716
 Mississippi State,Purdue,0.0,100.0
-Mississippi State,Saint Mary's (CA),3.9,96.1
+Mississippi State,Saint Mary's (CA),3.2,96.8
 Mississippi State,Saint Peter's,100.0,0.0
-Mississippi State,Samford,6.5,93.5
-Mississippi State,San Diego State,100.0,0.0
-Mississippi State,South Carolina,51.7,48.3
+Mississippi State,Samford,4.81,95.19
+Mississippi State,San Diego State,99.96000000000001,0.03999999999999204
+Mississippi State,South Carolina,51.93,48.07
 Mississippi State,South Dakota State,100.0,0.0
 Mississippi State,Stetson,0.0,100.0
-Mississippi State,TCU,1.3,98.7
+Mississippi State,TCU,0.97,99.03
 Mississippi State,Tennessee,100.0,0.0
-Mississippi State,Texas,99.7,0.29999999999999716
+Mississippi State,Texas,99.53999999999999,0.46000000000000796
 Mississippi State,Texas A&M,0.0,100.0
-Mississippi State,Texas Tech,21.9,78.1
+Mississippi State,Texas Tech,21.22,78.78
 Mississippi State,UAB,0.0,100.0
-Mississippi State,Utah State,81.8,18.200000000000003
+Mississippi State,Utah State,80.24,19.760000000000005
 Mississippi State,Vermont,100.0,0.0
 Mississippi State,Virginia,100.0,0.0
 Mississippi State,Wagner,100.0,0.0
-Mississippi State,Washington State,97.89999999999999,2.1000000000000085
+Mississippi State,Washington State,96.66,3.3400000000000034
 Mississippi State,Western Kentucky,100.0,0.0
-Mississippi State,Wisconsin,9.0,91.0
+Mississippi State,Wisconsin,8.04,91.96000000000001
 Mississippi State,Yale,100.0,0.0
 Montana State,Morehead State,0.0,100.0
 Montana State,NC State,0.0,100.0
@@ -1792,7 +1792,7 @@ Montana State,Oakland,0.0,100.0
 Montana State,Oregon,0.0,100.0
 Montana State,Purdue,0.0,100.0
 Montana State,Saint Mary's (CA),0.0,100.0
-Montana State,Saint Peter's,79.60000000000001,20.39999999999999
+Montana State,Saint Peter's,80.10000000000001,19.89999999999999
 Montana State,Samford,0.0,100.0
 Montana State,San Diego State,0.0,100.0
 Montana State,South Carolina,0.0,100.0
@@ -1805,61 +1805,61 @@ Montana State,Texas A&M,0.0,100.0
 Montana State,Texas Tech,0.0,100.0
 Montana State,UAB,0.0,100.0
 Montana State,Utah State,0.0,100.0
-Montana State,Vermont,100.0,0.0
+Montana State,Vermont,99.98,0.01999999999999602
 Montana State,Virginia,100.0,0.0
-Montana State,Wagner,99.6,0.4000000000000057
+Montana State,Wagner,99.68,0.3199999999999932
 Montana State,Washington State,0.0,100.0
-Montana State,Western Kentucky,1.0,99.0
+Montana State,Western Kentucky,0.86,99.14
 Montana State,Wisconsin,0.0,100.0
 Montana State,Yale,0.0,100.0
 Morehead State,NC State,100.0,0.0
 Morehead State,Nebraska,100.0,0.0
 Morehead State,Nevada,100.0,0.0
 Morehead State,New Mexico,100.0,0.0
-Morehead State,North Carolina,99.3,0.7000000000000028
+Morehead State,North Carolina,99.25,0.75
 Morehead State,Northwestern,100.0,0.0
 Morehead State,Oakland,100.0,0.0
 Morehead State,Oregon,100.0,0.0
 Morehead State,Purdue,0.0,100.0
-Morehead State,Saint Mary's (CA),59.4,40.6
+Morehead State,Saint Mary's (CA),61.0,39.0
 Morehead State,Saint Peter's,100.0,0.0
-Morehead State,Samford,69.1,30.900000000000006
+Morehead State,Samford,68.62,31.379999999999995
 Morehead State,San Diego State,100.0,0.0
-Morehead State,South Carolina,98.5,1.5
+Morehead State,South Carolina,98.81,1.1899999999999977
 Morehead State,South Dakota State,100.0,0.0
-Morehead State,Stetson,0.6,99.4
-Morehead State,TCU,41.6,58.4
+Morehead State,Stetson,0.44,99.56
+Morehead State,TCU,41.089999999999996,58.910000000000004
 Morehead State,Tennessee,100.0,0.0
 Morehead State,Texas,100.0,0.0
 Morehead State,Texas A&M,0.0,100.0
-Morehead State,Texas Tech,90.2,9.799999999999997
-Morehead State,UAB,0.1,99.9
-Morehead State,Utah State,99.8,0.20000000000000284
+Morehead State,Texas Tech,91.09,8.909999999999997
+Morehead State,UAB,0.0,100.0
+Morehead State,Utah State,99.89,0.10999999999999943
 Morehead State,Vermont,100.0,0.0
 Morehead State,Virginia,100.0,0.0
 Morehead State,Wagner,100.0,0.0
 Morehead State,Washington State,100.0,0.0
 Morehead State,Western Kentucky,100.0,0.0
-Morehead State,Wisconsin,77.9,22.099999999999994
+Morehead State,Wisconsin,78.22,21.78
 Morehead State,Yale,100.0,0.0
-NC State,Nebraska,26.900000000000002,73.1
-NC State,Nevada,50.0,50.0
-NC State,New Mexico,14.299999999999999,85.7
+NC State,Nebraska,28.65,71.35
+NC State,Nevada,51.77,48.23
+NC State,New Mexico,15.03,84.97
 NC State,North Carolina,0.0,100.0
-NC State,Northwestern,49.6,50.4
-NC State,Oakland,0.0,100.0
-NC State,Oregon,1.6,98.4
+NC State,Northwestern,49.93,50.07
+NC State,Oakland,0.06,99.94
+NC State,Oregon,1.25,98.75
 NC State,Purdue,0.0,100.0
 NC State,Saint Mary's (CA),0.0,100.0
 NC State,Saint Peter's,100.0,0.0
 NC State,Samford,0.0,100.0
-NC State,San Diego State,7.1,92.9
+NC State,San Diego State,6.7,93.3
 NC State,South Carolina,0.0,100.0
-NC State,South Dakota State,83.5,16.5
+NC State,South Dakota State,82.74000000000001,17.25999999999999
 NC State,Stetson,0.0,100.0
 NC State,TCU,0.0,100.0
-NC State,Tennessee,37.2,62.8
-NC State,Texas,1.3,98.7
+NC State,Tennessee,38.74,61.26
+NC State,Texas,1.05,98.95
 NC State,Texas A&M,0.0,100.0
 NC State,Texas Tech,0.0,100.0
 NC State,UAB,0.0,100.0
@@ -1867,27 +1867,27 @@ NC State,Utah State,0.0,100.0
 NC State,Vermont,100.0,0.0
 NC State,Virginia,100.0,0.0
 NC State,Wagner,100.0,0.0
-NC State,Washington State,0.1,99.9
+NC State,Washington State,0.13999999999999999,99.86
 NC State,Western Kentucky,100.0,0.0
 NC State,Wisconsin,0.0,100.0
-NC State,Yale,51.9,48.1
-Nebraska,Nevada,76.6,23.400000000000006
-Nebraska,New Mexico,32.9,67.1
-Nebraska,North Carolina,0.0,100.0
-Nebraska,Northwestern,73.7,26.299999999999997
-Nebraska,Oakland,0.1,99.9
-Nebraska,Oregon,5.5,94.5
+NC State,Yale,53.63,46.37
+Nebraska,Nevada,74.86,25.14
+Nebraska,New Mexico,33.73,66.27000000000001
+Nebraska,North Carolina,0.02,99.98
+Nebraska,Northwestern,73.3,26.700000000000003
+Nebraska,Oakland,0.33999999999999997,99.66
+Nebraska,Oregon,5.16,94.84
 Nebraska,Purdue,0.0,100.0
 Nebraska,Saint Mary's (CA),0.0,100.0
 Nebraska,Saint Peter's,100.0,0.0
 Nebraska,Samford,0.0,100.0
-Nebraska,San Diego State,18.6,81.4
+Nebraska,San Diego State,18.21,81.78999999999999
 Nebraska,South Carolina,0.0,100.0
-Nebraska,South Dakota State,92.9,7.099999999999994
+Nebraska,South Dakota State,93.63,6.3700000000000045
 Nebraska,Stetson,0.0,100.0
 Nebraska,TCU,0.0,100.0
-Nebraska,Tennessee,61.9,38.1
-Nebraska,Texas,4.3999999999999995,95.6
+Nebraska,Tennessee,62.96000000000001,37.03999999999999
+Nebraska,Texas,4.26,95.74
 Nebraska,Texas A&M,0.0,100.0
 Nebraska,Texas Tech,0.0,100.0
 Nebraska,UAB,0.0,100.0
@@ -1895,26 +1895,26 @@ Nebraska,Utah State,0.0,100.0
 Nebraska,Vermont,100.0,0.0
 Nebraska,Virginia,100.0,0.0
 Nebraska,Wagner,100.0,0.0
-Nebraska,Washington State,0.6,99.4
+Nebraska,Washington State,0.7100000000000001,99.29
 Nebraska,Western Kentucky,100.0,0.0
 Nebraska,Wisconsin,0.0,100.0
-Nebraska,Yale,73.6,26.400000000000006
-Nevada,New Mexico,14.7,85.3
+Nebraska,Yale,75.5,24.5
+Nevada,New Mexico,14.499999999999998,85.5
 Nevada,North Carolina,0.0,100.0
-Nevada,Northwestern,47.099999999999994,52.900000000000006
-Nevada,Oakland,0.1,99.9
-Nevada,Oregon,1.0,99.0
+Nevada,Northwestern,48.16,51.84
+Nevada,Oakland,0.06,99.94
+Nevada,Oregon,1.1900000000000002,98.81
 Nevada,Purdue,0.0,100.0
 Nevada,Saint Mary's (CA),0.0,100.0
 Nevada,Saint Peter's,100.0,0.0
 Nevada,Samford,0.0,100.0
-Nevada,San Diego State,5.8999999999999995,94.1
+Nevada,San Diego State,5.220000000000001,94.78
 Nevada,South Carolina,0.0,100.0
-Nevada,South Dakota State,77.7,22.299999999999997
+Nevada,South Dakota State,79.05,20.950000000000003
 Nevada,Stetson,0.0,100.0
 Nevada,TCU,0.0,100.0
-Nevada,Tennessee,35.6,64.4
-Nevada,Texas,0.6,99.4
+Nevada,Tennessee,37.18,62.82
+Nevada,Texas,0.84,99.16
 Nevada,Texas A&M,0.0,100.0
 Nevada,Texas Tech,0.0,100.0
 Nevada,UAB,0.0,100.0
@@ -1922,74 +1922,74 @@ Nevada,Utah State,0.0,100.0
 Nevada,Vermont,100.0,0.0
 Nevada,Virginia,100.0,0.0
 Nevada,Wagner,100.0,0.0
-Nevada,Washington State,0.0,100.0
+Nevada,Washington State,0.09,99.91
 Nevada,Western Kentucky,100.0,0.0
 Nevada,Wisconsin,0.0,100.0
-Nevada,Yale,51.9,48.1
-New Mexico,North Carolina,0.0,100.0
-New Mexico,Northwestern,85.8,14.200000000000003
-New Mexico,Oakland,1.7999999999999998,98.2
-New Mexico,Oregon,11.1,88.9
+Nevada,Yale,50.81,49.19
+New Mexico,North Carolina,0.01,99.99
+New Mexico,Northwestern,84.91,15.090000000000003
+New Mexico,Oakland,1.26,98.74
+New Mexico,Oregon,10.6,89.4
 New Mexico,Purdue,0.0,100.0
 New Mexico,Saint Mary's (CA),0.0,100.0
 New Mexico,Saint Peter's,100.0,0.0
 New Mexico,Samford,0.0,100.0
-New Mexico,San Diego State,30.599999999999998,69.4
-New Mexico,South Carolina,0.0,100.0
-New Mexico,South Dakota State,97.1,2.9000000000000057
+New Mexico,San Diego State,31.509999999999998,68.49000000000001
+New Mexico,South Carolina,0.03,99.97
+New Mexico,South Dakota State,97.64,2.3599999999999994
 New Mexico,Stetson,0.0,100.0
 New Mexico,TCU,0.0,100.0
-New Mexico,Tennessee,76.3,23.700000000000003
-New Mexico,Texas,9.3,90.7
+New Mexico,Tennessee,78.13,21.870000000000005
+New Mexico,Texas,9.39,90.61
 New Mexico,Texas A&M,0.0,100.0
 New Mexico,Texas Tech,0.0,100.0
 New Mexico,UAB,0.0,100.0
-New Mexico,Utah State,0.0,100.0
+New Mexico,Utah State,0.02,99.98
 New Mexico,Vermont,100.0,0.0
 New Mexico,Virginia,100.0,0.0
 New Mexico,Wagner,100.0,0.0
-New Mexico,Washington State,2.0,98.0
+New Mexico,Washington State,2.03,97.97
 New Mexico,Western Kentucky,100.0,0.0
 New Mexico,Wisconsin,0.0,100.0
-New Mexico,Yale,87.0,13.0
+New Mexico,Yale,87.41,12.590000000000003
 North Carolina,Northwestern,100.0,0.0
-North Carolina,Oakland,93.8,6.200000000000003
-North Carolina,Oregon,99.6,0.4000000000000057
+North Carolina,Oakland,93.72,6.280000000000001
+North Carolina,Oregon,99.62,0.37999999999999545
 North Carolina,Purdue,0.0,100.0
-North Carolina,Saint Mary's (CA),1.0999999999999999,98.9
+North Carolina,Saint Mary's (CA),1.17,98.83
 North Carolina,Saint Peter's,100.0,0.0
-North Carolina,Samford,1.5,98.5
-North Carolina,San Diego State,100.0,0.0
-North Carolina,South Carolina,47.4,52.6
+North Carolina,Samford,2.01,97.99
+North Carolina,San Diego State,99.96000000000001,0.03999999999999204
+North Carolina,South Carolina,47.14,52.86
 North Carolina,South Dakota State,100.0,0.0
 North Carolina,Stetson,0.0,100.0
-North Carolina,TCU,1.3,98.7
+North Carolina,TCU,0.44999999999999996,99.55
 North Carolina,Tennessee,100.0,0.0
-North Carolina,Texas,99.4,0.5999999999999943
+North Carolina,Texas,99.42999999999999,0.5700000000000074
 North Carolina,Texas A&M,0.0,100.0
-North Carolina,Texas Tech,14.7,85.3
+North Carolina,Texas Tech,15.36,84.64
 North Carolina,UAB,0.0,100.0
-North Carolina,Utah State,73.9,26.099999999999994
+North Carolina,Utah State,72.6,27.400000000000006
 North Carolina,Vermont,100.0,0.0
 North Carolina,Virginia,100.0,0.0
 North Carolina,Wagner,100.0,0.0
-North Carolina,Washington State,95.19999999999999,4.800000000000011
+North Carolina,Washington State,95.42,4.579999999999998
 North Carolina,Western Kentucky,100.0,0.0
-North Carolina,Wisconsin,6.1,93.9
+North Carolina,Wisconsin,5.75,94.25
 North Carolina,Yale,100.0,0.0
 Northwestern,Oakland,0.1,99.9
-Northwestern,Oregon,1.6,98.4
+Northwestern,Oregon,1.59,98.41
 Northwestern,Purdue,0.0,100.0
 Northwestern,Saint Mary's (CA),0.0,100.0
 Northwestern,Saint Peter's,100.0,0.0
 Northwestern,Samford,0.0,100.0
-Northwestern,San Diego State,6.9,93.1
+Northwestern,San Diego State,7.22,92.78
 Northwestern,South Carolina,0.0,100.0
-Northwestern,South Dakota State,79.7,20.299999999999997
+Northwestern,South Dakota State,81.57,18.430000000000007
 Northwestern,Stetson,0.0,100.0
 Northwestern,TCU,0.0,100.0
-Northwestern,Tennessee,38.9,61.1
-Northwestern,Texas,2.0,98.0
+Northwestern,Tennessee,39.69,60.31
+Northwestern,Texas,1.2,98.8
 Northwestern,Texas A&M,0.0,100.0
 Northwestern,Texas Tech,0.0,100.0
 Northwestern,UAB,0.0,100.0
@@ -1997,55 +1997,55 @@ Northwestern,Utah State,0.0,100.0
 Northwestern,Vermont,100.0,0.0
 Northwestern,Virginia,100.0,0.0
 Northwestern,Wagner,100.0,0.0
-Northwestern,Washington State,0.0,100.0
+Northwestern,Washington State,0.13,99.87
 Northwestern,Western Kentucky,100.0,0.0
 Northwestern,Wisconsin,0.0,100.0
-Northwestern,Yale,52.6,47.4
-Oakland,Oregon,84.89999999999999,15.100000000000009
+Northwestern,Yale,54.279999999999994,45.720000000000006
+Oakland,Oregon,83.71,16.290000000000006
 Oakland,Purdue,0.0,100.0
-Oakland,Saint Mary's (CA),0.1,99.9
+Oakland,Saint Mary's (CA),0.0,100.0
 Oakland,Saint Peter's,100.0,0.0
-Oakland,Samford,0.0,100.0
-Oakland,San Diego State,95.7,4.299999999999997
-Oakland,South Carolina,4.3999999999999995,95.6
+Oakland,Samford,0.01,99.99
+Oakland,San Diego State,95.53,4.469999999999999
+Oakland,South Carolina,4.97,95.03
 Oakland,South Dakota State,100.0,0.0
 Oakland,Stetson,0.0,100.0
 Oakland,TCU,0.0,100.0
-Oakland,Tennessee,99.8,0.20000000000000284
-Oakland,Texas,81.8,18.200000000000003
+Oakland,Tennessee,99.89,0.10999999999999943
+Oakland,Texas,82.75,17.25
 Oakland,Texas A&M,0.0,100.0
-Oakland,Texas Tech,0.2,99.8
+Oakland,Texas Tech,0.5599999999999999,99.44
 Oakland,UAB,0.0,100.0
-Oakland,Utah State,18.6,81.4
+Oakland,Utah State,17.71,82.28999999999999
 Oakland,Vermont,100.0,0.0
 Oakland,Virginia,100.0,0.0
 Oakland,Wagner,100.0,0.0
-Oakland,Washington State,58.5,41.5
+Oakland,Washington State,56.18,43.82
 Oakland,Western Kentucky,100.0,0.0
-Oakland,Wisconsin,0.2,99.8
-Oakland,Yale,100.0,0.0
+Oakland,Wisconsin,0.06,99.94
+Oakland,Yale,99.91,0.09000000000000341
 Oregon,Purdue,0.0,100.0
 Oregon,Saint Mary's (CA),0.0,100.0
 Oregon,Saint Peter's,100.0,0.0
 Oregon,Samford,0.0,100.0
-Oregon,San Diego State,76.5,23.5
-Oregon,South Carolina,0.4,99.6
-Oregon,South Dakota State,99.8,0.20000000000000284
+Oregon,San Diego State,77.53999999999999,22.460000000000008
+Oregon,South Carolina,0.48,99.52
+Oregon,South Dakota State,99.95,0.04999999999999716
 Oregon,Stetson,0.0,100.0
 Oregon,TCU,0.0,100.0
-Oregon,Tennessee,97.3,2.700000000000003
-Oregon,Texas,47.9,52.1
+Oregon,Tennessee,97.67,2.3299999999999983
+Oregon,Texas,48.65,51.35
 Oregon,Texas A&M,0.0,100.0
-Oregon,Texas Tech,0.0,100.0
+Oregon,Texas Tech,0.01,99.99
 Oregon,UAB,0.0,100.0
-Oregon,Utah State,2.1,97.9
+Oregon,Utah State,2.62,97.38
 Oregon,Vermont,100.0,0.0
 Oregon,Virginia,100.0,0.0
 Oregon,Wagner,100.0,0.0
-Oregon,Washington State,19.7,80.3
+Oregon,Washington State,21.34,78.66
 Oregon,Western Kentucky,100.0,0.0
 Oregon,Wisconsin,0.0,100.0
-Oregon,Yale,99.1,0.9000000000000057
+Oregon,Yale,99.06,0.9399999999999977
 Purdue,Saint Mary's (CA),100.0,0.0
 Purdue,Saint Peter's,100.0,0.0
 Purdue,Samford,100.0,0.0
@@ -2056,7 +2056,7 @@ Purdue,Stetson,100.0,0.0
 Purdue,TCU,100.0,0.0
 Purdue,Tennessee,100.0,0.0
 Purdue,Texas,100.0,0.0
-Purdue,Texas A&M,99.9,0.09999999999999432
+Purdue,Texas A&M,99.92999999999999,0.07000000000000739
 Purdue,Texas Tech,100.0,0.0
 Purdue,UAB,100.0,0.0
 Purdue,Utah State,100.0,0.0
@@ -2068,24 +2068,24 @@ Purdue,Western Kentucky,100.0,0.0
 Purdue,Wisconsin,100.0,0.0
 Purdue,Yale,100.0,0.0
 Saint Mary's (CA),Saint Peter's,100.0,0.0
-Saint Mary's (CA),Samford,57.199999999999996,42.800000000000004
+Saint Mary's (CA),Samford,56.34,43.66
 Saint Mary's (CA),San Diego State,100.0,0.0
-Saint Mary's (CA),South Carolina,97.39999999999999,2.6000000000000085
+Saint Mary's (CA),South Carolina,97.56,2.4399999999999977
 Saint Mary's (CA),South Dakota State,100.0,0.0
-Saint Mary's (CA),Stetson,0.1,99.9
-Saint Mary's (CA),TCU,30.8,69.2
+Saint Mary's (CA),Stetson,0.27,99.73
+Saint Mary's (CA),TCU,31.77,68.23
 Saint Mary's (CA),Tennessee,100.0,0.0
 Saint Mary's (CA),Texas,100.0,0.0
 Saint Mary's (CA),Texas A&M,0.0,100.0
-Saint Mary's (CA),Texas Tech,85.6,14.400000000000006
+Saint Mary's (CA),Texas Tech,85.41,14.590000000000003
 Saint Mary's (CA),UAB,0.0,100.0
-Saint Mary's (CA),Utah State,99.7,0.29999999999999716
+Saint Mary's (CA),Utah State,99.57000000000001,0.4299999999999926
 Saint Mary's (CA),Vermont,100.0,0.0
 Saint Mary's (CA),Virginia,100.0,0.0
 Saint Mary's (CA),Wagner,100.0,0.0
-Saint Mary's (CA),Washington State,99.8,0.20000000000000284
+Saint Mary's (CA),Washington State,99.99,0.010000000000005116
 Saint Mary's (CA),Western Kentucky,100.0,0.0
-Saint Mary's (CA),Wisconsin,68.7,31.299999999999997
+Saint Mary's (CA),Wisconsin,70.26,29.739999999999995
 Saint Mary's (CA),Yale,100.0,0.0
 Saint Peter's,Samford,0.0,100.0
 Saint Peter's,San Diego State,0.0,100.0
@@ -2099,68 +2099,68 @@ Saint Peter's,Texas A&M,0.0,100.0
 Saint Peter's,Texas Tech,0.0,100.0
 Saint Peter's,UAB,0.0,100.0
 Saint Peter's,Utah State,0.0,100.0
-Saint Peter's,Vermont,99.6,0.4000000000000057
+Saint Peter's,Vermont,99.31,0.6899999999999977
 Saint Peter's,Virginia,100.0,0.0
-Saint Peter's,Wagner,94.5,5.5
+Saint Peter's,Wagner,96.02000000000001,3.9799999999999898
 Saint Peter's,Washington State,0.0,100.0
-Saint Peter's,Western Kentucky,0.0,100.0
+Saint Peter's,Western Kentucky,0.09,99.91
 Saint Peter's,Wisconsin,0.0,100.0
 Saint Peter's,Yale,0.0,100.0
 Samford,San Diego State,100.0,0.0
-Samford,South Carolina,96.6,3.4000000000000057
+Samford,South Carolina,96.67999999999999,3.3200000000000074
 Samford,South Dakota State,100.0,0.0
-Samford,Stetson,0.2,99.8
-Samford,TCU,23.599999999999998,76.4
+Samford,Stetson,0.08,99.92
+Samford,TCU,24.21,75.78999999999999
 Samford,Tennessee,100.0,0.0
 Samford,Texas,100.0,0.0
 Samford,Texas A&M,0.0,100.0
-Samford,Texas Tech,81.0,19.0
+Samford,Texas Tech,80.92,19.08
 Samford,UAB,0.0,100.0
-Samford,Utah State,99.1,0.9000000000000057
+Samford,Utah State,99.42999999999999,0.5700000000000074
 Samford,Vermont,100.0,0.0
 Samford,Virginia,100.0,0.0
 Samford,Wagner,100.0,0.0
 Samford,Washington State,100.0,0.0
 Samford,Western Kentucky,100.0,0.0
-Samford,Wisconsin,64.8,35.2
+Samford,Wisconsin,64.24,35.760000000000005
 Samford,Yale,100.0,0.0
-San Diego State,South Carolina,0.0,100.0
-San Diego State,South Dakota State,99.2,0.7999999999999972
+San Diego State,South Carolina,0.06,99.94
+San Diego State,South Dakota State,99.27,0.730000000000004
 San Diego State,Stetson,0.0,100.0
 San Diego State,TCU,0.0,100.0
-San Diego State,Tennessee,91.5,8.5
-San Diego State,Texas,21.6,78.4
+San Diego State,Tennessee,89.82,10.180000000000007
+San Diego State,Texas,23.13,76.87
 San Diego State,Texas A&M,0.0,100.0
-San Diego State,Texas Tech,0.0,100.0
+San Diego State,Texas Tech,0.01,99.99
 San Diego State,UAB,0.0,100.0
-San Diego State,Utah State,0.4,99.6
+San Diego State,Utah State,0.5700000000000001,99.43
 San Diego State,Vermont,100.0,0.0
 San Diego State,Virginia,100.0,0.0
 San Diego State,Wagner,100.0,0.0
-San Diego State,Washington State,6.4,93.6
+San Diego State,Washington State,6.950000000000001,93.05
 San Diego State,Western Kentucky,100.0,0.0
 San Diego State,Wisconsin,0.0,100.0
-San Diego State,Yale,93.2,6.799999999999997
+San Diego State,Yale,94.54,5.459999999999994
 South Carolina,South Dakota State,100.0,0.0
 South Carolina,Stetson,0.0,100.0
-South Carolina,TCU,0.8,99.2
+South Carolina,TCU,0.8500000000000001,99.15
 South Carolina,Tennessee,100.0,0.0
-South Carolina,Texas,99.4,0.5999999999999943
+South Carolina,Texas,99.44,0.5600000000000023
 South Carolina,Texas A&M,0.0,100.0
-South Carolina,Texas Tech,19.7,80.3
+South Carolina,Texas Tech,18.92,81.08
 South Carolina,UAB,0.0,100.0
-South Carolina,Utah State,76.1,23.900000000000006
+South Carolina,Utah State,75.86,24.14
 South Carolina,Vermont,100.0,0.0
 South Carolina,Virginia,100.0,0.0
 South Carolina,Wagner,100.0,0.0
-South Carolina,Washington State,96.7,3.299999999999997
+South Carolina,Washington State,96.12,3.8799999999999955
 South Carolina,Western Kentucky,100.0,0.0
-South Carolina,Wisconsin,7.199999999999999,92.8
+South Carolina,Wisconsin,7.28,92.72
 South Carolina,Yale,100.0,0.0
 South Dakota State,Stetson,0.0,100.0
 South Dakota State,TCU,0.0,100.0
-South Dakota State,Tennessee,12.6,87.4
-South Dakota State,Texas,0.1,99.9
+South Dakota State,Tennessee,11.59,88.41
+South Dakota State,Texas,0.08,99.92
 South Dakota State,Texas A&M,0.0,100.0
 South Dakota State,Texas Tech,0.0,100.0
 South Dakota State,UAB,0.0,100.0
@@ -2169,37 +2169,37 @@ South Dakota State,Vermont,100.0,0.0
 South Dakota State,Virginia,100.0,0.0
 South Dakota State,Wagner,100.0,0.0
 South Dakota State,Washington State,0.0,100.0
-South Dakota State,Western Kentucky,99.9,0.09999999999999432
+South Dakota State,Western Kentucky,99.94,0.060000000000002274
 South Dakota State,Wisconsin,0.0,100.0
-South Dakota State,Yale,20.5,79.5
-Stetson,TCU,99.5,0.5
+South Dakota State,Yale,21.12,78.88
+Stetson,TCU,99.44,0.5600000000000023
 Stetson,Tennessee,100.0,0.0
 Stetson,Texas,100.0,0.0
-Stetson,Texas A&M,0.0,100.0
-Stetson,Texas Tech,100.0,0.0
-Stetson,UAB,7.6,92.4
+Stetson,Texas A&M,0.02,99.98
+Stetson,Texas Tech,99.99,0.010000000000005116
+Stetson,UAB,7.449999999999999,92.55
 Stetson,Utah State,100.0,0.0
 Stetson,Vermont,100.0,0.0
 Stetson,Virginia,100.0,0.0
 Stetson,Wagner,100.0,0.0
 Stetson,Washington State,100.0,0.0
 Stetson,Western Kentucky,100.0,0.0
-Stetson,Wisconsin,100.0,0.0
+Stetson,Wisconsin,99.97,0.030000000000001137
 Stetson,Yale,100.0,0.0
 TCU,Tennessee,100.0,0.0
 TCU,Texas,100.0,0.0
 TCU,Texas A&M,0.0,100.0
-TCU,Texas Tech,93.0,7.0
-TCU,UAB,0.0,100.0
-TCU,Utah State,100.0,0.0
+TCU,Texas Tech,93.82000000000001,6.179999999999993
+TCU,UAB,0.01,99.99
+TCU,Utah State,99.94,0.060000000000002274
 TCU,Vermont,100.0,0.0
 TCU,Virginia,100.0,0.0
 TCU,Wagner,100.0,0.0
 TCU,Washington State,100.0,0.0
 TCU,Western Kentucky,100.0,0.0
-TCU,Wisconsin,81.5,18.5
+TCU,Wisconsin,82.36,17.64
 TCU,Yale,100.0,0.0
-Tennessee,Texas,2.1,97.9
+Tennessee,Texas,1.95,98.05
 Tennessee,Texas A&M,0.0,100.0
 Tennessee,Texas Tech,0.0,100.0
 Tennessee,UAB,0.0,100.0
@@ -2207,23 +2207,23 @@ Tennessee,Utah State,0.0,100.0
 Tennessee,Vermont,100.0,0.0
 Tennessee,Virginia,100.0,0.0
 Tennessee,Wagner,100.0,0.0
-Tennessee,Washington State,0.4,99.6
+Tennessee,Washington State,0.29,99.71
 Tennessee,Western Kentucky,100.0,0.0
 Tennessee,Wisconsin,0.0,100.0
-Tennessee,Yale,63.800000000000004,36.199999999999996
+Tennessee,Yale,64.27000000000001,35.72999999999999
 Texas,Texas A&M,0.0,100.0
-Texas,Texas Tech,0.1,99.9
+Texas,Texas Tech,0.01,99.99
 Texas,UAB,0.0,100.0
-Texas,Utah State,2.6,97.4
+Texas,Utah State,3.38,96.62
 Texas,Vermont,100.0,0.0
 Texas,Virginia,100.0,0.0
 Texas,Wagner,100.0,0.0
-Texas,Washington State,21.3,78.7
+Texas,Washington State,21.88,78.12
 Texas,Western Kentucky,100.0,0.0
 Texas,Wisconsin,0.0,100.0
-Texas,Yale,99.7,0.29999999999999716
+Texas,Yale,99.11999999999999,0.8800000000000097
 Texas A&M,Texas Tech,100.0,0.0
-Texas A&M,UAB,99.6,0.4000000000000057
+Texas A&M,UAB,98.98,1.019999999999996
 Texas A&M,Utah State,100.0,0.0
 Texas A&M,Vermont,100.0,0.0
 Texas A&M,Virginia,100.0,0.0
@@ -2233,13 +2233,13 @@ Texas A&M,Western Kentucky,100.0,0.0
 Texas A&M,Wisconsin,100.0,0.0
 Texas A&M,Yale,100.0,0.0
 Texas Tech,UAB,0.0,100.0
-Texas Tech,Utah State,95.39999999999999,4.6000000000000085
+Texas Tech,Utah State,94.28999999999999,5.710000000000008
 Texas Tech,Vermont,100.0,0.0
 Texas Tech,Virginia,100.0,0.0
 Texas Tech,Wagner,100.0,0.0
-Texas Tech,Washington State,99.8,0.20000000000000284
+Texas Tech,Washington State,99.55000000000001,0.44999999999998863
 Texas Tech,Western Kentucky,100.0,0.0
-Texas Tech,Wisconsin,30.7,69.3
+Texas Tech,Wisconsin,28.549999999999997,71.45
 Texas Tech,Yale,100.0,0.0
 UAB,Utah State,100.0,0.0
 UAB,Vermont,100.0,0.0
@@ -2252,12 +2252,12 @@ UAB,Yale,100.0,0.0
 Utah State,Vermont,100.0,0.0
 Utah State,Virginia,100.0,0.0
 Utah State,Wagner,100.0,0.0
-Utah State,Washington State,86.8,13.200000000000003
+Utah State,Washington State,85.95,14.049999999999997
 Utah State,Western Kentucky,100.0,0.0
-Utah State,Wisconsin,1.4000000000000001,98.6
+Utah State,Wisconsin,1.6,98.4
 Utah State,Yale,100.0,0.0
 Vermont,Virginia,100.0,0.0
-Vermont,Wagner,33.1,66.9
+Vermont,Wagner,31.430000000000003,68.57
 Vermont,Washington State,0.0,100.0
 Vermont,Western Kentucky,0.0,100.0
 Vermont,Wisconsin,0.0,100.0
@@ -2272,8 +2272,8 @@ Wagner,Western Kentucky,0.0,100.0
 Wagner,Wisconsin,0.0,100.0
 Wagner,Yale,0.0,100.0
 Washington State,Western Kentucky,100.0,0.0
-Washington State,Wisconsin,0.1,99.9
-Washington State,Yale,99.8,0.20000000000000284
+Washington State,Wisconsin,0.08,99.92
+Washington State,Yale,99.86,0.14000000000000057
 Western Kentucky,Wisconsin,0.0,100.0
 Western Kentucky,Yale,0.0,100.0
 Wisconsin,Yale,100.0,0.0
