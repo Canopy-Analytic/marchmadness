@@ -1,0 +1,2279 @@
+Team1,Team 1 ID,Team2,Team 2 ID,Team1_Win_Percentage,Team2_Win_Percentage
+Akron,1,Alabama,2,0,100
+Akron,1,Arizona,3,0,100
+Akron,1,Auburn,4,0,100
+Akron,1,Baylor,5,0,100
+Akron,1,Boise State,6,0,100
+Akron,1,Brigham Young,7,0,100
+Akron,1,Clemson,8,0.01,99.99
+Akron,1,Colgate,9,100,0
+Akron,1,College of Charleston,10,0,100
+Akron,1,Colorado,11,0,100
+Akron,1,Colorado State,12,61.68,38.32
+Akron,1,Connecticut,13,0,100
+Akron,1,Creighton,14,0,100
+Akron,1,Dayton,15,0.08,99.92
+Akron,1,Drake,16,98.99,1.0100000000000051
+Akron,1,Duke,17,0,100
+Akron,1,Duquesne,18,96.88,3.1200000000000045
+Akron,1,Florida,19,0,100
+Akron,1,Florida Atlantic,20,0,100
+Akron,1,Gonzaga,21,0,100
+Akron,1,Grambling,22,99.91,0.09
+Akron,1,Grand Canyon,23,0,100
+Akron,1,Houston,24,34.21,65.78999999999999
+Akron,1,Howard,25,0,100
+Akron,1,Illinois,26,0,100
+Akron,1,Iowa State,27,100,0
+Akron,1,James Madison,28,0.32,99.68
+Akron,1,Kansas,29,98.53,1.4699999999999989
+Akron,1,Kentucky,30,0,100
+Akron,1,Long Beach State,31,0.26,99.74
+Akron,1,Longwood,32,0,100
+Akron,1,Marquette,33,65.49000000000001,34.50999999999999
+Akron,1,McNeese State,34,0,100
+Akron,1,Michigan State,35,78.05,21.950000000000003
+Akron,1,Mississippi State,36,0,100
+Akron,1,Montana State,37,100,0
+Akron,1,Morehead State,38,0,100
+Akron,1,NC State,39,42.83,57.17
+Akron,1,Nebraska,40,22.439999999999998,77.56
+Akron,1,Nevada,41,48.620000000000005,51.379999999999995
+Akron,1,New Mexico,42,12.21,87.78999999999999
+Akron,1,North Carolina,43,0,100
+Akron,1,Northwestern,44,43.72,56.28
+Akron,1,Oakland,45,0.06,99.94
+Akron,1,Oregon,46,0.6799999999999999,99.32
+Akron,1,Purdue,47,0,100
+Akron,1,Saint Mary's (CA),48,0,100
+Akron,1,Saint Peter's,49,100,0
+Akron,1,Samford,50,0,100
+Akron,1,San Diego State,51,4.84,95.16
+Akron,1,South Carolina,52,0,100
+Akron,1,South Dakota State,53,78.13,21.870000000000005
+Akron,1,Stetson,54,0,100
+Akron,1,TCU,55,0,100
+Akron,1,Tennessee,56,34.4,65.6
+Akron,1,Texas,57,0.8099999999999999,99.19
+Akron,1,Texas A&M,58,0,100
+Akron,1,Texas Tech,59,0,100
+Akron,1,UAB,60,0,100
+Akron,1,Utah State,61,0,100
+Akron,1,Vermont,62,100,0
+Akron,1,Virginia,63,100,0
+Akron,1,Wagner,64,100,0
+Akron,1,Washington State,65,0.04,99.96
+Akron,1,Western Kentucky,66,100,0
+Akron,1,Wisconsin,67,0,100
+Akron,1,Yale,68,48.870000000000005,51.129999999999995
+Alabama,2,Arizona,3,100,0
+Alabama,2,Auburn,4,100,0
+Alabama,2,Baylor,5,99.48,0.52
+Alabama,2,Boise State,6,100,0
+Alabama,2,Brigham Young,7,100,0
+Alabama,2,Clemson,8,100,0
+Alabama,2,Colgate,9,100,0
+Alabama,2,College of Charleston,10,100,0
+Alabama,2,Colorado,11,100,0
+Alabama,2,Colorado State,12,100,0
+Alabama,2,Connecticut,13,100,0
+Alabama,2,Creighton,14,100,0
+Alabama,2,Dayton,15,100,0
+Alabama,2,Drake,16,100,0
+Alabama,2,Duke,17,100,0
+Alabama,2,Duquesne,18,100,0
+Alabama,2,Florida,19,100,0
+Alabama,2,Florida Atlantic,20,100,0
+Alabama,2,Gonzaga,21,100,0
+Alabama,2,Grambling,22,100,0
+Alabama,2,Grand Canyon,23,100,0
+Alabama,2,Houston,24,100,0
+Alabama,2,Howard,25,100,0
+Alabama,2,Illinois,26,100,0
+Alabama,2,Iowa State,27,100,0
+Alabama,2,James Madison,28,100,0
+Alabama,2,Kansas,29,100,0
+Alabama,2,Kentucky,30,100,0
+Alabama,2,Long Beach State,31,100,0
+Alabama,2,Longwood,32,100,0
+Alabama,2,Marquette,33,100,0
+Alabama,2,McNeese State,34,100,0
+Alabama,2,Michigan State,35,100,0
+Alabama,2,Mississippi State,36,100,0
+Alabama,2,Montana State,37,100,0
+Alabama,2,Morehead State,38,100,0
+Alabama,2,NC State,39,100,0
+Alabama,2,Nebraska,40,100,0
+Alabama,2,Nevada,41,100,0
+Alabama,2,New Mexico,42,100,0
+Alabama,2,North Carolina,43,100,0
+Alabama,2,Northwestern,44,100,0
+Alabama,2,Oakland,45,100,0
+Alabama,2,Oregon,46,100,0
+Alabama,2,Purdue,47,99.98,0.02
+Alabama,2,Saint Mary's (CA),48,100,0
+Alabama,2,Saint Peter's,49,100,0
+Alabama,2,Samford,50,100,0
+Alabama,2,San Diego State,51,100,0
+Alabama,2,South Carolina,52,100,0
+Alabama,2,South Dakota State,53,100,0
+Alabama,2,Stetson,54,100,0
+Alabama,2,TCU,55,100,0
+Alabama,2,Tennessee,56,100,0
+Alabama,2,Texas,57,100,0
+Alabama,2,Texas A&M,58,100,0
+Alabama,2,Texas Tech,59,100,0
+Alabama,2,UAB,60,100,0
+Alabama,2,Utah State,61,100,0
+Alabama,2,Vermont,62,100,0
+Alabama,2,Virginia,63,100,0
+Alabama,2,Wagner,64,100,0
+Alabama,2,Washington State,65,100,0
+Alabama,2,Western Kentucky,66,100,0
+Alabama,2,Wisconsin,67,100,0
+Alabama,2,Yale,68,100,0
+Arizona,3,Auburn,4,99.91,0.09
+Arizona,3,Baylor,5,0,100
+Arizona,3,Boise State,6,99.22,0.7800000000000011
+Arizona,3,Brigham Young,7,76.03999999999999,23.960000000000008
+Arizona,3,Clemson,8,100,0
+Arizona,3,Colgate,9,100,0
+Arizona,3,College of Charleston,10,97.00999999999999,2.990000000000009
+Arizona,3,Colorado,11,24.13,75.87
+Arizona,3,Colorado State,12,100,0
+Arizona,3,Connecticut,13,0,100
+Arizona,3,Creighton,14,100,0
+Arizona,3,Dayton,15,100,0
+Arizona,3,Drake,16,100,0
+Arizona,3,Duke,17,98.56,1.4399999999999977
+Arizona,3,Duquesne,18,100,0
+Arizona,3,Florida,19,0,100
+Arizona,3,Florida Atlantic,20,4.21,95.79
+Arizona,3,Gonzaga,21,0.13,99.87
+Arizona,3,Grambling,22,100,0
+Arizona,3,Grand Canyon,23,100,0
+Arizona,3,Houston,24,100,0
+Arizona,3,Howard,25,33.97,66.03
+Arizona,3,Illinois,26,0,100
+Arizona,3,Iowa State,27,100,0
+Arizona,3,James Madison,28,100,0
+Arizona,3,Kansas,29,100,0
+Arizona,3,Kentucky,30,7.829999999999999,92.17
+Arizona,3,Long Beach State,31,100,0
+Arizona,3,Longwood,32,96.55,3.450000000000003
+Arizona,3,Marquette,33,100,0
+Arizona,3,McNeese State,34,100,0
+Arizona,3,Michigan State,35,100,0
+Arizona,3,Mississippi State,36,100,0
+Arizona,3,Montana State,37,100,0
+Arizona,3,Morehead State,38,95.75,4.25
+Arizona,3,NC State,39,100,0
+Arizona,3,Nebraska,40,100,0
+Arizona,3,Nevada,41,100,0
+Arizona,3,New Mexico,42,100,0
+Arizona,3,North Carolina,43,100,0
+Arizona,3,Northwestern,44,100,0
+Arizona,3,Oakland,45,100,0
+Arizona,3,Oregon,46,100,0
+Arizona,3,Purdue,47,0,100
+Arizona,3,Saint Mary's (CA),48,97.99,2.010000000000005
+Arizona,3,Saint Peter's,49,100,0
+Arizona,3,Samford,50,98.7,1.2999999999999972
+Arizona,3,San Diego State,51,100,0
+Arizona,3,South Carolina,52,100,0
+Arizona,3,South Dakota State,53,100,0
+Arizona,3,Stetson,54,18.86,81.14
+Arizona,3,TCU,55,94.39,5.609999999999999
+Arizona,3,Tennessee,56,100,0
+Arizona,3,Texas,57,100,0
+Arizona,3,Texas A&M,58,0,100
+Arizona,3,Texas Tech,59,99.92999999999999,0.07
+Arizona,3,UAB,60,0.73,99.27
+Arizona,3,Utah State,61,100,0
+Arizona,3,Vermont,62,100,0
+Arizona,3,Virginia,63,100,0
+Arizona,3,Wagner,64,100,0
+Arizona,3,Washington State,65,100,0
+Arizona,3,Western Kentucky,66,100,0
+Arizona,3,Wisconsin,67,99.61,0.39000000000000057
+Arizona,3,Yale,68,100,0
+Auburn,4,Baylor,5,0,100
+Auburn,4,Boise State,6,23.82,76.18
+Auburn,4,Brigham Young,7,0.79,99.21
+Auburn,4,Clemson,8,99,1
+Auburn,4,Colgate,9,100,0
+Auburn,4,College of Charleston,10,10.6,89.4
+Auburn,4,Colorado,11,0,100
+Auburn,4,Colorado State,12,100,0
+Auburn,4,Connecticut,13,0,100
+Auburn,4,Creighton,14,96.72,3.280000000000001
+Auburn,4,Dayton,15,99.59,0.4099999999999966
+Auburn,4,Drake,16,100,0
+Auburn,4,Duke,17,16.73,83.27
+Auburn,4,Duquesne,18,100,0
+Auburn,4,Florida,19,0,100
+Auburn,4,Florida Atlantic,20,0,100
+Auburn,4,Gonzaga,21,0,100
+Auburn,4,Grambling,22,100,0
+Auburn,4,Grand Canyon,23,98.79,1.2099999999999937
+Auburn,4,Houston,24,100,0
+Auburn,4,Howard,25,0.04,99.96
+Auburn,4,Illinois,26,0,100
+Auburn,4,Iowa State,27,100,0
+Auburn,4,James Madison,28,100,0
+Auburn,4,Kansas,29,100,0
+Auburn,4,Kentucky,30,0,100
+Auburn,4,Long Beach State,31,99.92999999999999,0.07
+Auburn,4,Longwood,32,10.36,89.64
+Auburn,4,Marquette,33,100,0
+Auburn,4,McNeese State,34,71.06,28.939999999999998
+Auburn,4,Michigan State,35,100,0
+Auburn,4,Mississippi State,36,78.2,21.799999999999997
+Auburn,4,Montana State,37,100,0
+Auburn,4,Morehead State,38,8.73,91.27
+Auburn,4,NC State,39,100,0
+Auburn,4,Nebraska,40,100,0
+Auburn,4,Nevada,41,100,0
+Auburn,4,New Mexico,42,100,0
+Auburn,4,North Carolina,43,87.47,12.530000000000001
+Auburn,4,Northwestern,44,100,0
+Auburn,4,Oakland,45,99.44,0.5600000000000023
+Auburn,4,Oregon,46,100,0
+Auburn,4,Purdue,47,0,100
+Auburn,4,Saint Mary's (CA),48,14.23,85.77
+Auburn,4,Saint Peter's,49,100,0
+Auburn,4,Samford,50,17,83
+Auburn,4,San Diego State,51,100,0
+Auburn,4,South Carolina,52,83.58,16.42
+Auburn,4,South Dakota State,53,100,0
+Auburn,4,Stetson,54,0,100
+Auburn,4,TCU,55,6.1,93.9
+Auburn,4,Tennessee,56,100,0
+Auburn,4,Texas,57,100,0
+Auburn,4,Texas A&M,58,0,100
+Auburn,4,Texas Tech,59,51.27,48.73
+Auburn,4,UAB,60,0,100
+Auburn,4,Utah State,61,95.58,4.420000000000002
+Auburn,4,Vermont,62,100,0
+Auburn,4,Virginia,63,100,0
+Auburn,4,Wagner,64,100,0
+Auburn,4,Washington State,65,99.72999999999999,0.27000000000001023
+Auburn,4,Western Kentucky,66,100,0
+Auburn,4,Wisconsin,67,30.39,69.61
+Auburn,4,Yale,68,100,0
+Baylor,5,Boise State,6,100,0
+Baylor,5,Brigham Young,7,100,0
+Baylor,5,Clemson,8,100,0
+Baylor,5,Colgate,9,100,0
+Baylor,5,College of Charleston,10,100,0
+Baylor,5,Colorado,11,100,0
+Baylor,5,Colorado State,12,100,0
+Baylor,5,Connecticut,13,100,0
+Baylor,5,Creighton,14,100,0
+Baylor,5,Dayton,15,100,0
+Baylor,5,Drake,16,100,0
+Baylor,5,Duke,17,100,0
+Baylor,5,Duquesne,18,100,0
+Baylor,5,Florida,19,99.78,0.21999999999999886
+Baylor,5,Florida Atlantic,20,100,0
+Baylor,5,Gonzaga,21,100,0
+Baylor,5,Grambling,22,100,0
+Baylor,5,Grand Canyon,23,100,0
+Baylor,5,Houston,24,100,0
+Baylor,5,Howard,25,100,0
+Baylor,5,Illinois,26,99.82,0.18000000000000682
+Baylor,5,Iowa State,27,100,0
+Baylor,5,James Madison,28,100,0
+Baylor,5,Kansas,29,100,0
+Baylor,5,Kentucky,30,100,0
+Baylor,5,Long Beach State,31,100,0
+Baylor,5,Longwood,32,100,0
+Baylor,5,Marquette,33,100,0
+Baylor,5,McNeese State,34,100,0
+Baylor,5,Michigan State,35,100,0
+Baylor,5,Mississippi State,36,100,0
+Baylor,5,Montana State,37,100,0
+Baylor,5,Morehead State,38,100,0
+Baylor,5,NC State,39,100,0
+Baylor,5,Nebraska,40,100,0
+Baylor,5,Nevada,41,100,0
+Baylor,5,New Mexico,42,100,0
+Baylor,5,North Carolina,43,100,0
+Baylor,5,Northwestern,44,100,0
+Baylor,5,Oakland,45,100,0
+Baylor,5,Oregon,46,100,0
+Baylor,5,Purdue,47,89.2,10.799999999999997
+Baylor,5,Saint Mary's (CA),48,100,0
+Baylor,5,Saint Peter's,49,100,0
+Baylor,5,Samford,50,100,0
+Baylor,5,San Diego State,51,100,0
+Baylor,5,South Carolina,52,100,0
+Baylor,5,South Dakota State,53,100,0
+Baylor,5,Stetson,54,100,0
+Baylor,5,TCU,55,100,0
+Baylor,5,Tennessee,56,100,0
+Baylor,5,Texas,57,100,0
+Baylor,5,Texas A&M,58,100,0
+Baylor,5,Texas Tech,59,100,0
+Baylor,5,UAB,60,100,0
+Baylor,5,Utah State,61,100,0
+Baylor,5,Vermont,62,100,0
+Baylor,5,Virginia,63,100,0
+Baylor,5,Wagner,64,100,0
+Baylor,5,Washington State,65,100,0
+Baylor,5,Western Kentucky,66,100,0
+Baylor,5,Wisconsin,67,100,0
+Baylor,5,Yale,68,100,0
+Boise State,6,Brigham Young,7,4.279999999999999,95.72
+Boise State,6,Clemson,8,99.87,0.12999999999999545
+Boise State,6,Colgate,9,100,0
+Boise State,6,College of Charleston,10,28.42,71.58
+Boise State,6,Colorado,11,0.12,99.88
+Boise State,6,Colorado State,12,100,0
+Boise State,6,Connecticut,13,0,100
+Boise State,6,Creighton,14,99.27,0.73
+Boise State,6,Dayton,15,99.95,0.05
+Boise State,6,Drake,16,100,0
+Boise State,6,Duke,17,39.160000000000004,60.839999999999996
+Boise State,6,Duquesne,18,100,0
+Boise State,6,Florida,19,0,100
+Boise State,6,Florida Atlantic,20,0,100
+Boise State,6,Gonzaga,21,0,100
+Boise State,6,Grambling,22,100,0
+Boise State,6,Grand Canyon,23,99.88,0.12000000000000455
+Boise State,6,Houston,24,100,0
+Boise State,6,Howard,25,0.37,99.63
+Boise State,6,Illinois,26,0,100
+Boise State,6,Iowa State,27,100,0
+Boise State,6,James Madison,28,100,0
+Boise State,6,Kansas,29,100,0
+Boise State,6,Kentucky,30,0.01,99.99
+Boise State,6,Long Beach State,31,100,0
+Boise State,6,Longwood,32,28.87,71.13
+Boise State,6,Marquette,33,100,0
+Boise State,6,McNeese State,34,88.89,11.11
+Boise State,6,Michigan State,35,100,0
+Boise State,6,Mississippi State,36,93.46,6.540000000000006
+Boise State,6,Montana State,37,100,0
+Boise State,6,Morehead State,38,27.54,72.46000000000001
+Boise State,6,NC State,39,100,0
+Boise State,6,Nebraska,40,100,0
+Boise State,6,Nevada,41,100,0
+Boise State,6,New Mexico,42,100,0
+Boise State,6,North Carolina,43,96.23,3.769999999999996
+Boise State,6,Northwestern,44,100,0
+Boise State,6,Oakland,45,99.95,0.05
+Boise State,6,Oregon,46,100,0
+Boise State,6,Purdue,47,0,100
+Boise State,6,Saint Mary's (CA),48,36.39,63.61
+Boise State,6,Saint Peter's,49,100,0
+Boise State,6,Samford,50,42.85,57.15
+Boise State,6,San Diego State,51,100,0
+Boise State,6,South Carolina,52,94.15,5.849999999999994
+Boise State,6,South Dakota State,53,100,0
+Boise State,6,Stetson,54,0.09,99.91
+Boise State,6,TCU,55,20.74,79.26
+Boise State,6,Tennessee,56,100,0
+Boise State,6,Texas,57,100,0
+Boise State,6,Texas A&M,58,0,100
+Boise State,6,Texas Tech,59,76,24
+Boise State,6,UAB,60,0,100
+Boise State,6,Utah State,61,99.07000000000001,0.9299999999999926
+Boise State,6,Vermont,62,100,0
+Boise State,6,Virginia,63,100,0
+Boise State,6,Wagner,64,100,0
+Boise State,6,Washington State,65,99.98,0.02
+Boise State,6,Western Kentucky,66,100,0
+Boise State,6,Wisconsin,67,56.04,43.96
+Boise State,6,Yale,68,100,0
+Brigham Young,7,Clemson,8,100,0
+Brigham Young,7,Colgate,9,100,0
+Brigham Young,7,College of Charleston,10,88.21,11.790000000000006
+Brigham Young,7,Colorado,11,8.73,91.27
+Brigham Young,7,Colorado State,12,100,0
+Brigham Young,7,Connecticut,13,0,100
+Brigham Young,7,Creighton,14,100,0
+Brigham Young,7,Dayton,15,100,0
+Brigham Young,7,Drake,16,100,0
+Brigham Young,7,Duke,17,92.63,7.3700000000000045
+Brigham Young,7,Duquesne,18,100,0
+Brigham Young,7,Florida,19,0,100
+Brigham Young,7,Florida Atlantic,20,0.8,99.2
+Brigham Young,7,Gonzaga,21,0.01,99.99
+Brigham Young,7,Grambling,22,100,0
+Brigham Young,7,Grand Canyon,23,100,0
+Brigham Young,7,Houston,24,100,0
+Brigham Young,7,Howard,25,14.510000000000002,85.49
+Brigham Young,7,Illinois,26,0,100
+Brigham Young,7,Iowa State,27,100,0
+Brigham Young,7,James Madison,28,100,0
+Brigham Young,7,Kansas,29,100,0
+Brigham Young,7,Kentucky,30,1.6,98.4
+Brigham Young,7,Long Beach State,31,100,0
+Brigham Young,7,Longwood,32,86.9,13.099999999999994
+Brigham Young,7,Marquette,33,100,0
+Brigham Young,7,McNeese State,34,99.85000000000001,0.14999999999999147
+Brigham Young,7,Michigan State,35,100,0
+Brigham Young,7,Mississippi State,36,99.96000000000001,0.04
+Brigham Young,7,Montana State,37,100,0
+Brigham Young,7,Morehead State,38,85.39999999999999,14.600000000000009
+Brigham Young,7,NC State,39,100,0
+Brigham Young,7,Nebraska,40,100,0
+Brigham Young,7,Nevada,41,100,0
+Brigham Young,7,New Mexico,42,100,0
+Brigham Young,7,North Carolina,43,99.96000000000001,0.04
+Brigham Young,7,Northwestern,44,100,0
+Brigham Young,7,Oakland,45,100,0
+Brigham Young,7,Oregon,46,100,0
+Brigham Young,7,Purdue,47,0,100
+Brigham Young,7,Saint Mary's (CA),48,90.7,9.299999999999997
+Brigham Young,7,Saint Peter's,49,100,0
+Brigham Young,7,Samford,50,93.75,6.25
+Brigham Young,7,San Diego State,51,100,0
+Brigham Young,7,South Carolina,52,99.97,0.030000000000001137
+Brigham Young,7,South Dakota State,53,100,0
+Brigham Young,7,Stetson,54,5.609999999999999,94.39
+Brigham Young,7,TCU,55,81.74,18.260000000000005
+Brigham Young,7,Tennessee,56,100,0
+Brigham Young,7,Texas,57,100,0
+Brigham Young,7,Texas A&M,58,0,100
+Brigham Young,7,Texas Tech,59,99.1,0.9000000000000057
+Brigham Young,7,UAB,60,0.16,99.84
+Brigham Young,7,Utah State,61,99.99,0.010000000000005116
+Brigham Young,7,Vermont,62,100,0
+Brigham Young,7,Virginia,63,100,0
+Brigham Young,7,Wagner,64,100,0
+Brigham Young,7,Washington State,65,100,0
+Brigham Young,7,Western Kentucky,66,100,0
+Brigham Young,7,Wisconsin,67,97.36,2.6400000000000006
+Brigham Young,7,Yale,68,100,0
+Clemson,8,Colgate,9,100,0
+Clemson,8,College of Charleston,10,0,100
+Clemson,8,Colorado,11,0,100
+Clemson,8,Colorado State,12,100,0
+Clemson,8,Connecticut,13,0,100
+Clemson,8,Creighton,14,31.840000000000003,68.16
+Clemson,8,Dayton,15,65.16,34.84
+Clemson,8,Drake,16,100,0
+Clemson,8,Duke,17,0.06,99.94
+Clemson,8,Duquesne,18,100,0
+Clemson,8,Florida,19,0,100
+Clemson,8,Florida Atlantic,20,0,100
+Clemson,8,Gonzaga,21,0,100
+Clemson,8,Grambling,22,100,0
+Clemson,8,Grand Canyon,23,52.17,47.83
+Clemson,8,Houston,24,99.97,0.030000000000001137
+Clemson,8,Howard,25,0,100
+Clemson,8,Illinois,26,0,100
+Clemson,8,Iowa State,27,100,0
+Clemson,8,James Madison,28,85.61999999999999,14.38000000000001
+Clemson,8,Kansas,29,100,0
+Clemson,8,Kentucky,30,0,100
+Clemson,8,Long Beach State,31,83.55,16.450000000000003
+Clemson,8,Longwood,32,0.01,99.99
+Clemson,8,Marquette,33,100,0
+Clemson,8,McNeese State,34,4.2700000000000005,95.73
+Clemson,8,Michigan State,35,100,0
+Clemson,8,Mississippi State,36,8.14,91.86
+Clemson,8,Montana State,37,100,0
+Clemson,8,Morehead State,38,0,100
+Clemson,8,NC State,39,99.98,0.02
+Clemson,8,Nebraska,40,99.9,0.1
+Clemson,8,Nevada,41,99.99,0.010000000000005116
+Clemson,8,New Mexico,42,99.64,0.35999999999999943
+Clemson,8,North Carolina,43,11.82,88.18
+Clemson,8,Northwestern,44,99.98,0.02
+Clemson,8,Oakland,45,63.68000000000001,36.31999999999999
+Clemson,8,Oregon,46,91.62,8.379999999999995
+Clemson,8,Purdue,47,0,100
+Clemson,8,Saint Mary's (CA),48,0.09,99.91
+Clemson,8,Saint Peter's,49,100,0
+Clemson,8,Samford,50,0.08,99.92
+Clemson,8,San Diego State,51,98.14,1.8599999999999994
+Clemson,8,South Carolina,52,10.48,89.52
+Clemson,8,South Dakota State,53,100,0
+Clemson,8,Stetson,54,0,100
+Clemson,8,TCU,55,0,100
+Clemson,8,Tennessee,56,99.97,0.030000000000001137
+Clemson,8,Texas,57,90.07,9.930000000000007
+Clemson,8,Texas A&M,58,0,100
+Clemson,8,Texas Tech,59,1.48,98.52
+Clemson,8,UAB,60,0,100
+Clemson,8,Utah State,61,28.610000000000003,71.39
+Clemson,8,Vermont,62,100,0
+Clemson,8,Virginia,63,100,0
+Clemson,8,Wagner,64,100,0
+Clemson,8,Washington State,65,69.58,30.42
+Clemson,8,Western Kentucky,66,100,0
+Clemson,8,Wisconsin,67,0.38,99.62
+Clemson,8,Yale,68,99.98,0.02
+Colgate,9,College of Charleston,10,0,100
+Colgate,9,Colorado,11,0,100
+Colgate,9,Colorado State,12,0,100
+Colgate,9,Connecticut,13,0,100
+Colgate,9,Creighton,14,0,100
+Colgate,9,Dayton,15,0,100
+Colgate,9,Drake,16,0,100
+Colgate,9,Duke,17,0,100
+Colgate,9,Duquesne,18,0,100
+Colgate,9,Florida,19,0,100
+Colgate,9,Florida Atlantic,20,0,100
+Colgate,9,Gonzaga,21,0,100
+Colgate,9,Grambling,22,0,100
+Colgate,9,Grand Canyon,23,0,100
+Colgate,9,Houston,24,0,100
+Colgate,9,Howard,25,0,100
+Colgate,9,Illinois,26,0,100
+Colgate,9,Iowa State,27,0,100
+Colgate,9,James Madison,28,0,100
+Colgate,9,Kansas,29,0,100
+Colgate,9,Kentucky,30,0,100
+Colgate,9,Long Beach State,31,0,100
+Colgate,9,Longwood,32,0,100
+Colgate,9,Marquette,33,0,100
+Colgate,9,McNeese State,34,0,100
+Colgate,9,Michigan State,35,0,100
+Colgate,9,Mississippi State,36,0,100
+Colgate,9,Montana State,37,7.249999999999999,92.75
+Colgate,9,Morehead State,38,0,100
+Colgate,9,NC State,39,0,100
+Colgate,9,Nebraska,40,0,100
+Colgate,9,Nevada,41,0,100
+Colgate,9,New Mexico,42,0,100
+Colgate,9,North Carolina,43,0,100
+Colgate,9,Northwestern,44,0,100
+Colgate,9,Oakland,45,0,100
+Colgate,9,Oregon,46,0,100
+Colgate,9,Purdue,47,0,100
+Colgate,9,Saint Mary's (CA),48,0,100
+Colgate,9,Saint Peter's,49,28.82,71.18
+Colgate,9,Samford,50,0,100
+Colgate,9,San Diego State,51,0,100
+Colgate,9,South Carolina,52,0,100
+Colgate,9,South Dakota State,53,0,100
+Colgate,9,Stetson,54,0,100
+Colgate,9,TCU,55,0,100
+Colgate,9,Tennessee,56,0,100
+Colgate,9,Texas,57,0,100
+Colgate,9,Texas A&M,58,0,100
+Colgate,9,Texas Tech,59,0,100
+Colgate,9,UAB,60,0,100
+Colgate,9,Utah State,61,0,100
+Colgate,9,Vermont,62,97.21,2.7900000000000063
+Colgate,9,Virginia,63,100,0
+Colgate,9,Wagner,64,90.62,9.379999999999995
+Colgate,9,Washington State,65,0,100
+Colgate,9,Western Kentucky,66,0,100
+Colgate,9,Wisconsin,67,0,100
+Colgate,9,Yale,68,0,100
+College of Charleston,10,Colorado,11,0.48,99.52
+College of Charleston,10,Colorado State,12,100,0
+College of Charleston,10,Connecticut,13,0,100
+College of Charleston,10,Creighton,14,99.79,0.20999999999999375
+College of Charleston,10,Dayton,15,100,0
+College of Charleston,10,Drake,16,100,0
+College of Charleston,10,Duke,17,59.599999999999994,40.400000000000006
+College of Charleston,10,Duquesne,18,100,0
+College of Charleston,10,Florida,19,0,100
+College of Charleston,10,Florida Atlantic,20,0.02,99.98
+College of Charleston,10,Gonzaga,21,0,100
+College of Charleston,10,Grambling,22,100,0
+College of Charleston,10,Grand Canyon,23,99.99,0.010000000000005116
+College of Charleston,10,Houston,24,100,0
+College of Charleston,10,Howard,25,1.69,98.31
+College of Charleston,10,Illinois,26,0,100
+College of Charleston,10,Iowa State,27,100,0
+College of Charleston,10,James Madison,28,100,0
+College of Charleston,10,Kansas,29,100,0
+College of Charleston,10,Kentucky,30,0.07,99.93
+College of Charleston,10,Long Beach State,31,100,0
+College of Charleston,10,Longwood,32,50.27,49.73
+College of Charleston,10,Marquette,33,100,0
+College of Charleston,10,McNeese State,34,95.59,4.409999999999997
+College of Charleston,10,Michigan State,35,100,0
+College of Charleston,10,Mississippi State,36,98.36,1.6400000000000006
+College of Charleston,10,Montana State,37,100,0
+College of Charleston,10,Morehead State,38,46.06,53.94
+College of Charleston,10,NC State,39,100,0
+College of Charleston,10,Nebraska,40,100,0
+College of Charleston,10,Nevada,41,100,0
+College of Charleston,10,New Mexico,42,100,0
+College of Charleston,10,North Carolina,43,99.13,0.8700000000000045
+College of Charleston,10,Northwestern,44,100,0
+College of Charleston,10,Oakland,45,99.99,0.010000000000005116
+College of Charleston,10,Oregon,46,100,0
+College of Charleston,10,Purdue,47,0,100
+College of Charleston,10,Saint Mary's (CA),48,56.56,43.44
+College of Charleston,10,Saint Peter's,49,100,0
+College of Charleston,10,Samford,50,63.54,36.46
+College of Charleston,10,San Diego State,51,100,0
+College of Charleston,10,South Carolina,52,98.74000000000001,1.259999999999991
+College of Charleston,10,South Dakota State,53,100,0
+College of Charleston,10,Stetson,54,0.27,99.73
+College of Charleston,10,TCU,55,40.47,59.53
+College of Charleston,10,Tennessee,56,100,0
+College of Charleston,10,Texas,57,100,0
+College of Charleston,10,Texas A&M,58,0,100
+College of Charleston,10,Texas Tech,59,90.41,9.590000000000003
+College of Charleston,10,UAB,60,0,100
+College of Charleston,10,Utah State,61,99.87,0.12999999999999545
+College of Charleston,10,Vermont,62,100,0
+College of Charleston,10,Virginia,63,100,0
+College of Charleston,10,Wagner,64,100,0
+College of Charleston,10,Washington State,65,100,0
+College of Charleston,10,Western Kentucky,66,100,0
+College of Charleston,10,Wisconsin,67,77.68,22.319999999999993
+College of Charleston,10,Yale,68,100,0
+Colorado,11,Colorado State,12,100,0
+Colorado,11,Connecticut,13,0,100
+Colorado,11,Creighton,14,100,0
+Colorado,11,Dayton,15,100,0
+Colorado,11,Drake,16,100,0
+Colorado,11,Duke,17,99.82,0.18000000000000682
+Colorado,11,Duquesne,18,100,0
+Colorado,11,Florida,19,0,100
+Colorado,11,Florida Atlantic,20,15.459999999999999,84.54
+Colorado,11,Gonzaga,21,1.13,98.87
+Colorado,11,Grambling,22,100,0
+Colorado,11,Grand Canyon,23,100,0
+Colorado,11,Houston,24,100,0
+Colorado,11,Howard,25,58.95,41.05
+Colorado,11,Illinois,26,0,100
+Colorado,11,Iowa State,27,100,0
+Colorado,11,James Madison,28,100,0
+Colorado,11,Kansas,29,100,0
+Colorado,11,Kentucky,30,24.349999999999998,75.65
+Colorado,11,Long Beach State,31,100,0
+Colorado,11,Longwood,32,99.09,0.9099999999999966
+Colorado,11,Marquette,33,100,0
+Colorado,11,McNeese State,34,100,0
+Colorado,11,Michigan State,35,100,0
+Colorado,11,Mississippi State,36,100,0
+Colorado,11,Montana State,37,100,0
+Colorado,11,Morehead State,38,99.03,0.9699999999999989
+Colorado,11,NC State,39,100,0
+Colorado,11,Nebraska,40,100,0
+Colorado,11,Nevada,41,100,0
+Colorado,11,New Mexico,42,100,0
+Colorado,11,North Carolina,43,100,0
+Colorado,11,Northwestern,44,100,0
+Colorado,11,Oakland,45,100,0
+Colorado,11,Oregon,46,100,0
+Colorado,11,Purdue,47,0,100
+Colorado,11,Saint Mary's (CA),48,99.55000000000001,0.44999999999998863
+Colorado,11,Saint Peter's,49,100,0
+Colorado,11,Samford,50,99.76,0.23999999999999488
+Colorado,11,San Diego State,51,100,0
+Colorado,11,South Carolina,52,100,0
+Colorado,11,South Dakota State,53,100,0
+Colorado,11,Stetson,54,39.95,60.05
+Colorado,11,TCU,55,98.53,1.4699999999999989
+Colorado,11,Tennessee,56,100,0
+Colorado,11,Texas,57,100,0
+Colorado,11,Texas A&M,58,0.01,99.99
+Colorado,11,Texas Tech,59,100,0
+Colorado,11,UAB,60,4.46,95.54
+Colorado,11,Utah State,61,100,0
+Colorado,11,Vermont,62,100,0
+Colorado,11,Virginia,63,100,0
+Colorado,11,Wagner,64,100,0
+Colorado,11,Washington State,65,100,0
+Colorado,11,Western Kentucky,66,100,0
+Colorado,11,Wisconsin,67,99.92,0.08
+Colorado,11,Yale,68,100,0
+Colorado State,12,Connecticut,13,0,100
+Colorado State,12,Creighton,14,0,100
+Colorado State,12,Dayton,15,0.01,99.99
+Colorado State,12,Drake,16,97.42,2.5799999999999983
+Colorado State,12,Duke,17,0,100
+Colorado State,12,Duquesne,18,93.47,6.530000000000001
+Colorado State,12,Florida,19,0,100
+Colorado State,12,Florida Atlantic,20,0,100
+Colorado State,12,Gonzaga,21,0,100
+Colorado State,12,Grambling,22,99.79,0.20999999999999375
+Colorado State,12,Grand Canyon,23,0.01,99.99
+Colorado State,12,Houston,24,24.13,75.87
+Colorado State,12,Howard,25,0,100
+Colorado State,12,Illinois,26,0,100
+Colorado State,12,Iowa State,27,99.98,0.02
+Colorado State,12,James Madison,28,0.16999999999999998,99.83
+Colorado State,12,Kansas,29,97.05,2.950000000000003
+Colorado State,12,Kentucky,30,0,100
+Colorado State,12,Long Beach State,31,0.11,99.89
+Colorado State,12,Longwood,32,0,100
+Colorado State,12,Marquette,33,52.35999999999999,47.64000000000001
+Colorado State,12,McNeese State,34,0,100
+Colorado State,12,Michigan State,35,69.27,30.730000000000004
+Colorado State,12,Mississippi State,36,0,100
+Colorado State,12,Montana State,37,100,0
+Colorado State,12,Morehead State,38,0,100
+Colorado State,12,NC State,39,32.85,67.15
+Colorado State,12,Nebraska,40,14.92,85.08
+Colorado State,12,Nevada,41,36.68,63.32
+Colorado State,12,New Mexico,42,7.3,92.7
+Colorado State,12,North Carolina,43,0,100
+Colorado State,12,Northwestern,44,33.46,66.53999999999999
+Colorado State,12,Oakland,45,0.02,99.98
+Colorado State,12,Oregon,46,0.4,99.6
+Colorado State,12,Purdue,47,0,100
+Colorado State,12,Saint Mary's (CA),48,0,100
+Colorado State,12,Saint Peter's,49,100,0
+Colorado State,12,Samford,50,0,100
+Colorado State,12,San Diego State,51,2.63,97.37
+Colorado State,12,South Carolina,52,0,100
+Colorado State,12,South Dakota State,53,67.10000000000001,32.89999999999999
+Colorado State,12,Stetson,54,0,100
+Colorado State,12,TCU,55,0,100
+Colorado State,12,Tennessee,56,24.34,75.66
+Colorado State,12,Texas,57,0.24,99.76
+Colorado State,12,Texas A&M,58,0,100
+Colorado State,12,Texas Tech,59,0,100
+Colorado State,12,UAB,60,0,100
+Colorado State,12,Utah State,61,0,100
+Colorado State,12,Vermont,62,100,0
+Colorado State,12,Virginia,63,100,0
+Colorado State,12,Wagner,64,100,0
+Colorado State,12,Washington State,65,0.03,99.97
+Colorado State,12,Western Kentucky,66,99.99,0.010000000000005116
+Colorado State,12,Wisconsin,67,0,100
+Colorado State,12,Yale,68,36.79,63.21
+Connecticut,13,Creighton,14,100,0
+Connecticut,13,Dayton,15,100,0
+Connecticut,13,Drake,16,100,0
+Connecticut,13,Duke,17,100,0
+Connecticut,13,Duquesne,18,100,0
+Connecticut,13,Florida,19,15.36,84.64
+Connecticut,13,Florida Atlantic,20,99.97,0.030000000000001137
+Connecticut,13,Gonzaga,21,98.1,1.9000000000000057
+Connecticut,13,Grambling,22,100,0
+Connecticut,13,Grand Canyon,23,100,0
+Connecticut,13,Houston,24,100,0
+Connecticut,13,Howard,25,100,0
+Connecticut,13,Illinois,26,16.189999999999998,83.81
+Connecticut,13,Iowa State,27,100,0
+Connecticut,13,James Madison,28,100,0
+Connecticut,13,Kansas,29,100,0
+Connecticut,13,Kentucky,30,100,0
+Connecticut,13,Long Beach State,31,100,0
+Connecticut,13,Longwood,32,100,0
+Connecticut,13,Marquette,33,100,0
+Connecticut,13,McNeese State,34,100,0
+Connecticut,13,Michigan State,35,100,0
+Connecticut,13,Mississippi State,36,100,0
+Connecticut,13,Montana State,37,100,0
+Connecticut,13,Morehead State,38,100,0
+Connecticut,13,NC State,39,100,0
+Connecticut,13,Nebraska,40,100,0
+Connecticut,13,Nevada,41,100,0
+Connecticut,13,New Mexico,42,100,0
+Connecticut,13,North Carolina,43,100,0
+Connecticut,13,Northwestern,44,100,0
+Connecticut,13,Oakland,45,100,0
+Connecticut,13,Oregon,46,100,0
+Connecticut,13,Purdue,47,0.37,99.63
+Connecticut,13,Saint Mary's (CA),48,100,0
+Connecticut,13,Saint Peter's,49,100,0
+Connecticut,13,Samford,50,100,0
+Connecticut,13,San Diego State,51,100,0
+Connecticut,13,South Carolina,52,100,0
+Connecticut,13,South Dakota State,53,100,0
+Connecticut,13,Stetson,54,99.99,0.010000000000005116
+Connecticut,13,TCU,55,100,0
+Connecticut,13,Tennessee,56,100,0
+Connecticut,13,Texas,57,100,0
+Connecticut,13,Texas A&M,58,73.71,26.290000000000006
+Connecticut,13,Texas Tech,59,100,0
+Connecticut,13,UAB,60,99.68,0.3199999999999932
+Connecticut,13,Utah State,61,100,0
+Connecticut,13,Vermont,62,100,0
+Connecticut,13,Virginia,63,100,0
+Connecticut,13,Wagner,64,100,0
+Connecticut,13,Washington State,65,100,0
+Connecticut,13,Western Kentucky,66,100,0
+Connecticut,13,Wisconsin,67,100,0
+Connecticut,13,Yale,68,100,0
+Creighton,14,Dayton,15,79.54,20.459999999999994
+Creighton,14,Drake,16,100,0
+Creighton,14,Duke,17,0.36,99.64
+Creighton,14,Duquesne,18,100,0
+Creighton,14,Florida,19,0,100
+Creighton,14,Florida Atlantic,20,0,100
+Creighton,14,Gonzaga,21,0,100
+Creighton,14,Grambling,22,100,0
+Creighton,14,Grand Canyon,23,67.99,32.010000000000005
+Creighton,14,Houston,24,100,0
+Creighton,14,Howard,25,0,100
+Creighton,14,Illinois,26,0,100
+Creighton,14,Iowa State,27,100,0
+Creighton,14,James Madison,28,93.72,6.280000000000001
+Creighton,14,Kansas,29,100,0
+Creighton,14,Kentucky,30,0,100
+Creighton,14,Long Beach State,31,90.94,9.060000000000002
+Creighton,14,Longwood,32,0.1,99.9
+Creighton,14,Marquette,33,100,0
+Creighton,14,McNeese State,34,11.29,88.71000000000001
+Creighton,14,Michigan State,35,100,0
+Creighton,14,Mississippi State,36,15.370000000000001,84.63
+Creighton,14,Montana State,37,100,0
+Creighton,14,Morehead State,38,0.11,99.89
+Creighton,14,NC State,39,100,0
+Creighton,14,Nebraska,40,99.94,0.060000000000002274
+Creighton,14,Nevada,41,100,0
+Creighton,14,New Mexico,42,99.92999999999999,0.07
+Creighton,14,North Carolina,43,25.36,74.64
+Creighton,14,Northwestern,44,100,0
+Creighton,14,Oakland,45,78.4,21.599999999999994
+Creighton,14,Oregon,46,96.43,3.569999999999993
+Creighton,14,Purdue,47,0,100
+Creighton,14,Saint Mary's (CA),48,0.26,99.74
+Creighton,14,Saint Peter's,49,100,0
+Creighton,14,Samford,50,0.3,99.7
+Creighton,14,San Diego State,51,99.28,0.7199999999999989
+Creighton,14,South Carolina,52,20.74,79.26
+Creighton,14,South Dakota State,53,100,0
+Creighton,14,Stetson,54,0,100
+Creighton,14,TCU,55,0.03,99.97
+Creighton,14,Tennessee,56,99.97,0.030000000000001137
+Creighton,14,Texas,57,95.12,4.8799999999999955
+Creighton,14,Texas A&M,58,0,100
+Creighton,14,Texas Tech,59,3.8600000000000003,96.14
+Creighton,14,UAB,60,0,100
+Creighton,14,Utah State,61,44.3,55.7
+Creighton,14,Vermont,62,100,0
+Creighton,14,Virginia,63,100,0
+Creighton,14,Wagner,64,100,0
+Creighton,14,Washington State,65,82.24000000000001,17.75999999999999
+Creighton,14,Western Kentucky,66,100,0
+Creighton,14,Wisconsin,67,1.21,98.79
+Creighton,14,Yale,68,100,0
+Dayton,15,Drake,16,100,0
+Dayton,15,Duke,17,0.02,99.98
+Dayton,15,Duquesne,18,100,0
+Dayton,15,Florida,19,0,100
+Dayton,15,Florida Atlantic,20,0,100
+Dayton,15,Gonzaga,21,0,100
+Dayton,15,Grambling,22,100,0
+Dayton,15,Grand Canyon,23,36.230000000000004,63.769999999999996
+Dayton,15,Houston,24,99.91,0.09
+Dayton,15,Howard,25,0,100
+Dayton,15,Illinois,26,0,100
+Dayton,15,Iowa State,27,100,0
+Dayton,15,James Madison,28,74.89,25.11
+Dayton,15,Kansas,29,100,0
+Dayton,15,Kentucky,30,0,100
+Dayton,15,Long Beach State,31,69.58,30.42
+Dayton,15,Longwood,32,0,100
+Dayton,15,Marquette,33,99.98,0.02
+Dayton,15,McNeese State,34,2.32,97.68
+Dayton,15,Michigan State,35,100,0
+Dayton,15,Mississippi State,36,3.4099999999999997,96.59
+Dayton,15,Montana State,37,100,0
+Dayton,15,Morehead State,38,0.01,99.99
+Dayton,15,NC State,39,99.95,0.05
+Dayton,15,Nebraska,40,99.39,0.6099999999999994
+Dayton,15,Nevada,41,99.92999999999999,0.07
+Dayton,15,New Mexico,42,98.76,1.2399999999999949
+Dayton,15,North Carolina,43,5.970000000000001,94.03
+Dayton,15,Northwestern,44,99.95,0.05
+Dayton,15,Oakland,45,46.96,53.04
+Dayton,15,Oregon,46,82.37,17.629999999999995
+Dayton,15,Purdue,47,0,100
+Dayton,15,Saint Mary's (CA),48,0.01,99.99
+Dayton,15,Saint Peter's,49,100,0
+Dayton,15,Samford,50,0.01,99.99
+Dayton,15,San Diego State,51,94.65,5.349999999999994
+Dayton,15,South Carolina,52,4.569999999999999,95.43
+Dayton,15,South Dakota State,53,100,0
+Dayton,15,Stetson,54,0,100
+Dayton,15,TCU,55,0,100
+Dayton,15,Tennessee,56,99.87,0.12999999999999545
+Dayton,15,Texas,57,80.13,19.870000000000005
+Dayton,15,Texas A&M,58,0,100
+Dayton,15,Texas Tech,59,0.6,99.4
+Dayton,15,UAB,60,0,100
+Dayton,15,Utah State,61,16.61,83.39
+Dayton,15,Vermont,62,100,0
+Dayton,15,Virginia,63,100,0
+Dayton,15,Wagner,64,100,0
+Dayton,15,Washington State,65,53.410000000000004,46.589999999999996
+Dayton,15,Western Kentucky,66,100,0
+Dayton,15,Wisconsin,67,0.18,99.82
+Dayton,15,Yale,68,99.88,0.12000000000000455
+Drake,16,Duke,17,0,100
+Drake,16,Duquesne,18,34.23,65.77000000000001
+Drake,16,Florida,19,0,100
+Drake,16,Florida Atlantic,20,0,100
+Drake,16,Gonzaga,21,0,100
+Drake,16,Grambling,22,83.11,16.89
+Drake,16,Grand Canyon,23,0,100
+Drake,16,Houston,24,0.37,99.63
+Drake,16,Howard,25,0,100
+Drake,16,Illinois,26,0,100
+Drake,16,Iowa State,27,95.54,4.459999999999994
+Drake,16,James Madison,28,0,100
+Drake,16,Kansas,29,46.61,53.39
+Drake,16,Kentucky,30,0,100
+Drake,16,Long Beach State,31,0,100
+Drake,16,Longwood,32,0,100
+Drake,16,Marquette,33,2.73,97.27
+Drake,16,McNeese State,34,0,100
+Drake,16,Michigan State,35,7.33,92.67
+Drake,16,Mississippi State,36,0,100
+Drake,16,Montana State,37,99.99,0.010000000000005116
+Drake,16,Morehead State,38,0,100
+Drake,16,NC State,39,0.86,99.14
+Drake,16,Nebraska,40,0.07,99.93
+Drake,16,Nevada,41,0.91,99.09
+Drake,16,New Mexico,42,0.02,99.98
+Drake,16,North Carolina,43,0,100
+Drake,16,Northwestern,44,0.76,99.24
+Drake,16,Oakland,45,0,100
+Drake,16,Oregon,46,0,100
+Drake,16,Purdue,47,0,100
+Drake,16,Saint Mary's (CA),48,0,100
+Drake,16,Saint Peter's,49,100,0
+Drake,16,Samford,50,0,100
+Drake,16,San Diego State,51,0,100
+Drake,16,South Carolina,52,0,100
+Drake,16,South Dakota State,53,6.460000000000001,93.53999999999999
+Drake,16,Stetson,54,0,100
+Drake,16,TCU,55,0,100
+Drake,16,Tennessee,56,0.37,99.63
+Drake,16,Texas,57,0,100
+Drake,16,Texas A&M,58,0,100
+Drake,16,Texas Tech,59,0,100
+Drake,16,UAB,60,0,100
+Drake,16,Utah State,61,0,100
+Drake,16,Vermont,62,100,0
+Drake,16,Virginia,63,100,0
+Drake,16,Wagner,64,100,0
+Drake,16,Washington State,65,0,100
+Drake,16,Western Kentucky,66,94.95,5.049999999999997
+Drake,16,Wisconsin,67,0,100
+Drake,16,Yale,68,1.18,98.82
+Duke,17,Duquesne,18,100,0
+Duke,17,Florida,19,0,100
+Duke,17,Florida Atlantic,20,0,100
+Duke,17,Gonzaga,21,0,100
+Duke,17,Grambling,22,100,0
+Duke,17,Grand Canyon,23,99.88,0.12000000000000455
+Duke,17,Houston,24,100,0
+Duke,17,Howard,25,0.72,99.28
+Duke,17,Illinois,26,0,100
+Duke,17,Iowa State,27,100,0
+Duke,17,James Madison,28,100,0
+Duke,17,Kansas,29,100,0
+Duke,17,Kentucky,30,0.02,99.98
+Duke,17,Long Beach State,31,100,0
+Duke,17,Longwood,32,40,60
+Duke,17,Marquette,33,100,0
+Duke,17,McNeese State,34,93.58,6.420000000000002
+Duke,17,Michigan State,35,100,0
+Duke,17,Mississippi State,36,96.23,3.769999999999996
+Duke,17,Montana State,37,100,0
+Duke,17,Morehead State,38,34.58,65.42
+Duke,17,NC State,39,100,0
+Duke,17,Nebraska,40,100,0
+Duke,17,Nevada,41,100,0
+Duke,17,New Mexico,42,100,0
+Duke,17,North Carolina,43,98.32,1.6800000000000068
+Duke,17,Northwestern,44,100,0
+Duke,17,Oakland,45,99.97,0.030000000000001137
+Duke,17,Oregon,46,100,0
+Duke,17,Purdue,47,0,100
+Duke,17,Saint Mary's (CA),48,46.47,53.53
+Duke,17,Saint Peter's,49,100,0
+Duke,17,Samford,50,51.99,48.01
+Duke,17,San Diego State,51,100,0
+Duke,17,South Carolina,52,97.6,2.4000000000000057
+Duke,17,South Dakota State,53,100,0
+Duke,17,Stetson,54,0.13,99.87
+Duke,17,TCU,55,29.26,70.74
+Duke,17,Tennessee,56,100,0
+Duke,17,Texas,57,100,0
+Duke,17,Texas A&M,58,0,100
+Duke,17,Texas Tech,59,84.3,15.700000000000003
+Duke,17,UAB,60,0,100
+Duke,17,Utah State,61,99.68,0.3199999999999932
+Duke,17,Vermont,62,100,0
+Duke,17,Virginia,63,100,0
+Duke,17,Wagner,64,100,0
+Duke,17,Washington State,65,100,0
+Duke,17,Western Kentucky,66,100,0
+Duke,17,Wisconsin,67,68.88,31.120000000000005
+Duke,17,Yale,68,100,0
+Duquesne,18,Florida,19,0,100
+Duquesne,18,Florida Atlantic,20,0,100
+Duquesne,18,Gonzaga,21,0,100
+Duquesne,18,Grambling,22,91.59,8.409999999999997
+Duquesne,18,Grand Canyon,23,0,100
+Duquesne,18,Houston,24,1.1199999999999999,98.88
+Duquesne,18,Howard,25,0,100
+Duquesne,18,Illinois,26,0,100
+Duquesne,18,Iowa State,27,98.3,1.7000000000000028
+Duquesne,18,James Madison,28,0,100
+Duquesne,18,Kansas,29,64.02,35.980000000000004
+Duquesne,18,Kentucky,30,0,100
+Duquesne,18,Long Beach State,31,0,100
+Duquesne,18,Longwood,32,0,100
+Duquesne,18,Marquette,33,6.239999999999999,93.76
+Duquesne,18,McNeese State,34,0,100
+Duquesne,18,Michigan State,35,14.760000000000002,85.24
+Duquesne,18,Mississippi State,36,0,100
+Duquesne,18,Montana State,37,100,0
+Duquesne,18,Morehead State,38,0,100
+Duquesne,18,NC State,39,1.8800000000000001,98.12
+Duquesne,18,Nebraska,40,0.37,99.63
+Duquesne,18,Nevada,41,2.97,97.03
+Duquesne,18,New Mexico,42,0.12,99.88
+Duquesne,18,North Carolina,43,0,100
+Duquesne,18,Northwestern,44,2.1999999999999997,97.8
+Duquesne,18,Oakland,45,0,100
+Duquesne,18,Oregon,46,0,100
+Duquesne,18,Purdue,47,0,100
+Duquesne,18,Saint Mary's (CA),48,0,100
+Duquesne,18,Saint Peter's,49,100,0
+Duquesne,18,Samford,50,0,100
+Duquesne,18,San Diego State,51,0.04,99.96
+Duquesne,18,South Carolina,52,0,100
+Duquesne,18,South Dakota State,53,15.64,84.36
+Duquesne,18,Stetson,54,0,100
+Duquesne,18,TCU,55,0,100
+Duquesne,18,Tennessee,56,1.21,98.79
+Duquesne,18,Texas,57,0.01,99.99
+Duquesne,18,Texas A&M,58,0,100
+Duquesne,18,Texas Tech,59,0,100
+Duquesne,18,UAB,60,0,100
+Duquesne,18,Utah State,61,0,100
+Duquesne,18,Vermont,62,100,0
+Duquesne,18,Virginia,63,100,0
+Duquesne,18,Wagner,64,100,0
+Duquesne,18,Washington State,65,0,100
+Duquesne,18,Western Kentucky,66,98.24000000000001,1.759999999999991
+Duquesne,18,Wisconsin,67,0,100
+Duquesne,18,Yale,68,2.9899999999999998,97.01
+Florida,19,Florida Atlantic,20,100,0
+Florida,19,Gonzaga,21,99.92,0.08
+Florida,19,Grambling,22,100,0
+Florida,19,Grand Canyon,23,100,0
+Florida,19,Houston,24,100,0
+Florida,19,Howard,25,100,0
+Florida,19,Illinois,26,50.5,49.5
+Florida,19,Iowa State,27,100,0
+Florida,19,James Madison,28,100,0
+Florida,19,Kansas,29,100,0
+Florida,19,Kentucky,30,100,0
+Florida,19,Long Beach State,31,100,0
+Florida,19,Longwood,32,100,0
+Florida,19,Marquette,33,100,0
+Florida,19,McNeese State,34,100,0
+Florida,19,Michigan State,35,100,0
+Florida,19,Mississippi State,36,100,0
+Florida,19,Montana State,37,100,0
+Florida,19,Morehead State,38,100,0
+Florida,19,NC State,39,100,0
+Florida,19,Nebraska,40,100,0
+Florida,19,Nevada,41,100,0
+Florida,19,New Mexico,42,100,0
+Florida,19,North Carolina,43,100,0
+Florida,19,Northwestern,44,100,0
+Florida,19,Oakland,45,100,0
+Florida,19,Oregon,46,100,0
+Florida,19,Purdue,47,5.2,94.8
+Florida,19,Saint Mary's (CA),48,100,0
+Florida,19,Saint Peter's,49,100,0
+Florida,19,Samford,50,100,0
+Florida,19,San Diego State,51,100,0
+Florida,19,South Carolina,52,100,0
+Florida,19,South Dakota State,53,100,0
+Florida,19,Stetson,54,100,0
+Florida,19,TCU,55,100,0
+Florida,19,Tennessee,56,100,0
+Florida,19,Texas,57,100,0
+Florida,19,Texas A&M,58,94.41000000000001,5.589999999999989
+Florida,19,Texas Tech,59,100,0
+Florida,19,UAB,60,99.98,0.02
+Florida,19,Utah State,61,100,0
+Florida,19,Vermont,62,100,0
+Florida,19,Virginia,63,100,0
+Florida,19,Wagner,64,100,0
+Florida,19,Washington State,65,100,0
+Florida,19,Western Kentucky,66,100,0
+Florida,19,Wisconsin,67,100,0
+Florida,19,Yale,68,100,0
+Florida Atlantic,20,Gonzaga,21,9.569999999999999,90.43
+Florida Atlantic,20,Grambling,22,100,0
+Florida Atlantic,20,Grand Canyon,23,100,0
+Florida Atlantic,20,Houston,24,100,0
+Florida Atlantic,20,Howard,25,90,10
+Florida Atlantic,20,Illinois,26,0,100
+Florida Atlantic,20,Iowa State,27,100,0
+Florida Atlantic,20,James Madison,28,100,0
+Florida Atlantic,20,Kansas,29,100,0
+Florida Atlantic,20,Kentucky,30,61.96,38.04
+Florida Atlantic,20,Long Beach State,31,100,0
+Florida Atlantic,20,Longwood,32,99.96000000000001,0.04
+Florida Atlantic,20,Marquette,33,100,0
+Florida Atlantic,20,McNeese State,34,100,0
+Florida Atlantic,20,Michigan State,35,100,0
+Florida Atlantic,20,Mississippi State,36,100,0
+Florida Atlantic,20,Montana State,37,100,0
+Florida Atlantic,20,Morehead State,38,99.98,0.02
+Florida Atlantic,20,NC State,39,100,0
+Florida Atlantic,20,Nebraska,40,100,0
+Florida Atlantic,20,Nevada,41,100,0
+Florida Atlantic,20,New Mexico,42,100,0
+Florida Atlantic,20,North Carolina,43,100,0
+Florida Atlantic,20,Northwestern,44,100,0
+Florida Atlantic,20,Oakland,45,100,0
+Florida Atlantic,20,Oregon,46,100,0
+Florida Atlantic,20,Purdue,47,0,100
+Florida Atlantic,20,Saint Mary's (CA),48,99.99,0.010000000000005116
+Florida Atlantic,20,Saint Peter's,49,100,0
+Florida Atlantic,20,Samford,50,100,0
+Florida Atlantic,20,San Diego State,51,100,0
+Florida Atlantic,20,South Carolina,52,100,0
+Florida Atlantic,20,South Dakota State,53,100,0
+Florida Atlantic,20,Stetson,54,78.49000000000001,21.50999999999999
+Florida Atlantic,20,TCU,55,99.92999999999999,0.07
+Florida Atlantic,20,Tennessee,56,100,0
+Florida Atlantic,20,Texas,57,100,0
+Florida Atlantic,20,Texas A&M,58,0.15,99.85
+Florida Atlantic,20,Texas Tech,59,100,0
+Florida Atlantic,20,UAB,60,24.82,75.18
+Florida Atlantic,20,Utah State,61,100,0
+Florida Atlantic,20,Vermont,62,100,0
+Florida Atlantic,20,Virginia,63,100,0
+Florida Atlantic,20,Wagner,64,100,0
+Florida Atlantic,20,Washington State,65,100,0
+Florida Atlantic,20,Western Kentucky,66,100,0
+Florida Atlantic,20,Wisconsin,67,100,0
+Florida Atlantic,20,Yale,68,100,0
+Gonzaga,21,Grambling,22,100,0
+Gonzaga,21,Grand Canyon,23,100,0
+Gonzaga,21,Houston,24,100,0
+Gonzaga,21,Howard,25,99.51,0.4899999999999949
+Gonzaga,21,Illinois,26,0.1,99.9
+Gonzaga,21,Iowa State,27,100,0
+Gonzaga,21,James Madison,28,100,0
+Gonzaga,21,Kansas,29,100,0
+Gonzaga,21,Kentucky,30,93.99,6.010000000000005
+Gonzaga,21,Long Beach State,31,100,0
+Gonzaga,21,Longwood,32,100,0
+Gonzaga,21,Marquette,33,100,0
+Gonzaga,21,McNeese State,34,100,0
+Gonzaga,21,Michigan State,35,100,0
+Gonzaga,21,Mississippi State,36,100,0
+Gonzaga,21,Montana State,37,100,0
+Gonzaga,21,Morehead State,38,100,0
+Gonzaga,21,NC State,39,100,0
+Gonzaga,21,Nebraska,40,100,0
+Gonzaga,21,Nevada,41,100,0
+Gonzaga,21,New Mexico,42,100,0
+Gonzaga,21,North Carolina,43,100,0
+Gonzaga,21,Northwestern,44,100,0
+Gonzaga,21,Oakland,45,100,0
+Gonzaga,21,Oregon,46,100,0
+Gonzaga,21,Purdue,47,0,100
+Gonzaga,21,Saint Mary's (CA),48,100,0
+Gonzaga,21,Saint Peter's,49,100,0
+Gonzaga,21,Samford,50,100,0
+Gonzaga,21,San Diego State,51,100,0
+Gonzaga,21,South Carolina,52,100,0
+Gonzaga,21,South Dakota State,53,100,0
+Gonzaga,21,Stetson,54,98.35000000000001,1.6499999999999915
+Gonzaga,21,TCU,55,100,0
+Gonzaga,21,Tennessee,56,100,0
+Gonzaga,21,Texas,57,100,0
+Gonzaga,21,Texas A&M,58,7.75,92.25
+Gonzaga,21,Texas Tech,59,100,0
+Gonzaga,21,UAB,60,74.67,25.33
+Gonzaga,21,Utah State,61,100,0
+Gonzaga,21,Vermont,62,100,0
+Gonzaga,21,Virginia,63,100,0
+Gonzaga,21,Wagner,64,100,0
+Gonzaga,21,Washington State,65,100,0
+Gonzaga,21,Western Kentucky,66,100,0
+Gonzaga,21,Wisconsin,67,100,0
+Gonzaga,21,Yale,68,100,0
+Grambling,22,Grand Canyon,23,0,100
+Grambling,22,Houston,24,0.02,99.98
+Grambling,22,Howard,25,0,100
+Grambling,22,Illinois,26,0,100
+Grambling,22,Iowa State,27,75.88000000000001,24.11999999999999
+Grambling,22,James Madison,28,0,100
+Grambling,22,Kansas,29,14.6,85.4
+Grambling,22,Kentucky,30,0,100
+Grambling,22,Long Beach State,31,0,100
+Grambling,22,Longwood,32,0,100
+Grambling,22,Marquette,33,0.2,99.8
+Grambling,22,McNeese State,34,0,100
+Grambling,22,Michigan State,35,0.45999999999999996,99.54
+Grambling,22,Mississippi State,36,0,100
+Grambling,22,Montana State,37,99.81,0.18999999999999773
+Grambling,22,Morehead State,38,0,100
+Grambling,22,NC State,39,0.01,99.99
+Grambling,22,Nebraska,40,0,100
+Grambling,22,Nevada,41,0.05,99.95
+Grambling,22,New Mexico,42,0,100
+Grambling,22,North Carolina,43,0,100
+Grambling,22,Northwestern,44,0.02,99.98
+Grambling,22,Oakland,45,0,100
+Grambling,22,Oregon,46,0,100
+Grambling,22,Purdue,47,0,100
+Grambling,22,Saint Mary's (CA),48,0,100
+Grambling,22,Saint Peter's,49,100,0
+Grambling,22,Samford,50,0,100
+Grambling,22,San Diego State,51,0,100
+Grambling,22,South Carolina,52,0,100
+Grambling,22,South Dakota State,53,0.79,99.21
+Grambling,22,Stetson,54,0,100
+Grambling,22,TCU,55,0,100
+Grambling,22,Tennessee,56,0.02,99.98
+Grambling,22,Texas,57,0,100
+Grambling,22,Texas A&M,58,0,100
+Grambling,22,Texas Tech,59,0,100
+Grambling,22,UAB,60,0,100
+Grambling,22,Utah State,61,0,100
+Grambling,22,Vermont,62,100,0
+Grambling,22,Virginia,63,100,0
+Grambling,22,Wagner,64,100,0
+Grambling,22,Washington State,65,0,100
+Grambling,22,Western Kentucky,66,76.75999999999999,23.24000000000001
+Grambling,22,Wisconsin,67,0,100
+Grambling,22,Yale,68,0.04,99.96
+Grand Canyon,23,Houston,24,99.96000000000001,0.04
+Grand Canyon,23,Howard,25,0,100
+Grand Canyon,23,Illinois,26,0,100
+Grand Canyon,23,Iowa State,27,100,0
+Grand Canyon,23,James Madison,28,84.97,15.030000000000001
+Grand Canyon,23,Kansas,29,100,0
+Grand Canyon,23,Kentucky,30,0,100
+Grand Canyon,23,Long Beach State,31,79.08,20.92
+Grand Canyon,23,Longwood,32,0.07,99.93
+Grand Canyon,23,Marquette,33,100,0
+Grand Canyon,23,McNeese State,34,4.2299999999999995,95.77
+Grand Canyon,23,Michigan State,35,100,0
+Grand Canyon,23,Mississippi State,36,6.05,93.95
+Grand Canyon,23,Montana State,37,100,0
+Grand Canyon,23,Morehead State,38,0.03,99.97
+Grand Canyon,23,NC State,39,99.97,0.030000000000001137
+Grand Canyon,23,Nebraska,40,99.81,0.18999999999999773
+Grand Canyon,23,Nevada,41,99.98,0.02
+Grand Canyon,23,New Mexico,42,99.53,0.46999999999999886
+Grand Canyon,23,North Carolina,43,10.36,89.64
+Grand Canyon,23,Northwestern,44,99.98,0.02
+Grand Canyon,23,Oakland,45,59.870000000000005,40.129999999999995
+Grand Canyon,23,Oregon,46,89.74,10.260000000000005
+Grand Canyon,23,Purdue,47,0,100
+Grand Canyon,23,Saint Mary's (CA),48,0,100
+Grand Canyon,23,Saint Peter's,49,100,0
+Grand Canyon,23,Samford,50,0.07,99.93
+Grand Canyon,23,San Diego State,51,97.2,2.799999999999997
+Grand Canyon,23,South Carolina,52,8.91,91.09
+Grand Canyon,23,South Dakota State,53,100,0
+Grand Canyon,23,Stetson,54,0,100
+Grand Canyon,23,TCU,55,0.01,99.99
+Grand Canyon,23,Tennessee,56,99.97,0.030000000000001137
+Grand Canyon,23,Texas,57,88.42,11.579999999999998
+Grand Canyon,23,Texas A&M,58,0,100
+Grand Canyon,23,Texas Tech,59,1.26,98.74
+Grand Canyon,23,UAB,60,0,100
+Grand Canyon,23,Utah State,61,25.45,74.55
+Grand Canyon,23,Vermont,62,100,0
+Grand Canyon,23,Virginia,63,100,0
+Grand Canyon,23,Wagner,64,100,0
+Grand Canyon,23,Washington State,65,67.04,32.959999999999994
+Grand Canyon,23,Western Kentucky,66,100,0
+Grand Canyon,23,Wisconsin,67,0.25,99.75
+Grand Canyon,23,Yale,68,99.97,0.030000000000001137
+Houston,24,Howard,25,0,100
+Houston,24,Illinois,26,0,100
+Houston,24,Iowa State,27,100,0
+Houston,24,James Madison,28,1.32,98.68
+Houston,24,Kansas,29,99.65,0.3499999999999943
+Houston,24,Kentucky,30,0,100
+Houston,24,Long Beach State,31,1.11,98.89
+Houston,24,Longwood,32,0,100
+Houston,24,Marquette,33,78.33,21.67
+Houston,24,McNeese State,34,0,100
+Houston,24,Michigan State,35,89.37,10.629999999999995
+Houston,24,Mississippi State,36,0,100
+Houston,24,Montana State,37,100,0
+Houston,24,Morehead State,38,0,100
+Houston,24,NC State,39,63.49,36.51
+Houston,24,Nebraska,40,37.830000000000005,62.169999999999995
+Houston,24,Nevada,41,62.86000000000001,37.13999999999999
+Houston,24,New Mexico,42,23.61,76.39
+Houston,24,North Carolina,43,0,100
+Houston,24,Northwestern,44,62.09,37.91
+Houston,24,Oakland,45,0.21,99.79
+Houston,24,Oregon,46,2.65,97.35
+Houston,24,Purdue,47,0,100
+Houston,24,Saint Mary's (CA),48,0,100
+Houston,24,Saint Peter's,49,100,0
+Houston,24,Samford,50,0,100
+Houston,24,San Diego State,51,11.690000000000001,88.31
+Houston,24,South Carolina,52,0,100
+Houston,24,South Dakota State,53,87.33999999999999,12.66000000000001
+Houston,24,Stetson,54,0,100
+Houston,24,TCU,55,0,100
+Houston,24,Tennessee,56,51.59,48.41
+Houston,24,Texas,57,2.17,97.83
+Houston,24,Texas A&M,58,0,100
+Houston,24,Texas Tech,59,0,100
+Houston,24,UAB,60,0,100
+Houston,24,Utah State,61,0,100
+Houston,24,Vermont,62,100,0
+Houston,24,Virginia,63,100,0
+Houston,24,Wagner,64,100,0
+Houston,24,Washington State,65,0.33,99.67
+Houston,24,Western Kentucky,66,100,0
+Houston,24,Wisconsin,67,0,100
+Houston,24,Yale,68,65.68,34.31999999999999
+Howard,25,Illinois,26,0,100
+Howard,25,Iowa State,27,100,0
+Howard,25,James Madison,28,100,0
+Howard,25,Kansas,29,100,0
+Howard,25,Kentucky,30,15.909999999999998,84.09
+Howard,25,Long Beach State,31,100,0
+Howard,25,Longwood,32,97.72999999999999,2.2700000000000102
+Howard,25,Marquette,33,100,0
+Howard,25,McNeese State,34,100,0
+Howard,25,Michigan State,35,100,0
+Howard,25,Mississippi State,36,100,0
+Howard,25,Montana State,37,100,0
+Howard,25,Morehead State,38,98.13,1.8700000000000045
+Howard,25,NC State,39,100,0
+Howard,25,Nebraska,40,100,0
+Howard,25,Nevada,41,100,0
+Howard,25,New Mexico,42,100,0
+Howard,25,North Carolina,43,100,0
+Howard,25,Northwestern,44,100,0
+Howard,25,Oakland,45,100,0
+Howard,25,Oregon,46,100,0
+Howard,25,Purdue,47,0,100
+Howard,25,Saint Mary's (CA),48,98.89,1.1099999999999994
+Howard,25,Saint Peter's,49,100,0
+Howard,25,Samford,50,99.67,0.3299999999999983
+Howard,25,San Diego State,51,100,0
+Howard,25,South Carolina,52,100,0
+Howard,25,South Dakota State,53,100,0
+Howard,25,Stetson,54,26.57,73.43
+Howard,25,TCU,55,96.48,3.519999999999996
+Howard,25,Tennessee,56,100,0
+Howard,25,Texas,57,100,0
+Howard,25,Texas A&M,58,0,100
+Howard,25,Texas Tech,59,99.97,0.030000000000001137
+Howard,25,UAB,60,1.59,98.41
+Howard,25,Utah State,61,100,0
+Howard,25,Vermont,62,100,0
+Howard,25,Virginia,63,100,0
+Howard,25,Wagner,64,100,0
+Howard,25,Washington State,65,100,0
+Howard,25,Western Kentucky,66,100,0
+Howard,25,Wisconsin,67,99.63,0.37000000000000455
+Howard,25,Yale,68,100,0
+Illinois,26,Iowa State,27,100,0
+Illinois,26,James Madison,28,100,0
+Illinois,26,Kansas,29,100,0
+Illinois,26,Kentucky,30,99.99,0.010000000000005116
+Illinois,26,Long Beach State,31,100,0
+Illinois,26,Longwood,32,100,0
+Illinois,26,Marquette,33,100,0
+Illinois,26,McNeese State,34,100,0
+Illinois,26,Michigan State,35,100,0
+Illinois,26,Mississippi State,36,100,0
+Illinois,26,Montana State,37,100,0
+Illinois,26,Morehead State,38,100,0
+Illinois,26,NC State,39,100,0
+Illinois,26,Nebraska,40,100,0
+Illinois,26,Nevada,41,100,0
+Illinois,26,New Mexico,42,100,0
+Illinois,26,North Carolina,43,100,0
+Illinois,26,Northwestern,44,100,0
+Illinois,26,Oakland,45,100,0
+Illinois,26,Oregon,46,100,0
+Illinois,26,Purdue,47,4.82,95.18
+Illinois,26,Saint Mary's (CA),48,100,0
+Illinois,26,Saint Peter's,49,100,0
+Illinois,26,Samford,50,100,0
+Illinois,26,San Diego State,51,100,0
+Illinois,26,South Carolina,52,100,0
+Illinois,26,South Dakota State,53,100,0
+Illinois,26,Stetson,54,100,0
+Illinois,26,TCU,55,100,0
+Illinois,26,Tennessee,56,100,0
+Illinois,26,Texas,57,100,0
+Illinois,26,Texas A&M,58,94.28999999999999,5.710000000000008
+Illinois,26,Texas Tech,59,100,0
+Illinois,26,UAB,60,100,0
+Illinois,26,Utah State,61,100,0
+Illinois,26,Vermont,62,100,0
+Illinois,26,Virginia,63,100,0
+Illinois,26,Wagner,64,100,0
+Illinois,26,Washington State,65,100,0
+Illinois,26,Western Kentucky,66,100,0
+Illinois,26,Wisconsin,67,100,0
+Illinois,26,Yale,68,100,0
+Iowa State,27,James Madison,28,0,100
+Iowa State,27,Kansas,29,3.91,96.09
+Iowa State,27,Kentucky,30,0,100
+Iowa State,27,Long Beach State,31,0,100
+Iowa State,27,Longwood,32,0,100
+Iowa State,27,Marquette,33,0.01,99.99
+Iowa State,27,McNeese State,34,0,100
+Iowa State,27,Michigan State,35,0.06,99.94
+Iowa State,27,Mississippi State,36,0,100
+Iowa State,27,Montana State,37,98.87,1.1299999999999955
+Iowa State,27,Morehead State,38,0,100
+Iowa State,27,NC State,39,0,100
+Iowa State,27,Nebraska,40,0,100
+Iowa State,27,Nevada,41,0,100
+Iowa State,27,New Mexico,42,0,100
+Iowa State,27,North Carolina,43,0,100
+Iowa State,27,Northwestern,44,0.01,99.99
+Iowa State,27,Oakland,45,0,100
+Iowa State,27,Oregon,46,0,100
+Iowa State,27,Purdue,47,0,100
+Iowa State,27,Saint Mary's (CA),48,0,100
+Iowa State,27,Saint Peter's,49,99.9,0.1
+Iowa State,27,Samford,50,0,100
+Iowa State,27,San Diego State,51,0,100
+Iowa State,27,South Carolina,52,0,100
+Iowa State,27,South Dakota State,53,0.16999999999999998,99.83
+Iowa State,27,Stetson,54,0,100
+Iowa State,27,TCU,55,0,100
+Iowa State,27,Tennessee,56,0,100
+Iowa State,27,Texas,57,0,100
+Iowa State,27,Texas A&M,58,0,100
+Iowa State,27,Texas Tech,59,0,100
+Iowa State,27,UAB,60,0,100
+Iowa State,27,Utah State,61,0,100
+Iowa State,27,Vermont,62,100,0
+Iowa State,27,Virginia,63,100,0
+Iowa State,27,Wagner,64,100,0
+Iowa State,27,Washington State,65,0,100
+Iowa State,27,Western Kentucky,66,46.11,53.89
+Iowa State,27,Wisconsin,67,0,100
+Iowa State,27,Yale,68,0,100
+James Madison,28,Kansas,29,100,0
+James Madison,28,Kentucky,30,0,100
+James Madison,28,Long Beach State,31,45.550000000000004,54.449999999999996
+James Madison,28,Longwood,32,0,100
+James Madison,28,Marquette,33,99.83,0.1700000000000017
+James Madison,28,McNeese State,34,0.4,99.6
+James Madison,28,Michigan State,35,100,0
+James Madison,28,Mississippi State,36,0.64,99.36
+James Madison,28,Montana State,37,100,0
+James Madison,28,Morehead State,38,0,100
+James Madison,28,NC State,39,99.47,0.5300000000000011
+James Madison,28,Nebraska,40,97.54,2.4599999999999937
+James Madison,28,Nevada,41,99.48,0.52
+James Madison,28,New Mexico,42,94.31,5.689999999999998
+James Madison,28,North Carolina,43,1.15,98.85
+James Madison,28,Northwestern,44,99.57000000000001,0.4299999999999926
+James Madison,28,Oakland,45,23.51,76.49
+James Madison,28,Oregon,46,62.4,37.6
+James Madison,28,Purdue,47,0,100
+James Madison,28,Saint Mary's (CA),48,0,100
+James Madison,28,Saint Peter's,49,100,0
+James Madison,28,Samford,50,0,100
+James Madison,28,San Diego State,51,84.24000000000001,15.759999999999991
+James Madison,28,South Carolina,52,1.02,98.98
+James Madison,28,South Dakota State,53,99.99,0.010000000000005116
+James Madison,28,Stetson,54,0,100
+James Madison,28,TCU,55,0,100
+James Madison,28,Tennessee,56,99.03,0.9699999999999989
+James Madison,28,Texas,57,58.78,41.22
+James Madison,28,Texas A&M,58,0,100
+James Madison,28,Texas Tech,59,0.05,99.95
+James Madison,28,UAB,60,0,100
+James Madison,28,Utah State,61,4.54,95.46
+James Madison,28,Vermont,62,100,0
+James Madison,28,Virginia,63,100,0
+James Madison,28,Wagner,64,100,0
+James Madison,28,Washington State,65,28.62,71.38
+James Madison,28,Western Kentucky,66,100,0
+James Madison,28,Wisconsin,67,0.01,99.99
+James Madison,28,Yale,68,99.61,0.39000000000000057
+Kansas,29,Kentucky,30,0,100
+Kansas,29,Long Beach State,31,0,100
+Kansas,29,Longwood,32,0,100
+Kansas,29,Marquette,33,3.19,96.81
+Kansas,29,McNeese State,34,0,100
+Kansas,29,Michigan State,35,7.7,92.3
+Kansas,29,Mississippi State,36,0,100
+Kansas,29,Montana State,37,100,0
+Kansas,29,Morehead State,38,0,100
+Kansas,29,NC State,39,0.84,99.16
+Kansas,29,Nebraska,40,0.16999999999999998,99.83
+Kansas,29,Nevada,41,1.37,98.63
+Kansas,29,New Mexico,42,0.01,99.99
+Kansas,29,North Carolina,43,0,100
+Kansas,29,Northwestern,44,0.83,99.17
+Kansas,29,Oakland,45,0,100
+Kansas,29,Oregon,46,0,100
+Kansas,29,Purdue,47,0,100
+Kansas,29,Saint Mary's (CA),48,0,100
+Kansas,29,Saint Peter's,49,100,0
+Kansas,29,Samford,50,0,100
+Kansas,29,San Diego State,51,0.01,99.99
+Kansas,29,South Carolina,52,0,100
+Kansas,29,South Dakota State,53,7.920000000000001,92.08
+Kansas,29,Stetson,54,0,100
+Kansas,29,TCU,55,0,100
+Kansas,29,Tennessee,56,0.4,99.6
+Kansas,29,Texas,57,0,100
+Kansas,29,Texas A&M,58,0,100
+Kansas,29,Texas Tech,59,0,100
+Kansas,29,UAB,60,0,100
+Kansas,29,Utah State,61,0,100
+Kansas,29,Vermont,62,100,0
+Kansas,29,Virginia,63,100,0
+Kansas,29,Wagner,64,100,0
+Kansas,29,Washington State,65,0,100
+Kansas,29,Western Kentucky,66,96.1,3.9000000000000057
+Kansas,29,Wisconsin,67,0,100
+Kansas,29,Yale,68,1.1199999999999999,98.88
+Kentucky,30,Long Beach State,31,100,0
+Kentucky,30,Longwood,32,99.96000000000001,0.04
+Kentucky,30,Marquette,33,100,0
+Kentucky,30,McNeese State,34,100,0
+Kentucky,30,Michigan State,35,100,0
+Kentucky,30,Mississippi State,36,100,0
+Kentucky,30,Montana State,37,100,0
+Kentucky,30,Morehead State,38,99.91,0.09
+Kentucky,30,NC State,39,100,0
+Kentucky,30,Nebraska,40,100,0
+Kentucky,30,Nevada,41,100,0
+Kentucky,30,New Mexico,42,100,0
+Kentucky,30,North Carolina,43,100,0
+Kentucky,30,Northwestern,44,100,0
+Kentucky,30,Oakland,45,100,0
+Kentucky,30,Oregon,46,100,0
+Kentucky,30,Purdue,47,0,100
+Kentucky,30,Saint Mary's (CA),48,99.99,0.010000000000005116
+Kentucky,30,Saint Peter's,49,100,0
+Kentucky,30,Samford,50,99.99,0.010000000000005116
+Kentucky,30,San Diego State,51,100,0
+Kentucky,30,South Carolina,52,100,0
+Kentucky,30,South Dakota State,53,100,0
+Kentucky,30,Stetson,54,70.06,29.939999999999998
+Kentucky,30,TCU,55,99.92,0.08
+Kentucky,30,Tennessee,56,100,0
+Kentucky,30,Texas,57,100,0
+Kentucky,30,Texas A&M,58,0.1,99.9
+Kentucky,30,Texas Tech,59,100,0
+Kentucky,30,UAB,60,16.88,83.12
+Kentucky,30,Utah State,61,100,0
+Kentucky,30,Vermont,62,100,0
+Kentucky,30,Virginia,63,100,0
+Kentucky,30,Wagner,64,100,0
+Kentucky,30,Washington State,65,100,0
+Kentucky,30,Western Kentucky,66,100,0
+Kentucky,30,Wisconsin,67,100,0
+Kentucky,30,Yale,68,100,0
+Long Beach State,31,Longwood,32,0,100
+Long Beach State,31,Marquette,33,99.94,0.060000000000002274
+Long Beach State,31,McNeese State,34,0.35000000000000003,99.65
+Long Beach State,31,Michigan State,35,99.98,0.02
+Long Beach State,31,Mississippi State,36,1.1900000000000002,98.81
+Long Beach State,31,Montana State,37,100,0
+Long Beach State,31,Morehead State,38,0,100
+Long Beach State,31,NC State,39,99.45,0.5499999999999972
+Long Beach State,31,Nebraska,40,98.27,1.730000000000004
+Long Beach State,31,Nevada,41,99.72,0.28000000000000114
+Long Beach State,31,New Mexico,42,94.89999999999999,5.1000000000000085
+Long Beach State,31,North Carolina,43,1.39,98.61
+Long Beach State,31,Northwestern,44,99.52,0.48
+Long Beach State,31,Oakland,45,27.33,72.67
+Long Beach State,31,Oregon,46,64.14999999999999,35.85000000000001
+Long Beach State,31,Purdue,47,0,100
+Long Beach State,31,Saint Mary's (CA),48,0,100
+Long Beach State,31,Saint Peter's,49,100,0
+Long Beach State,31,Samford,50,0,100
+Long Beach State,31,San Diego State,51,86.75,13.25
+Long Beach State,31,South Carolina,52,1.22,98.78
+Long Beach State,31,South Dakota State,53,100,0
+Long Beach State,31,Stetson,54,0,100
+Long Beach State,31,TCU,55,0,100
+Long Beach State,31,Tennessee,56,99.24,0.7600000000000051
+Long Beach State,31,Texas,57,65.47,34.53
+Long Beach State,31,Texas A&M,58,0,100
+Long Beach State,31,Texas Tech,59,0.09,99.91
+Long Beach State,31,UAB,60,0,100
+Long Beach State,31,Utah State,61,6.54,93.46
+Long Beach State,31,Vermont,62,100,0
+Long Beach State,31,Virginia,63,100,0
+Long Beach State,31,Wagner,64,100,0
+Long Beach State,31,Washington State,65,34.31,65.69
+Long Beach State,31,Western Kentucky,66,100,0
+Long Beach State,31,Wisconsin,67,0.01,99.99
+Long Beach State,31,Yale,68,99.68,0.3199999999999932
+Longwood,32,Marquette,33,100,0
+Longwood,32,McNeese State,34,96.28,3.719999999999999
+Longwood,32,Michigan State,35,100,0
+Longwood,32,Mississippi State,36,97.92,2.0799999999999983
+Longwood,32,Montana State,37,100,0
+Longwood,32,Morehead State,38,49.230000000000004,50.769999999999996
+Longwood,32,NC State,39,100,0
+Longwood,32,Nebraska,40,100,0
+Longwood,32,Nevada,41,100,0
+Longwood,32,New Mexico,42,100,0
+Longwood,32,North Carolina,43,98.92999999999999,1.0700000000000074
+Longwood,32,Northwestern,44,100,0
+Longwood,32,Oakland,45,99.99,0.010000000000005116
+Longwood,32,Oregon,46,100,0
+Longwood,32,Purdue,47,0,100
+Longwood,32,Saint Mary's (CA),48,58.15,41.85
+Longwood,32,Saint Peter's,49,100,0
+Longwood,32,Samford,50,68.01,31.989999999999995
+Longwood,32,San Diego State,51,100,0
+Longwood,32,South Carolina,52,98.22,1.7800000000000011
+Longwood,32,South Dakota State,53,100,0
+Longwood,32,Stetson,54,0.45999999999999996,99.54
+Longwood,32,TCU,55,41.949999999999996,58.050000000000004
+Longwood,32,Tennessee,56,100,0
+Longwood,32,Texas,57,100,0
+Longwood,32,Texas A&M,58,0,100
+Longwood,32,Texas Tech,59,89.27000000000001,10.72999999999999
+Longwood,32,UAB,60,0,100
+Longwood,32,Utah State,61,99.83,0.1700000000000017
+Longwood,32,Vermont,62,100,0
+Longwood,32,Virginia,63,100,0
+Longwood,32,Wagner,64,100,0
+Longwood,32,Washington State,65,100,0
+Longwood,32,Western Kentucky,66,100,0
+Longwood,32,Wisconsin,67,75.46000000000001,24.539999999999992
+Longwood,32,Yale,68,100,0
+Marquette,33,McNeese State,34,0,100
+Marquette,33,Michigan State,35,67.83,32.17
+Marquette,33,Mississippi State,36,0,100
+Marquette,33,Montana State,37,100,0
+Marquette,33,Morehead State,38,0,100
+Marquette,33,NC State,39,30.509999999999998,69.49000000000001
+Marquette,33,Nebraska,40,13.33,86.67
+Marquette,33,Nevada,41,33.129999999999995,66.87
+Marquette,33,New Mexico,42,6.32,93.68
+Marquette,33,North Carolina,43,0,100
+Marquette,33,Northwestern,44,31.47,68.53
+Marquette,33,Oakland,45,0.02,99.98
+Marquette,33,Oregon,46,0.27,99.73
+Marquette,33,Purdue,47,0,100
+Marquette,33,Saint Mary's (CA),48,0,100
+Marquette,33,Saint Peter's,49,100,0
+Marquette,33,Samford,50,0,100
+Marquette,33,San Diego State,51,2.06,97.94
+Marquette,33,South Carolina,52,0,100
+Marquette,33,South Dakota State,53,65.66,34.34
+Marquette,33,Stetson,54,0,100
+Marquette,33,TCU,55,0,100
+Marquette,33,Tennessee,56,21.560000000000002,78.44
+Marquette,33,Texas,57,0.22999999999999998,99.77
+Marquette,33,Texas A&M,58,0,100
+Marquette,33,Texas Tech,59,0,100
+Marquette,33,UAB,60,0,100
+Marquette,33,Utah State,61,0,100
+Marquette,33,Vermont,62,100,0
+Marquette,33,Virginia,63,100,0
+Marquette,33,Wagner,64,100,0
+Marquette,33,Washington State,65,0.01,99.99
+Marquette,33,Western Kentucky,66,99.97,0.030000000000001137
+Marquette,33,Wisconsin,67,0,100
+Marquette,33,Yale,68,34.27,65.72999999999999
+McNeese State,34,Michigan State,35,100,0
+McNeese State,34,Mississippi State,36,59.39,40.61
+McNeese State,34,Montana State,37,100,0
+McNeese State,34,Morehead State,38,2.8000000000000003,97.2
+McNeese State,34,NC State,39,100,0
+McNeese State,34,Nebraska,40,100,0
+McNeese State,34,Nevada,41,100,0
+McNeese State,34,New Mexico,42,100,0
+McNeese State,34,North Carolina,43,71.69,28.310000000000002
+McNeese State,34,Northwestern,44,100,0
+McNeese State,34,Oakland,45,98.11999999999999,1.8800000000000097
+McNeese State,34,Oregon,46,99.9,0.1
+McNeese State,34,Purdue,47,0,100
+McNeese State,34,Saint Mary's (CA),48,5.779999999999999,94.22
+McNeese State,34,Saint Peter's,49,100,0
+McNeese State,34,Samford,50,5.83,94.17
+McNeese State,34,San Diego State,51,100,0
+McNeese State,34,South Carolina,52,67.27,32.730000000000004
+McNeese State,34,South Dakota State,53,100,0
+McNeese State,34,Stetson,54,0,100
+McNeese State,34,TCU,55,1.7999999999999998,98.2
+McNeese State,34,Tennessee,56,100,0
+McNeese State,34,Texas,57,99.9,0.1
+McNeese State,34,Texas A&M,58,0,100
+McNeese State,34,Texas Tech,59,30.84,69.16
+McNeese State,34,UAB,60,0,100
+McNeese State,34,Utah State,61,86.47,13.530000000000001
+McNeese State,34,Vermont,62,100,0
+McNeese State,34,Virginia,63,100,0
+McNeese State,34,Wagner,64,100,0
+McNeese State,34,Washington State,65,98.69,1.3100000000000023
+McNeese State,34,Western Kentucky,66,100,0
+McNeese State,34,Wisconsin,67,15.14,84.86
+McNeese State,34,Yale,68,100,0
+Michigan State,35,Mississippi State,36,0,100
+Michigan State,35,Montana State,37,100,0
+Michigan State,35,Morehead State,38,0,100
+Michigan State,35,NC State,39,17.080000000000002,82.92
+Michigan State,35,Nebraska,40,6.279999999999999,93.72
+Michigan State,35,Nevada,41,19.43,80.57
+Michigan State,35,New Mexico,42,2.31,97.69
+Michigan State,35,North Carolina,43,0,100
+Michigan State,35,Northwestern,44,16.29,83.71000000000001
+Michigan State,35,Oakland,45,0,100
+Michigan State,35,Oregon,46,0.1,99.9
+Michigan State,35,Purdue,47,0,100
+Michigan State,35,Saint Mary's (CA),48,0,100
+Michigan State,35,Saint Peter's,49,100,0
+Michigan State,35,Samford,50,0,100
+Michigan State,35,San Diego State,51,0.8,99.2
+Michigan State,35,South Carolina,52,0,100
+Michigan State,35,South Dakota State,53,49.059999999999995,50.940000000000005
+Michigan State,35,Stetson,54,0,100
+Michigan State,35,TCU,55,0,100
+Michigan State,35,Tennessee,56,11.09,88.91
+Michigan State,35,Texas,57,0.01,99.99
+Michigan State,35,Texas A&M,58,0,100
+Michigan State,35,Texas Tech,59,0,100
+Michigan State,35,UAB,60,0,100
+Michigan State,35,Utah State,61,0,100
+Michigan State,35,Vermont,62,100,0
+Michigan State,35,Virginia,63,100,0
+Michigan State,35,Wagner,64,100,0
+Michigan State,35,Washington State,65,0,100
+Michigan State,35,Western Kentucky,66,99.98,0.02
+Michigan State,35,Wisconsin,67,0,100
+Michigan State,35,Yale,68,19.6,80.4
+Mississippi State,36,Montana State,37,100,0
+Mississippi State,36,Morehead State,38,1.78,98.22
+Mississippi State,36,NC State,39,100,0
+Mississippi State,36,Nebraska,40,100,0
+Mississippi State,36,Nevada,41,100,0
+Mississippi State,36,New Mexico,42,99.99,0.010000000000005116
+Mississippi State,36,North Carolina,43,58.17,41.83
+Mississippi State,36,Northwestern,44,100,0
+Mississippi State,36,Oakland,45,95.69,4.310000000000002
+Mississippi State,36,Oregon,46,99.7,0.29999999999999716
+Mississippi State,36,Purdue,47,0,100
+Mississippi State,36,Saint Mary's (CA),48,3.2,96.8
+Mississippi State,36,Saint Peter's,49,100,0
+Mississippi State,36,Samford,50,4.81,95.19
+Mississippi State,36,San Diego State,51,99.96000000000001,0.04
+Mississippi State,36,South Carolina,52,51.93,48.07
+Mississippi State,36,South Dakota State,53,100,0
+Mississippi State,36,Stetson,54,0,100
+Mississippi State,36,TCU,55,0.97,99.03
+Mississippi State,36,Tennessee,56,100,0
+Mississippi State,36,Texas,57,99.53999999999999,0.46000000000000796
+Mississippi State,36,Texas A&M,58,0,100
+Mississippi State,36,Texas Tech,59,21.22,78.78
+Mississippi State,36,UAB,60,0,100
+Mississippi State,36,Utah State,61,80.24,19.760000000000005
+Mississippi State,36,Vermont,62,100,0
+Mississippi State,36,Virginia,63,100,0
+Mississippi State,36,Wagner,64,100,0
+Mississippi State,36,Washington State,65,96.66,3.3400000000000034
+Mississippi State,36,Western Kentucky,66,100,0
+Mississippi State,36,Wisconsin,67,8.04,91.96000000000001
+Mississippi State,36,Yale,68,100,0
+Montana State,37,Morehead State,38,0,100
+Montana State,37,NC State,39,0,100
+Montana State,37,Nebraska,40,0,100
+Montana State,37,Nevada,41,0,100
+Montana State,37,New Mexico,42,0,100
+Montana State,37,North Carolina,43,0,100
+Montana State,37,Northwestern,44,0,100
+Montana State,37,Oakland,45,0,100
+Montana State,37,Oregon,46,0,100
+Montana State,37,Purdue,47,0,100
+Montana State,37,Saint Mary's (CA),48,0,100
+Montana State,37,Saint Peter's,49,80.10000000000001,19.89999999999999
+Montana State,37,Samford,50,0,100
+Montana State,37,San Diego State,51,0,100
+Montana State,37,South Carolina,52,0,100
+Montana State,37,South Dakota State,53,0,100
+Montana State,37,Stetson,54,0,100
+Montana State,37,TCU,55,0,100
+Montana State,37,Tennessee,56,0,100
+Montana State,37,Texas,57,0,100
+Montana State,37,Texas A&M,58,0,100
+Montana State,37,Texas Tech,59,0,100
+Montana State,37,UAB,60,0,100
+Montana State,37,Utah State,61,0,100
+Montana State,37,Vermont,62,99.98,0.02
+Montana State,37,Virginia,63,100,0
+Montana State,37,Wagner,64,99.68,0.3199999999999932
+Montana State,37,Washington State,65,0,100
+Montana State,37,Western Kentucky,66,0.86,99.14
+Montana State,37,Wisconsin,67,0,100
+Montana State,37,Yale,68,0,100
+Morehead State,38,NC State,39,100,0
+Morehead State,38,Nebraska,40,100,0
+Morehead State,38,Nevada,41,100,0
+Morehead State,38,New Mexico,42,100,0
+Morehead State,38,North Carolina,43,99.25,0.75
+Morehead State,38,Northwestern,44,100,0
+Morehead State,38,Oakland,45,100,0
+Morehead State,38,Oregon,46,100,0
+Morehead State,38,Purdue,47,0,100
+Morehead State,38,Saint Mary's (CA),48,61,39
+Morehead State,38,Saint Peter's,49,100,0
+Morehead State,38,Samford,50,68.62,31.379999999999995
+Morehead State,38,San Diego State,51,100,0
+Morehead State,38,South Carolina,52,98.81,1.1899999999999977
+Morehead State,38,South Dakota State,53,100,0
+Morehead State,38,Stetson,54,0.44,99.56
+Morehead State,38,TCU,55,41.089999999999996,58.910000000000004
+Morehead State,38,Tennessee,56,100,0
+Morehead State,38,Texas,57,100,0
+Morehead State,38,Texas A&M,58,0,100
+Morehead State,38,Texas Tech,59,91.09,8.909999999999997
+Morehead State,38,UAB,60,0,100
+Morehead State,38,Utah State,61,99.89,0.10999999999999943
+Morehead State,38,Vermont,62,100,0
+Morehead State,38,Virginia,63,100,0
+Morehead State,38,Wagner,64,100,0
+Morehead State,38,Washington State,65,100,0
+Morehead State,38,Western Kentucky,66,100,0
+Morehead State,38,Wisconsin,67,78.22,21.78
+Morehead State,38,Yale,68,100,0
+NC State,39,Nebraska,40,28.65,71.35
+NC State,39,Nevada,41,51.77,48.23
+NC State,39,New Mexico,42,15.03,84.97
+NC State,39,North Carolina,43,0,100
+NC State,39,Northwestern,44,49.93,50.07
+NC State,39,Oakland,45,0.06,99.94
+NC State,39,Oregon,46,1.25,98.75
+NC State,39,Purdue,47,0,100
+NC State,39,Saint Mary's (CA),48,0,100
+NC State,39,Saint Peter's,49,100,0
+NC State,39,Samford,50,0,100
+NC State,39,San Diego State,51,6.7,93.3
+NC State,39,South Carolina,52,0,100
+NC State,39,South Dakota State,53,82.74000000000001,17.25999999999999
+NC State,39,Stetson,54,0,100
+NC State,39,TCU,55,0,100
+NC State,39,Tennessee,56,38.74,61.26
+NC State,39,Texas,57,1.05,98.95
+NC State,39,Texas A&M,58,0,100
+NC State,39,Texas Tech,59,0,100
+NC State,39,UAB,60,0,100
+NC State,39,Utah State,61,0,100
+NC State,39,Vermont,62,100,0
+NC State,39,Virginia,63,100,0
+NC State,39,Wagner,64,100,0
+NC State,39,Washington State,65,0.13999999999999999,99.86
+NC State,39,Western Kentucky,66,100,0
+NC State,39,Wisconsin,67,0,100
+NC State,39,Yale,68,53.63,46.37
+Nebraska,40,Nevada,41,74.86,25.14
+Nebraska,40,New Mexico,42,33.73,66.27000000000001
+Nebraska,40,North Carolina,43,0.02,99.98
+Nebraska,40,Northwestern,44,73.3,26.700000000000003
+Nebraska,40,Oakland,45,0.33999999999999997,99.66
+Nebraska,40,Oregon,46,5.16,94.84
+Nebraska,40,Purdue,47,0,100
+Nebraska,40,Saint Mary's (CA),48,0,100
+Nebraska,40,Saint Peter's,49,100,0
+Nebraska,40,Samford,50,0,100
+Nebraska,40,San Diego State,51,18.21,81.78999999999999
+Nebraska,40,South Carolina,52,0,100
+Nebraska,40,South Dakota State,53,93.63,6.3700000000000045
+Nebraska,40,Stetson,54,0,100
+Nebraska,40,TCU,55,0,100
+Nebraska,40,Tennessee,56,62.96000000000001,37.03999999999999
+Nebraska,40,Texas,57,4.26,95.74
+Nebraska,40,Texas A&M,58,0,100
+Nebraska,40,Texas Tech,59,0,100
+Nebraska,40,UAB,60,0,100
+Nebraska,40,Utah State,61,0,100
+Nebraska,40,Vermont,62,100,0
+Nebraska,40,Virginia,63,100,0
+Nebraska,40,Wagner,64,100,0
+Nebraska,40,Washington State,65,0.7100000000000001,99.29
+Nebraska,40,Western Kentucky,66,100,0
+Nebraska,40,Wisconsin,67,0,100
+Nebraska,40,Yale,68,75.5,24.5
+Nevada,41,New Mexico,42,14.499999999999998,85.5
+Nevada,41,North Carolina,43,0,100
+Nevada,41,Northwestern,44,48.16,51.84
+Nevada,41,Oakland,45,0.06,99.94
+Nevada,41,Oregon,46,1.1900000000000002,98.81
+Nevada,41,Purdue,47,0,100
+Nevada,41,Saint Mary's (CA),48,0,100
+Nevada,41,Saint Peter's,49,100,0
+Nevada,41,Samford,50,0,100
+Nevada,41,San Diego State,51,5.220000000000001,94.78
+Nevada,41,South Carolina,52,0,100
+Nevada,41,South Dakota State,53,79.05,20.950000000000003
+Nevada,41,Stetson,54,0,100
+Nevada,41,TCU,55,0,100
+Nevada,41,Tennessee,56,37.18,62.82
+Nevada,41,Texas,57,0.84,99.16
+Nevada,41,Texas A&M,58,0,100
+Nevada,41,Texas Tech,59,0,100
+Nevada,41,UAB,60,0,100
+Nevada,41,Utah State,61,0,100
+Nevada,41,Vermont,62,100,0
+Nevada,41,Virginia,63,100,0
+Nevada,41,Wagner,64,100,0
+Nevada,41,Washington State,65,0.09,99.91
+Nevada,41,Western Kentucky,66,100,0
+Nevada,41,Wisconsin,67,0,100
+Nevada,41,Yale,68,50.81,49.19
+New Mexico,42,North Carolina,43,0.01,99.99
+New Mexico,42,Northwestern,44,84.91,15.090000000000003
+New Mexico,42,Oakland,45,1.26,98.74
+New Mexico,42,Oregon,46,10.6,89.4
+New Mexico,42,Purdue,47,0,100
+New Mexico,42,Saint Mary's (CA),48,0,100
+New Mexico,42,Saint Peter's,49,100,0
+New Mexico,42,Samford,50,0,100
+New Mexico,42,San Diego State,51,31.509999999999998,68.49000000000001
+New Mexico,42,South Carolina,52,0.03,99.97
+New Mexico,42,South Dakota State,53,97.64,2.3599999999999994
+New Mexico,42,Stetson,54,0,100
+New Mexico,42,TCU,55,0,100
+New Mexico,42,Tennessee,56,78.13,21.870000000000005
+New Mexico,42,Texas,57,9.39,90.61
+New Mexico,42,Texas A&M,58,0,100
+New Mexico,42,Texas Tech,59,0,100
+New Mexico,42,UAB,60,0,100
+New Mexico,42,Utah State,61,0.02,99.98
+New Mexico,42,Vermont,62,100,0
+New Mexico,42,Virginia,63,100,0
+New Mexico,42,Wagner,64,100,0
+New Mexico,42,Washington State,65,2.03,97.97
+New Mexico,42,Western Kentucky,66,100,0
+New Mexico,42,Wisconsin,67,0,100
+New Mexico,42,Yale,68,87.41,12.590000000000003
+North Carolina,43,Northwestern,44,100,0
+North Carolina,43,Oakland,45,93.72,6.280000000000001
+North Carolina,43,Oregon,46,99.62,0.37999999999999545
+North Carolina,43,Purdue,47,0,100
+North Carolina,43,Saint Mary's (CA),48,1.17,98.83
+North Carolina,43,Saint Peter's,49,100,0
+North Carolina,43,Samford,50,2.01,97.99
+North Carolina,43,San Diego State,51,99.96000000000001,0.04
+North Carolina,43,South Carolina,52,47.14,52.86
+North Carolina,43,South Dakota State,53,100,0
+North Carolina,43,Stetson,54,0,100
+North Carolina,43,TCU,55,0.44999999999999996,99.55
+North Carolina,43,Tennessee,56,100,0
+North Carolina,43,Texas,57,99.42999999999999,0.5700000000000074
+North Carolina,43,Texas A&M,58,0,100
+North Carolina,43,Texas Tech,59,15.36,84.64
+North Carolina,43,UAB,60,0,100
+North Carolina,43,Utah State,61,72.6,27.400000000000006
+North Carolina,43,Vermont,62,100,0
+North Carolina,43,Virginia,63,100,0
+North Carolina,43,Wagner,64,100,0
+North Carolina,43,Washington State,65,95.42,4.579999999999998
+North Carolina,43,Western Kentucky,66,100,0
+North Carolina,43,Wisconsin,67,5.75,94.25
+North Carolina,43,Yale,68,100,0
+Northwestern,44,Oakland,45,0.1,99.9
+Northwestern,44,Oregon,46,1.59,98.41
+Northwestern,44,Purdue,47,0,100
+Northwestern,44,Saint Mary's (CA),48,0,100
+Northwestern,44,Saint Peter's,49,100,0
+Northwestern,44,Samford,50,0,100
+Northwestern,44,San Diego State,51,7.22,92.78
+Northwestern,44,South Carolina,52,0,100
+Northwestern,44,South Dakota State,53,81.57,18.430000000000007
+Northwestern,44,Stetson,54,0,100
+Northwestern,44,TCU,55,0,100
+Northwestern,44,Tennessee,56,39.69,60.31
+Northwestern,44,Texas,57,1.2,98.8
+Northwestern,44,Texas A&M,58,0,100
+Northwestern,44,Texas Tech,59,0,100
+Northwestern,44,UAB,60,0,100
+Northwestern,44,Utah State,61,0,100
+Northwestern,44,Vermont,62,100,0
+Northwestern,44,Virginia,63,100,0
+Northwestern,44,Wagner,64,100,0
+Northwestern,44,Washington State,65,0.13,99.87
+Northwestern,44,Western Kentucky,66,100,0
+Northwestern,44,Wisconsin,67,0,100
+Northwestern,44,Yale,68,54.279999999999994,45.720000000000006
+Oakland,45,Oregon,46,83.71,16.290000000000006
+Oakland,45,Purdue,47,0,100
+Oakland,45,Saint Mary's (CA),48,0,100
+Oakland,45,Saint Peter's,49,100,0
+Oakland,45,Samford,50,0.01,99.99
+Oakland,45,San Diego State,51,95.53,4.469999999999999
+Oakland,45,South Carolina,52,4.97,95.03
+Oakland,45,South Dakota State,53,100,0
+Oakland,45,Stetson,54,0,100
+Oakland,45,TCU,55,0,100
+Oakland,45,Tennessee,56,99.89,0.10999999999999943
+Oakland,45,Texas,57,82.75,17.25
+Oakland,45,Texas A&M,58,0,100
+Oakland,45,Texas Tech,59,0.5599999999999999,99.44
+Oakland,45,UAB,60,0,100
+Oakland,45,Utah State,61,17.71,82.28999999999999
+Oakland,45,Vermont,62,100,0
+Oakland,45,Virginia,63,100,0
+Oakland,45,Wagner,64,100,0
+Oakland,45,Washington State,65,56.18,43.82
+Oakland,45,Western Kentucky,66,100,0
+Oakland,45,Wisconsin,67,0.06,99.94
+Oakland,45,Yale,68,99.91,0.09
+Oregon,46,Purdue,47,0,100
+Oregon,46,Saint Mary's (CA),48,0,100
+Oregon,46,Saint Peter's,49,100,0
+Oregon,46,Samford,50,0,100
+Oregon,46,San Diego State,51,77.53999999999999,22.460000000000008
+Oregon,46,South Carolina,52,0.48,99.52
+Oregon,46,South Dakota State,53,99.95,0.05
+Oregon,46,Stetson,54,0,100
+Oregon,46,TCU,55,0,100
+Oregon,46,Tennessee,56,97.67,2.3299999999999983
+Oregon,46,Texas,57,48.65,51.35
+Oregon,46,Texas A&M,58,0,100
+Oregon,46,Texas Tech,59,0.01,99.99
+Oregon,46,UAB,60,0,100
+Oregon,46,Utah State,61,2.62,97.38
+Oregon,46,Vermont,62,100,0
+Oregon,46,Virginia,63,100,0
+Oregon,46,Wagner,64,100,0
+Oregon,46,Washington State,65,21.34,78.66
+Oregon,46,Western Kentucky,66,100,0
+Oregon,46,Wisconsin,67,0,100
+Oregon,46,Yale,68,99.06,0.9399999999999977
+Purdue,47,Saint Mary's (CA),48,100,0
+Purdue,47,Saint Peter's,49,100,0
+Purdue,47,Samford,50,100,0
+Purdue,47,San Diego State,51,100,0
+Purdue,47,South Carolina,52,100,0
+Purdue,47,South Dakota State,53,100,0
+Purdue,47,Stetson,54,100,0
+Purdue,47,TCU,55,100,0
+Purdue,47,Tennessee,56,100,0
+Purdue,47,Texas,57,100,0
+Purdue,47,Texas A&M,58,99.92999999999999,0.07
+Purdue,47,Texas Tech,59,100,0
+Purdue,47,UAB,60,100,0
+Purdue,47,Utah State,61,100,0
+Purdue,47,Vermont,62,100,0
+Purdue,47,Virginia,63,100,0
+Purdue,47,Wagner,64,100,0
+Purdue,47,Washington State,65,100,0
+Purdue,47,Western Kentucky,66,100,0
+Purdue,47,Wisconsin,67,100,0
+Purdue,47,Yale,68,100,0
+Saint Mary's (CA),48,Saint Peter's,49,100,0
+Saint Mary's (CA),48,Samford,50,56.34,43.66
+Saint Mary's (CA),48,San Diego State,51,100,0
+Saint Mary's (CA),48,South Carolina,52,97.56,2.4399999999999977
+Saint Mary's (CA),48,South Dakota State,53,100,0
+Saint Mary's (CA),48,Stetson,54,0.27,99.73
+Saint Mary's (CA),48,TCU,55,31.77,68.23
+Saint Mary's (CA),48,Tennessee,56,100,0
+Saint Mary's (CA),48,Texas,57,100,0
+Saint Mary's (CA),48,Texas A&M,58,0,100
+Saint Mary's (CA),48,Texas Tech,59,85.41,14.590000000000003
+Saint Mary's (CA),48,UAB,60,0,100
+Saint Mary's (CA),48,Utah State,61,99.57000000000001,0.4299999999999926
+Saint Mary's (CA),48,Vermont,62,100,0
+Saint Mary's (CA),48,Virginia,63,100,0
+Saint Mary's (CA),48,Wagner,64,100,0
+Saint Mary's (CA),48,Washington State,65,99.99,0.010000000000005116
+Saint Mary's (CA),48,Western Kentucky,66,100,0
+Saint Mary's (CA),48,Wisconsin,67,70.26,29.739999999999995
+Saint Mary's (CA),48,Yale,68,100,0
+Saint Peter's,49,Samford,50,0,100
+Saint Peter's,49,San Diego State,51,0,100
+Saint Peter's,49,South Carolina,52,0,100
+Saint Peter's,49,South Dakota State,53,0,100
+Saint Peter's,49,Stetson,54,0,100
+Saint Peter's,49,TCU,55,0,100
+Saint Peter's,49,Tennessee,56,0,100
+Saint Peter's,49,Texas,57,0,100
+Saint Peter's,49,Texas A&M,58,0,100
+Saint Peter's,49,Texas Tech,59,0,100
+Saint Peter's,49,UAB,60,0,100
+Saint Peter's,49,Utah State,61,0,100
+Saint Peter's,49,Vermont,62,99.31,0.6899999999999977
+Saint Peter's,49,Virginia,63,100,0
+Saint Peter's,49,Wagner,64,96.02000000000001,3.9799999999999898
+Saint Peter's,49,Washington State,65,0,100
+Saint Peter's,49,Western Kentucky,66,0.09,99.91
+Saint Peter's,49,Wisconsin,67,0,100
+Saint Peter's,49,Yale,68,0,100
+Samford,50,San Diego State,51,100,0
+Samford,50,South Carolina,52,96.67999999999999,3.3200000000000074
+Samford,50,South Dakota State,53,100,0
+Samford,50,Stetson,54,0.08,99.92
+Samford,50,TCU,55,24.21,75.78999999999999
+Samford,50,Tennessee,56,100,0
+Samford,50,Texas,57,100,0
+Samford,50,Texas A&M,58,0,100
+Samford,50,Texas Tech,59,80.92,19.08
+Samford,50,UAB,60,0,100
+Samford,50,Utah State,61,99.42999999999999,0.5700000000000074
+Samford,50,Vermont,62,100,0
+Samford,50,Virginia,63,100,0
+Samford,50,Wagner,64,100,0
+Samford,50,Washington State,65,100,0
+Samford,50,Western Kentucky,66,100,0
+Samford,50,Wisconsin,67,64.24,35.760000000000005
+Samford,50,Yale,68,100,0
+San Diego State,51,South Carolina,52,0.06,99.94
+San Diego State,51,South Dakota State,53,99.27,0.73
+San Diego State,51,Stetson,54,0,100
+San Diego State,51,TCU,55,0,100
+San Diego State,51,Tennessee,56,89.82,10.180000000000007
+San Diego State,51,Texas,57,23.13,76.87
+San Diego State,51,Texas A&M,58,0,100
+San Diego State,51,Texas Tech,59,0.01,99.99
+San Diego State,51,UAB,60,0,100
+San Diego State,51,Utah State,61,0.5700000000000001,99.43
+San Diego State,51,Vermont,62,100,0
+San Diego State,51,Virginia,63,100,0
+San Diego State,51,Wagner,64,100,0
+San Diego State,51,Washington State,65,6.950000000000001,93.05
+San Diego State,51,Western Kentucky,66,100,0
+San Diego State,51,Wisconsin,67,0,100
+San Diego State,51,Yale,68,94.54,5.459999999999994
+South Carolina,52,South Dakota State,53,100,0
+South Carolina,52,Stetson,54,0,100
+South Carolina,52,TCU,55,0.8500000000000001,99.15
+South Carolina,52,Tennessee,56,100,0
+South Carolina,52,Texas,57,99.44,0.5600000000000023
+South Carolina,52,Texas A&M,58,0,100
+South Carolina,52,Texas Tech,59,18.92,81.08
+South Carolina,52,UAB,60,0,100
+South Carolina,52,Utah State,61,75.86,24.14
+South Carolina,52,Vermont,62,100,0
+South Carolina,52,Virginia,63,100,0
+South Carolina,52,Wagner,64,100,0
+South Carolina,52,Washington State,65,96.12,3.8799999999999955
+South Carolina,52,Western Kentucky,66,100,0
+South Carolina,52,Wisconsin,67,7.28,92.72
+South Carolina,52,Yale,68,100,0
+South Dakota State,53,Stetson,54,0,100
+South Dakota State,53,TCU,55,0,100
+South Dakota State,53,Tennessee,56,11.59,88.41
+South Dakota State,53,Texas,57,0.08,99.92
+South Dakota State,53,Texas A&M,58,0,100
+South Dakota State,53,Texas Tech,59,0,100
+South Dakota State,53,UAB,60,0,100
+South Dakota State,53,Utah State,61,0,100
+South Dakota State,53,Vermont,62,100,0
+South Dakota State,53,Virginia,63,100,0
+South Dakota State,53,Wagner,64,100,0
+South Dakota State,53,Washington State,65,0,100
+South Dakota State,53,Western Kentucky,66,99.94,0.060000000000002274
+South Dakota State,53,Wisconsin,67,0,100
+South Dakota State,53,Yale,68,21.12,78.88
+Stetson,54,TCU,55,99.44,0.5600000000000023
+Stetson,54,Tennessee,56,100,0
+Stetson,54,Texas,57,100,0
+Stetson,54,Texas A&M,58,0.02,99.98
+Stetson,54,Texas Tech,59,99.99,0.010000000000005116
+Stetson,54,UAB,60,7.449999999999999,92.55
+Stetson,54,Utah State,61,100,0
+Stetson,54,Vermont,62,100,0
+Stetson,54,Virginia,63,100,0
+Stetson,54,Wagner,64,100,0
+Stetson,54,Washington State,65,100,0
+Stetson,54,Western Kentucky,66,100,0
+Stetson,54,Wisconsin,67,99.97,0.030000000000001137
+Stetson,54,Yale,68,100,0
+TCU,55,Tennessee,56,100,0
+TCU,55,Texas,57,100,0
+TCU,55,Texas A&M,58,0,100
+TCU,55,Texas Tech,59,93.82000000000001,6.179999999999993
+TCU,55,UAB,60,0.01,99.99
+TCU,55,Utah State,61,99.94,0.060000000000002274
+TCU,55,Vermont,62,100,0
+TCU,55,Virginia,63,100,0
+TCU,55,Wagner,64,100,0
+TCU,55,Washington State,65,100,0
+TCU,55,Western Kentucky,66,100,0
+TCU,55,Wisconsin,67,82.36,17.64
+TCU,55,Yale,68,100,0
+Tennessee,56,Texas,57,1.95,98.05
+Tennessee,56,Texas A&M,58,0,100
+Tennessee,56,Texas Tech,59,0,100
+Tennessee,56,UAB,60,0,100
+Tennessee,56,Utah State,61,0,100
+Tennessee,56,Vermont,62,100,0
+Tennessee,56,Virginia,63,100,0
+Tennessee,56,Wagner,64,100,0
+Tennessee,56,Washington State,65,0.29,99.71
+Tennessee,56,Western Kentucky,66,100,0
+Tennessee,56,Wisconsin,67,0,100
+Tennessee,56,Yale,68,64.27000000000001,35.72999999999999
+Texas,57,Texas A&M,58,0,100
+Texas,57,Texas Tech,59,0.01,99.99
+Texas,57,UAB,60,0,100
+Texas,57,Utah State,61,3.38,96.62
+Texas,57,Vermont,62,100,0
+Texas,57,Virginia,63,100,0
+Texas,57,Wagner,64,100,0
+Texas,57,Washington State,65,21.88,78.12
+Texas,57,Western Kentucky,66,100,0
+Texas,57,Wisconsin,67,0,100
+Texas,57,Yale,68,99.11999999999999,0.8800000000000097
+Texas A&M,58,Texas Tech,59,100,0
+Texas A&M,58,UAB,60,98.98,1.019999999999996
+Texas A&M,58,Utah State,61,100,0
+Texas A&M,58,Vermont,62,100,0
+Texas A&M,58,Virginia,63,100,0
+Texas A&M,58,Wagner,64,100,0
+Texas A&M,58,Washington State,65,100,0
+Texas A&M,58,Western Kentucky,66,100,0
+Texas A&M,58,Wisconsin,67,100,0
+Texas A&M,58,Yale,68,100,0
+Texas Tech,59,UAB,60,0,100
+Texas Tech,59,Utah State,61,94.28999999999999,5.710000000000008
+Texas Tech,59,Vermont,62,100,0
+Texas Tech,59,Virginia,63,100,0
+Texas Tech,59,Wagner,64,100,0
+Texas Tech,59,Washington State,65,99.55000000000001,0.44999999999998863
+Texas Tech,59,Western Kentucky,66,100,0
+Texas Tech,59,Wisconsin,67,28.549999999999997,71.45
+Texas Tech,59,Yale,68,100,0
+UAB,60,Utah State,61,100,0
+UAB,60,Vermont,62,100,0
+UAB,60,Virginia,63,100,0
+UAB,60,Wagner,64,100,0
+UAB,60,Washington State,65,100,0
+UAB,60,Western Kentucky,66,100,0
+UAB,60,Wisconsin,67,100,0
+UAB,60,Yale,68,100,0
+Utah State,61,Vermont,62,100,0
+Utah State,61,Virginia,63,100,0
+Utah State,61,Wagner,64,100,0
+Utah State,61,Washington State,65,85.95,14.049999999999997
+Utah State,61,Western Kentucky,66,100,0
+Utah State,61,Wisconsin,67,1.6,98.4
+Utah State,61,Yale,68,100,0
+Vermont,62,Virginia,63,100,0
+Vermont,62,Wagner,64,31.430000000000003,68.57
+Vermont,62,Washington State,65,0,100
+Vermont,62,Western Kentucky,66,0,100
+Vermont,62,Wisconsin,67,0,100
+Vermont,62,Yale,68,0,100
+Virginia,63,Wagner,64,0,100
+Virginia,63,Washington State,65,0,100
+Virginia,63,Western Kentucky,66,0,100
+Virginia,63,Wisconsin,67,0,100
+Virginia,63,Yale,68,0,100
+Wagner,64,Washington State,65,0,100
+Wagner,64,Western Kentucky,66,0,100
+Wagner,64,Wisconsin,67,0,100
+Wagner,64,Yale,68,0,100
+Washington State,65,Western Kentucky,66,100,0
+Washington State,65,Wisconsin,67,0.08,99.92
+Washington State,65,Yale,68,99.86,0.14000000000000057
+Western Kentucky,66,Wisconsin,67,0,100
+Western Kentucky,66,Yale,68,0,100
+Wisconsin,67,Yale,68,100,0
